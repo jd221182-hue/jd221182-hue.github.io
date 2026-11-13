@@ -1,0 +1,108 @@
+Most auto insurance protects other people from you. Uninsured and underinsured motorist coverage (UM and UIM) protects you from other drivers: the ones with no insurance, and the much larger group carrying only the state minimum. A serious injury can easily cost $150,000 or more. Many state minimums for bodily injury are $25,000 or $30,000 per person.
+
+This guide works through a crash with a minimum-limits driver under four UIM setups, explains the difference between reduction-type and excess-type UIM, sorts which coverage applies in common situations, and looks at what higher limits cost.
+
+![Road Cars](https://jd221182-hue.github.io/media/f/r5-uim-hero.jpg)
+
+*You can't choose who hits you, but you can choose how much protection you carry when they don't have enough insurance.*
+
+## UM vs. UIM
+
+- **Uninsured motorist (UM)** pays when the at-fault driver has no insurance, or in many states when a hit-and-run driver can't be identified.
+- **Underinsured motorist (UIM)** pays when the at-fault driver has insurance but not enough to cover your losses.
+
+Both typically cover medical bills, lost wages, and pain and suffering for you and your passengers. Some states also offer UM property damage coverage for your car.
+
+![Matrix showing uninsured motorist coverage applies when the other driver has no insurance or flees, underinsured motorist coverage applies when their limits are too low, and UM/UIM usually still applies when you're hit as a pedestrian or cyclist](https://jd221182-hue.github.io/media/f/r5-uim-matrix.png)
+
+*UM/UIM often follows you, not the car, so it can apply even when you're walking or cycling.*
+
+## A crash with a minimum-limits driver
+
+Another driver runs a red light. You have $180,000 of medical bills, lost wages, and other damages. Their policy pays its $25,000 per-person limit.
+
+![Stacked bar chart of $180,000 of injuries: with no UIM, $155,000 is uncompensated; with $100,000 reduction-type UIM, $80,000; with $100,000 excess-type UIM, $55,000; and with $250,000 excess-type UIM, the injuries are fully paid](https://jd221182-hue.github.io/media/f/r5-uim-uim.png)
+
+*How the UIM is written matters almost as much as its limit.*
+
+| Your coverage | At-fault driver pays | Your UIM pays | Uncompensated |
+|---|---|---|---|
+| No UIM | $25,000 | $0 | $155,000 |
+| $100,000 UIM, reduction type | $25,000 | $75,000 | $80,000 |
+| $100,000 UIM, excess type | $25,000 | $100,000 | $55,000 |
+| $250,000 UIM, excess type | $25,000 | $155,000 | $0 |
+
+**Reduction (offset) type:** your UIM limit is reduced by what the at-fault driver's insurer paid. A $100,000 limit minus $25,000 means at most $75,000 from your policy.
+
+**Excess (add-on) type:** your UIM pays on top of the at-fault driver's coverage, up to your full limit.
+
+Which type you get is usually determined by state law. Some states allow **stacking**, which combines UM/UIM limits across multiple vehicles on your policy. Ask how your state and policy handle both.
+
+For a full explanation of UM/UIM rules, state differences, and how to choose limits, see this guide to [uninsured and underinsured motorist coverage](https://vistacover.com/guides/uninsured-underinsured-motorist-coverage/).
+
+## What higher limits cost
+
+![Bar chart of illustrative added annual costs for UM/UIM limits: baseline at 25/50, plus $45 at 50/100, plus $85 at 100/300, and plus $140 at 250/500](https://jd221182-hue.github.io/media/f/r5-uim-cost.png)
+
+*Raising UM/UIM is often among the least expensive ways to add meaningful protection.*
+
+Many people match their UM/UIM limits to their own liability limits. That's a reasonable default: if you'd protect a stranger for $250,000, protect yourself and your family for the same amount. Some states require UM/UIM to match liability unless you reject it in writing.
+
+![Taxis Cars](https://jd221182-hue.github.io/media/f/r5-uim-inline.jpg)
+
+*UM/UIM usually covers you and your household members in your car, in someone else's car, and often on foot or on a bike.*
+
+## Things that can reduce or block a claim
+
+- **Rejection forms.** If you signed a form rejecting UM/UIM or choosing lower limits, that usually controls.
+- **Settlement consent.** Many policies require you to notify your insurer before settling with the at-fault driver's insurer. Settling without consent can jeopardize UIM benefits.
+- **Health insurance and other offsets.** Some policies or states reduce UM/UIM payments for amounts paid by other sources.
+- **Hit-and-run rules.** Some states require physical contact with the other car or an independent witness.
+
+## Medical payments and PIP alongside UM/UIM
+
+UM/UIM often pays after a claim is settled, which can take months. Two other coverages pay sooner:
+
+- **Medical payments coverage (MedPay)** pays medical bills for you and your passengers regardless of fault, usually up to a few thousand to tens of thousands of dollars.
+- **Personal injury protection (PIP)** is required in no-fault states and pays medical bills and part of lost wages regardless of fault.
+
+These coverages help with cash flow while the liability and UIM claims are resolved. Check how your policy coordinates them, since some states reduce UIM payments by amounts paid under PIP.
+
+## What happens in a UIM claim
+
+1. The at-fault driver's insurer offers its policy limit.
+2. You notify your own insurer and get its consent before accepting, if your policy requires it.
+3. Your insurer evaluates the full value of your injuries.
+4. If you and your insurer disagree on value, many policies provide for arbitration.
+
+Because your own insurer is now the one paying, it's worth having your medical records, wage documentation, and bills well organized. Some people hire an attorney at this stage for large claims.
+
+## A checklist
+
+1. Find your UM and UIM limits on your declarations page.
+2. Compare them with your liability limits, and raise them if they're lower.
+3. Ask whether your UIM is reduction or excess type, and whether stacking is available.
+4. Consider an umbrella policy that includes UM/UIM coverage, if available.
+5. After a crash with injuries, notify your own insurer early, even if the other driver is clearly at fault.
+
+## Quick answers
+
+**Does UM/UIM raise my premium if I file a claim?**
+Many states restrict surcharges for not-at-fault claims. Rules vary.
+
+**Do I need UM/UIM if I have good health insurance?**
+Health insurance pays medical bills, but not lost wages or pain and suffering, and it may seek reimbursement from your settlement. UM/UIM fills those gaps.
+
+**Does it cover passengers in my car?**
+Usually yes, along with you and household members.
+
+### Sources and further reading
+
+- Insurance Information Institute: [Uninsured and underinsured motorist coverage](https://www.iii.org/article/what-uninsured-and-underinsured-motorist-coverage)
+- National Association of Insurance Commissioners: [Auto insurance consumer resources](https://content.naic.org/consumer)
+- Your state insurance department's auto insurance guide
+
+*Hypothetical figures and illustrative prices. General information only, not insurance or legal advice.*
+
+
+Photos (CC0): [Road Cars](https://stocksnap.io/photo/road-cars-GVZGIBN59A) by Luke Scicchitano; [Taxis Cars](https://stocksnap.io/photo/taxis-cars-8WK5K3I1E7) by Axel Antas. Charts by the author.

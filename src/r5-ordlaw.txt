@@ -1,0 +1,103 @@
+<p>When an older house is badly damaged, the bill to fix it is often not the bill to put it back the way it was. Building codes have changed since the house was built, and many local rules require that a substantially damaged house be rebuilt to current code: new electrical, sprinklers in some areas, energy standards, stronger framing. Some require tearing down the undamaged part too.</p>
+<p>A standard homeowners policy pays to restore the house as it was. The extra cost of meeting today's code falls under <strong>ordinance or law coverage</strong>, and on many policies it's limited to 10% of the dwelling limit unless you buy more. This guide works through an example, compares coverage levels, and explains what each part of the coverage does.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-ordlaw-hero.jpg" alt="Construction Equipment" width="1200" height="675" loading="lazy"><figcaption>Older homes can face the largest gap between what was there and what current code requires.</figcaption></figure>
+
+<h2>The three parts of ordinance or law coverage</h2>
+<p>Ordinance or law coverage is often described in three parts:</p>
+<ul>
+<li><strong>Loss to the undamaged portion.</strong> If the law requires the whole house to be demolished, the undamaged part becomes a loss too. Without this coverage, it isn't paid for.</li>
+<li><strong>Demolition cost.</strong> The cost to tear down and haul away the undamaged portion.</li>
+<li><strong>Increased cost of construction.</strong> The extra cost to rebuild to current code: wiring, plumbing, fire sprinklers, energy requirements, accessibility, and structural upgrades.</li>
+</ul>
+<p>Many standard policies include a modest amount, often 10% of the dwelling limit, that can be used for these costs. Endorsements raise it to 25%, 50%, or more.</p>
+<h2>A worked example</h2>
+<p>A 1960s house insured for $300,000 has a kitchen fire that damages 60% of it. The local building department rules that damage over 50% means the whole house must be rebuilt to current code.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-ordlaw-costs.png" alt="Stacked bar of costs to rebuild a 60%-damaged older house to code: $180,000 to repair fire damage, $120,000 for the undamaged portion that must be torn down, $25,000 demolition, and $55,000 code upgrades, totaling $380,000" width="1200" height="672" loading="lazy"><figcaption>Only the first $180,000 is a normal fire claim. The other $200,000 is driven by the building code.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Amount</th>
+<th>Covered by</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repairing the fire-damaged 60%</td>
+<td>$180,000</td>
+<td>Normal dwelling coverage</td>
+</tr>
+<tr>
+<td>Loss of the undamaged 40% that must be torn down</td>
+<td>$120,000</td>
+<td>Ordinance or law</td>
+</tr>
+<tr>
+<td>Demolition and debris removal</td>
+<td>$25,000</td>
+<td>Ordinance or law</td>
+</tr>
+<tr>
+<td>Code upgrades: wiring, sprinklers, energy, framing</td>
+<td>$55,000</td>
+<td>Ordinance or law</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$380,000</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-ordlaw-options.png" alt="Bar chart of $200,000 of code-driven costs covered under 10%, 25%, and 50% ordinance or law limits on a $300,000 dwelling: the owner pays $170,000, $125,000, or $50,000" width="1200" height="672" loading="lazy"><figcaption>With only the standard 10%, the owner pays $170,000 of code-driven costs. A 50% endorsement cuts that to $50,000.</figcaption></figure>
+
+<p>The rebuilding cost is more than the dwelling limit on its own. That's a sign the dwelling limit may also be too low. It's worth reviewing both at the same time.</p>
+<p>For a closer look at the coverage itself, how it's worded, and how it interacts with replacement cost, see this explainer on <a href="https://vistacover.com/articles/ordinance-or-law-coverage/">ordinance or law coverage</a>.</p>
+<h2>Who needs more than 10%</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-ordlaw-age.png" alt="Illustrative bar chart showing code-upgrade exposure falling with the decade a home was built, highest for homes from the 1940s through the 1970s" width="1200" height="672" loading="lazy"><figcaption>Older homes usually need more upgrades to meet current codes. This is an illustration, not measured data.</figcaption></figure>
+
+<p>Higher ordinance or law limits matter most when:</p>
+<ul>
+<li>The house is <strong>older</strong>, especially more than 30 or 40 years old.</li>
+<li>It's in a <strong>historic district</strong>, where rebuilding rules can be strict.</li>
+<li>The area has had <strong>major code changes</strong>, such as wildfire, wind, or flood construction standards.</li>
+<li>The house was built or remodeled <strong>without permits</strong> that would be required today.</li>
+<li>The local <strong>"50% rule"</strong> applies, requiring full code compliance once damage passes a threshold.</li>
+</ul>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-ordlaw-inline.jpg" alt="Level Construction" width="1200" height="675" loading="lazy"><figcaption>Electrical, plumbing, and structural standards have changed a great deal since many existing homes were built.</figcaption></figure>
+
+<h2>Partial damage still triggers code</h2>
+<p>Code upgrades aren't only an issue in near-total losses. Common examples on smaller claims:</p>
+<ul>
+<li><strong>Electrical.</strong> Rewiring a fire-damaged room can require upgrading the panel, adding ground-fault and arc-fault protection, or replacing aluminum wiring.</li>
+<li><strong>Roofing.</strong> Many areas allow only a limited number of shingle layers. A roof claim on a house with two layers may require a full tear-off.</li>
+<li><strong>Smoke and carbon monoxide detectors.</strong> Permitted repairs often require hard-wired, interconnected detectors throughout the house.</li>
+<li><strong>Stairs and railings.</strong> Rebuilt stairs must meet current rise, run, and railing height rules.</li>
+<li><strong>Energy code.</strong> Replacing exterior walls may require insulation to current standards.</li>
+</ul>
+<p>Each of these can add thousands of dollars to an otherwise ordinary claim, and the standard policy's 10% allowance can go faster than you'd expect.</p>
+<h2>A note on the dwelling limit</h2>
+<p>Ordinance or law coverage helps only if the base dwelling limit is enough to rebuild the house as it was. Construction costs have risen sharply in many areas. Ask your insurer for an updated replacement cost estimate, compare it with local building costs per square foot, and raise the dwelling limit if needed.</p>
+<h2>Questions to ask your insurer</h2>
+<ol>
+<li>How much ordinance or law coverage does my policy include?</li>
+<li>Is it a separate limit, or does it reduce my dwelling limit?</li>
+<li>Does it cover all three parts: undamaged portion, demolition, and increased cost of construction?</li>
+<li>What higher limits are available, and at what price?</li>
+<li>Is my dwelling limit high enough to rebuild to current code?</li>
+</ol>
+<h2>Quick answers</h2>
+<p><strong>Does ordinance or law coverage pay for upgrades I choose to make?</strong>
+No. It pays only for upgrades required by law, not for improvements you want.</p>
+<p><strong>Does it apply to partial damage?</strong>
+Yes. Even small repairs can trigger code requirements, such as upgrading the electrical panel when a damaged room is rewired.</p>
+<p><strong>Do I have to rebuild to collect it?</strong>
+Usually yes. Increased cost of construction is generally paid when the work is actually done.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>Insurance Information Institute: <a href="https://www.iii.org/article/what-covered-standard-homeowners-policy">Ordinance or law coverage</a></li>
+<li>Federal Emergency Management Agency: <a href="https://www.fema.gov/floodplain-management/manage-risk/substantial-improvement-damage">Substantial improvement and substantial damage</a></li>
+<li>Your local building department's rules on rebuilding after damage</li>
+</ul>
+<p><em>Hypothetical figures. General information only, not insurance advice. Coverage terms and local building rules vary.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/construction-equipment-95382B6BD1">Construction Equipment</a> by Leeroy (CC0); photo: <a href="https://stocksnap.io/photo/level-construction-ROG47AU0LS">Level Construction</a> by Michal Jarmoluk (CC0). Charts by the author.</small></p>

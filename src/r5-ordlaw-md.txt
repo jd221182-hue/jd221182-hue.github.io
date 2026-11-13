@@ -1,0 +1,105 @@
+When an older house is badly damaged, the bill to fix it is often not the bill to put it back the way it was. Building codes have changed since the house was built, and many local rules require that a substantially damaged house be rebuilt to current code: new electrical, sprinklers in some areas, energy standards, stronger framing. Some require tearing down the undamaged part too.
+
+A standard homeowners policy pays to restore the house as it was. The extra cost of meeting today's code falls under **ordinance or law coverage**, and on many policies it's limited to 10% of the dwelling limit unless you buy more. This guide works through an example, compares coverage levels, and explains what each part of the coverage does.
+
+![Construction Equipment](https://jd221182-hue.github.io/media/f/r5-ordlaw-hero.jpg)
+
+*Older homes can face the largest gap between what was there and what current code requires.*
+
+## The three parts of ordinance or law coverage
+
+Ordinance or law coverage is often described in three parts:
+
+- **Loss to the undamaged portion.** If the law requires the whole house to be demolished, the undamaged part becomes a loss too. Without this coverage, it isn't paid for.
+- **Demolition cost.** The cost to tear down and haul away the undamaged portion.
+- **Increased cost of construction.** The extra cost to rebuild to current code: wiring, plumbing, fire sprinklers, energy requirements, accessibility, and structural upgrades.
+
+Many standard policies include a modest amount, often 10% of the dwelling limit, that can be used for these costs. Endorsements raise it to 25%, 50%, or more.
+
+## A worked example
+
+A 1960s house insured for $300,000 has a kitchen fire that damages 60% of it. The local building department rules that damage over 50% means the whole house must be rebuilt to current code.
+
+![Stacked bar of costs to rebuild a 60%-damaged older house to code: $180,000 to repair fire damage, $120,000 for the undamaged portion that must be torn down, $25,000 demolition, and $55,000 code upgrades, totaling $380,000](https://jd221182-hue.github.io/media/f/r5-ordlaw-costs.png)
+
+*Only the first $180,000 is a normal fire claim. The other $200,000 is driven by the building code.*
+
+| Cost | Amount | Covered by |
+|---|---|---|
+| Repairing the fire-damaged 60% | $180,000 | Normal dwelling coverage |
+| Loss of the undamaged 40% that must be torn down | $120,000 | Ordinance or law |
+| Demolition and debris removal | $25,000 | Ordinance or law |
+| Code upgrades: wiring, sprinklers, energy, framing | $55,000 | Ordinance or law |
+| **Total** | **$380,000** | |
+
+![Bar chart of $200,000 of code-driven costs covered under 10%, 25%, and 50% ordinance or law limits on a $300,000 dwelling: the owner pays $170,000, $125,000, or $50,000](https://jd221182-hue.github.io/media/f/r5-ordlaw-options.png)
+
+*With only the standard 10%, the owner pays $170,000 of code-driven costs. A 50% endorsement cuts that to $50,000.*
+
+The rebuilding cost is more than the dwelling limit on its own. That's a sign the dwelling limit may also be too low. It's worth reviewing both at the same time.
+
+For a closer look at the coverage itself, how it's worded, and how it interacts with replacement cost, see this explainer on [ordinance or law coverage](https://vistacover.com/articles/ordinance-or-law-coverage/).
+
+## Who needs more than 10%
+
+![Illustrative bar chart showing code-upgrade exposure falling with the decade a home was built, highest for homes from the 1940s through the 1970s](https://jd221182-hue.github.io/media/f/r5-ordlaw-age.png)
+
+*Older homes usually need more upgrades to meet current codes. This is an illustration, not measured data.*
+
+Higher ordinance or law limits matter most when:
+
+- The house is **older**, especially more than 30 or 40 years old.
+- It's in a **historic district**, where rebuilding rules can be strict.
+- The area has had **major code changes**, such as wildfire, wind, or flood construction standards.
+- The house was built or remodeled **without permits** that would be required today.
+- The local **"50% rule"** applies, requiring full code compliance once damage passes a threshold.
+
+![Level Construction](https://jd221182-hue.github.io/media/f/r5-ordlaw-inline.jpg)
+
+*Electrical, plumbing, and structural standards have changed a great deal since many existing homes were built.*
+
+## Partial damage still triggers code
+
+Code upgrades aren't only an issue in near-total losses. Common examples on smaller claims:
+
+- **Electrical.** Rewiring a fire-damaged room can require upgrading the panel, adding ground-fault and arc-fault protection, or replacing aluminum wiring.
+- **Roofing.** Many areas allow only a limited number of shingle layers. A roof claim on a house with two layers may require a full tear-off.
+- **Smoke and carbon monoxide detectors.** Permitted repairs often require hard-wired, interconnected detectors throughout the house.
+- **Stairs and railings.** Rebuilt stairs must meet current rise, run, and railing height rules.
+- **Energy code.** Replacing exterior walls may require insulation to current standards.
+
+Each of these can add thousands of dollars to an otherwise ordinary claim, and the standard policy's 10% allowance can go faster than you'd expect.
+
+## A note on the dwelling limit
+
+Ordinance or law coverage helps only if the base dwelling limit is enough to rebuild the house as it was. Construction costs have risen sharply in many areas. Ask your insurer for an updated replacement cost estimate, compare it with local building costs per square foot, and raise the dwelling limit if needed.
+
+## Questions to ask your insurer
+
+1. How much ordinance or law coverage does my policy include?
+2. Is it a separate limit, or does it reduce my dwelling limit?
+3. Does it cover all three parts: undamaged portion, demolition, and increased cost of construction?
+4. What higher limits are available, and at what price?
+5. Is my dwelling limit high enough to rebuild to current code?
+
+## Quick answers
+
+**Does ordinance or law coverage pay for upgrades I choose to make?**
+No. It pays only for upgrades required by law, not for improvements you want.
+
+**Does it apply to partial damage?**
+Yes. Even small repairs can trigger code requirements, such as upgrading the electrical panel when a damaged room is rewired.
+
+**Do I have to rebuild to collect it?**
+Usually yes. Increased cost of construction is generally paid when the work is actually done.
+
+### Sources and further reading
+
+- Insurance Information Institute: [Ordinance or law coverage](https://www.iii.org/article/what-covered-standard-homeowners-policy)
+- Federal Emergency Management Agency: [Substantial improvement and substantial damage](https://www.fema.gov/floodplain-management/manage-risk/substantial-improvement-damage)
+- Your local building department's rules on rebuilding after damage
+
+*Hypothetical figures. General information only, not insurance advice. Coverage terms and local building rules vary.*
+
+
+Photos (CC0): [Construction Equipment](https://stocksnap.io/photo/construction-equipment-95382B6BD1) by Leeroy; [Level Construction](https://stocksnap.io/photo/level-construction-ROG47AU0LS) by Michal Jarmoluk. Charts by the author.

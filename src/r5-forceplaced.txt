@@ -1,0 +1,119 @@
+<p>If you have a mortgage, your lender requires you to keep the house insured. If your policy lapses, is canceled, or isn't renewed, and the servicer doesn't get proof of new coverage, it can buy a policy for you and charge you for it. That's <strong>force-placed insurance</strong>, also called lender-placed insurance.</p>
+<p>It's legal, it's common, and it's usually a bad deal: the premium is often much higher than a normal homeowners policy, and the coverage protects the lender, not you. This guide compares the cost and coverage, walks through the notice timeline servicers have to follow, and explains how to get it removed and refunded.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-forceplaced-hero.jpg" alt="House Home" width="1200" height="675" loading="lazy"><figcaption>Force-placed insurance usually starts with a missed renewal, a canceled policy, or a payment that didn't go through.</figcaption></figure>
+
+<h2>How it happens</h2>
+<p>The most common triggers:</p>
+<ul>
+<li>The insurer cancels or doesn't renew the policy, and the replacement isn't in place in time.</li>
+<li>A premium paid from escrow didn't go through, or the servicer paid the wrong insurer.</li>
+<li>You switch insurers but the servicer never receives the new declarations page.</li>
+<li>The servicer requires coverage you don't have, such as flood or wind coverage.</li>
+</ul>
+<p>Many force-placed policies start because of paperwork rather than an actual lack of coverage. Sending proof quickly fixes those.</p>
+<h2>What it costs, and what it covers</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-forceplaced-price.png" alt="Bar chart of illustrative annual premiums: $2,100 for the owner's own homeowners policy versus $5,600 for a force-placed policy on the same house" width="1200" height="672" loading="lazy"><figcaption>Force-placed premiums are often much higher, partly because the insurer doesn't inspect the house or underwrite you.</figcaption></figure>
+
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-forceplaced-matrix.png" alt="Matrix comparing a homeowners policy, which covers the building, belongings, liability, living expenses, and equity, with a typical force-placed policy, which covers only the building for the lender's interest" width="1200" height="672" loading="lazy"><figcaption>A force-placed policy typically protects the lender's interest in the building and nothing else.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Your homeowners policy</th>
+<th>Typical force-placed policy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Who it protects</td>
+<td>You, and the lender as mortgagee</td>
+<td>Mainly the lender</td>
+</tr>
+<tr>
+<td>Building</td>
+<td>Up to your dwelling limit</td>
+<td>Often only up to the loan balance</td>
+</tr>
+<tr>
+<td>Belongings</td>
+<td>Covered</td>
+<td>Not covered</td>
+</tr>
+<tr>
+<td>Personal liability</td>
+<td>Covered</td>
+<td>Not covered</td>
+</tr>
+<tr>
+<td>Living expenses after a loss</td>
+<td>Covered</td>
+<td>Not covered</td>
+</tr>
+<tr>
+<td>Price</td>
+<td>Market rate</td>
+<td>Often much higher</td>
+</tr>
+</tbody>
+</table>
+<p>The amount is often set to the loan balance, not to what it would cost to rebuild. If the house is worth more than the loan, your equity is unprotected.</p>
+<h2>The notice timeline</h2>
+<p>Federal mortgage servicing rules require servicers to warn you before charging for force-placed hazard insurance:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-forceplaced-timeline.png" alt="Timeline showing a policy lapse, a first notice, a second notice at least 30 days later, and the earliest charge at least 45 days after the first notice" width="1200" height="672" loading="lazy"><figcaption>You get at least two written notices and about 45 days to send proof of coverage before the servicer can charge you.</figcaption></figure>
+
+<ul>
+<li>A <strong>first notice</strong> must be sent at least 45 days before the servicer charges you.</li>
+<li>A <strong>second notice</strong> must be sent at least 30 days after the first and at least 15 days before the charge.</li>
+<li>If you send proof of coverage, the servicer must cancel the force-placed policy and <strong>refund premiums for any period when you had your own coverage</strong>.</li>
+</ul>
+<p>These rules generally apply to most residential mortgage servicers. State law may add more protections.</p>
+<p>For a broader explanation of force-placed insurance and your rights, see this guide to <a href="https://vistacover.com/guides/force-placed-insurance/">force-placed insurance</a>.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/r5-forceplaced-inline.jpg" alt="Home Things" width="1200" height="675" loading="lazy"><figcaption>Keep your current declarations page handy. It's the proof that ends force-placed coverage.</figcaption></figure>
+
+<h2>How to get rid of it</h2>
+<ol>
+<li><strong>Buy a homeowners policy</strong> if you don't have one. Shop around if your previous insurer won't renew.</li>
+<li><strong>Send the declarations page</strong> to the servicer's insurance department, not the general mailing address. The notices tell you where.</li>
+<li><strong>Confirm the mortgagee clause</strong> on your policy lists the servicer correctly, with the right loan number.</li>
+<li><strong>Ask for a refund</strong> of any overlap. If your own coverage was in force while the force-placed policy was charged, you're entitled to a refund for that period.</li>
+<li><strong>Check your escrow</strong> after the change. Force-placed premiums are often charged to escrow and can create a shortage and a higher monthly payment until it's corrected.</li>
+<li><strong>Keep records</strong> of every notice, call, and document sent.</li>
+</ol>
+<h2>Getting the money back</h2>
+<p>If force-placed premiums were charged while you actually had coverage, write to the servicer, include your declarations page showing the policy dates, and ask for:</p>
+<ul>
+<li>Cancellation of the force-placed policy effective the date your own coverage began.</li>
+<li>A refund of all force-placed premiums and related fees for the overlap period.</li>
+<li>A corrected escrow analysis, and a new monthly payment if the shortage was caused by the force-placed charge.</li>
+</ul>
+<p>Servicers must refund premiums for any overlap period and remove related charges within a set time after receiving proof. If they don't respond, you can send a written notice of error to the servicer's designated address, and file a complaint with the Consumer Financial Protection Bureau or your state regulator.</p>
+<h2>Preventing it</h2>
+<ul>
+<li>Put your insurer's renewal date and the servicer's insurance address on your calendar.</li>
+<li>Ask your insurer to send renewal declarations directly to the servicer, and confirm the mortgagee clause each year.</li>
+<li>If your insurer non-renews you, start shopping immediately. Non-renewal notices usually come 30 to 60 days ahead.</li>
+<li>If you pay the premium yourself rather than through escrow, keep proof of payment.</li>
+</ul>
+<h2>If you can't find coverage</h2>
+<p>Homes with older roofs, past claims, or high-risk locations can be hard to insure. Options include:</p>
+<ul>
+<li>An independent agent who works with several insurers.</li>
+<li>The state's FAIR plan or residual market insurer, the insurer of last resort in many states.</li>
+<li>Fixing the issue that caused non-renewal, such as replacing an old roof, and reapplying.</li>
+</ul>
+<p>Even a residual market policy is usually far cheaper and broader than force-placed coverage.</p>
+<h2>Quick answers</h2>
+<p><strong>Can the servicer force-place flood insurance?</strong>
+Yes, if the property is in a high-risk flood zone and the loan requires flood coverage. Flood force-placement has its own notice rules.</p>
+<p><strong>Does force-placed insurance hurt my credit?</strong>
+Not directly. A large escrow shortage that leads to missed payments can.</p>
+<p><strong>Is force-placed insurance ever cheaper?</strong>
+Rarely. Occasionally in very high-risk areas, the comparison is closer, but the coverage is still much narrower.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>Consumer Financial Protection Bureau: <a href="https://www.consumerfinance.gov/ask-cfpb/what-is-force-placed-insurance-en-213/">What is force-placed insurance?</a></li>
+<li>Consumer Financial Protection Bureau: <a href="https://www.consumerfinance.gov/rules-policy/regulations/1024/">Mortgage servicing rules (Regulation X)</a></li>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/consumer">Consumer insurance resources</a></li>
+</ul>
+<p><em>Illustrative premiums. General information only, not legal or insurance advice.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/house-home-M040EU7YWJ">House Home</a> by Eduard Militaru (CC0); photo: <a href="https://stocksnap.io/photo/home-things-ULZQIK7MMB">Home Things</a> by John-Mark Kuznietsov (CC0). Charts by the author.</small></p>

@@ -1,0 +1,119 @@
+Owning a condo means sharing a building, and sharing a building means sharing its insurance bills. The association's master policy covers the structure, but it comes with a deductible, often a large one, and the association can pass that deductible, or any uninsured loss, to owners through a special assessment. The coverage in your own condo policy (often called an HO-6) that pays for those bills is **loss assessment coverage**. On many policies it starts at just $1,000.
+
+This guide shows how master deductibles get split, works through three assessments with a $1,000 and a $50,000 loss assessment limit, and explains where the master policy stops and your policy has to start.
+
+![Building Architecture](https://jd221182-hue.github.io/media/f/r5-ho6-hero.jpg)
+
+*In a condo building, one storm or one leak can turn into a bill for every owner.*
+
+## How a master deductible becomes your bill
+
+Master policies on larger buildings commonly carry deductibles of $25,000 to $250,000 or more, especially for wind, hail, or water. When the building has a covered loss, the association usually pays the deductible from reserves or assesses owners.
+
+![Line chart of each owner's share of a master policy deductible across building sizes for $25,000, $100,000, and $250,000 deductibles, compared with a default $1,000 loss assessment limit](https://jd221182-hue.github.io/media/f/r5-ho6-share.png)
+
+*In a 40-unit building, a $100,000 deductible split evenly is $2,500 per unit, already more than a default $1,000 loss assessment limit.*
+
+| Building | Master deductible | Share per unit (equal split) |
+|---|---|---|
+| 20 units | $25,000 | $1,250 |
+| 40 units | $100,000 | $2,500 |
+| 50 units | $200,000 | $4,000 |
+| 100 units | $250,000 | $2,500 |
+
+Many associations split assessments by each unit's ownership percentage instead of equally, so larger units pay more.
+
+## Three assessments, two limits
+
+**A storm damages the roof and siding.** The master policy has a $200,000 wind deductible and the building has 50 units. Each owner is assessed $4,000.
+
+**Water leaks from your unit into two units below.** Many associations' bylaws make the owner whose unit caused the leak responsible for the master policy's deductible, here $25,000.
+
+**A lawsuit exceeds the association's liability limit.** A visitor's injury on the common stairs leads to a judgment above the association's liability coverage. The shortfall is assessed to owners, here $18,000 each.
+
+![Grouped bar chart of three condo assessments of $4,000, $25,000, and $18,000, showing a $1,000 loss assessment limit pays $1,000 each time while a $50,000 limit pays them in full](https://jd221182-hue.github.io/media/f/r5-ho6-assess.png)
+
+*With the default $1,000 limit, the owner pays almost all of every assessment. Raising the limit to $50,000 usually costs a few dollars a month.*
+
+Loss assessment coverage usually pays only when the assessment results from a loss your own policy would cover, such as fire, wind, or liability. Assessments for routine maintenance, a reserve shortfall, or a special project such as a new elevator aren't covered. Some policies also cap how much of a deductible assessment they'll pay, often at a lower sublimit such as $1,000, even if the overall loss assessment limit is higher. Read that line.
+
+For an overview of how master policies and HO-6 policies fit together, see this guide to [condo insurance and the master policy](https://vistacover.com/guides/condo-insurance-ho6-master-policy/).
+
+## Where the master policy stops
+
+Master policies come in three broad types. The type decides how much of the inside of your unit you have to insure yourself.
+
+![Matrix showing that bare walls master policies cover only the structure, single entity policies also cover original interior fixtures, and all-in policies also cover cabinets and flooring, while upgrades and belongings are always the owner's to insure](https://jd221182-hue.github.io/media/f/r5-ho6-split.png)
+
+*The less the master policy covers, the higher the dwelling limit you need on your own HO-6 policy.*
+
+- **Bare walls:** the association covers the structure. You insure everything inside the studs: drywall, floors, cabinets, fixtures.
+- **Single entity:** the association also covers the original interior fixtures. You insure upgrades and belongings.
+- **All-in (all inclusive):** the association covers fixtures and finishes, often including later improvements. You still insure your belongings.
+
+Your HO-6 dwelling limit (Coverage A) should match whatever the master policy leaves to you. Check the bylaws or ask the property manager for the insurance section of the governing documents.
+
+![Apartment Abstract](https://jd221182-hue.github.io/media/f/r5-ho6-inline.jpg)
+
+*Interior finishes and upgrades are usually your responsibility, even when the master policy covers the building.*
+
+## Water: the most common condo claim
+
+Leaks between units are the most frequent source of condo claims and disputes. A few practical points:
+
+- If water starts in your unit, you may be responsible for damage to other units and for the master deductible, depending on the bylaws and state law.
+- Your HO-6 liability coverage and loss assessment coverage are the two parts of your policy that respond.
+- Water sensors and automatic shut-off valves are cheap compared with a $25,000 deductible charge.
+- Inspect supply lines on toilets, sinks, dishwashers, and washing machines every few years.
+
+## Reading the master policy's declarations page
+
+Ask the property manager or board for the current master policy declarations page each year. The lines that matter to you:
+
+| Line | Why it matters |
+|---|---|
+| All other perils deductible | The deductible for fire, theft, and most water claims |
+| Wind/hail or named storm deductible | Often a percentage of the building value, which can be very large |
+| Water damage deductible | Some buildings carry a separate, higher deductible for water |
+| Coverage type (bare walls, single entity, all-in) | Decides how much interior you insure yourself |
+| Liability limit and umbrella | How much protection the association has before owners are assessed |
+| Directors and officers coverage | Protects the board, and indirectly the owners, from management lawsuits |
+
+If the wind deductible is 5% of a $20 million building, that's $1 million, or $20,000 per unit in a 50-unit building. Few owners realize the number is that large until after a storm. Set your loss assessment limit with it in mind.
+
+## Renting out your condo
+
+If you rent the unit to tenants, an HO-6 written for owner-occupants may not fit. Ask about a unit-owners rental policy or an endorsement for rental use. Make sure loss assessment and liability coverage stay in place, and require tenants to carry renters insurance for their own belongings and liability.
+
+## A checklist for condo owners
+
+1. Get the master policy's declarations page from the association and note each deductible.
+2. Check whether the bylaws charge the deductible to the owner whose unit caused the loss.
+3. Identify the master policy type: bare walls, single entity, or all-in.
+4. Set your HO-6 dwelling limit to cover what the master policy doesn't.
+5. Raise loss assessment coverage to at least your realistic share of the largest master deductible.
+6. Check any sublimit for deductible assessments.
+7. Carry enough personal liability, and consider an umbrella.
+8. Keep receipts for interior upgrades so you can document their value.
+
+## Quick answers
+
+**Does loss assessment coverage pay for a new roof the association planned?**
+No. It covers assessments caused by covered losses, not planned maintenance or improvements.
+
+**My association has good reserves. Do I still need it?**
+Reserves can cover a deductible, but a large loss or lawsuit can exceed them, and the association may assess owners to rebuild reserves.
+
+**Is loss assessment coverage expensive?**
+Usually not. Raising it from $1,000 to $25,000 or $50,000 often costs a modest amount per year.
+
+### Sources and further reading
+
+- Insurance Information Institute: [Condo insurance](https://www.iii.org/article/what-does-condo-insurance-cover)
+- National Association of Insurance Commissioners: [Consumer insurance resources](https://content.naic.org/consumer)
+- Community Associations Institute: [Resources for homeowners](https://www.caionline.org/)
+
+*Hypothetical figures. General information only, not insurance or legal advice. Your bylaws, master policy, and HO-6 policy control.*
+
+
+Photos (CC0): [Building Architecture](https://stocksnap.io/photo/building-architecture-3BOWW4BZHZ) by Matthew Henry; [Apartment Abstract](https://stocksnap.io/photo/apartment-abstract-PUPIDWCHRL) by Matthew Henry. Charts by the author.

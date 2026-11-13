@@ -1,0 +1,108 @@
+Few insurance surprises are as unpleasant as this one: sewage comes up through the basement floor drain, the finished basement is ruined, and the claim is denied. Standard homeowners policies usually exclude water that backs up through sewers or drains, and water that overflows from a sump pump. Coverage comes from an endorsement, often called **water backup** or **sewer and drain backup**, and that endorsement has its own limit, which is often much lower than the damage.
+
+This guide breaks down a typical backup claim in a finished basement, compares three endorsement limits, explains how backup differs from flood, and covers the inexpensive equipment that prevents most of these claims.
+
+![Water Drop](https://jd221182-hue.github.io/media/f/r5-sewer-hero.jpg)
+
+*A finished basement is where most of the damage from a sewer backup ends up, and where the endorsement limit matters most.*
+
+## What a backup costs
+
+Sewage backup is a contamination problem, not just a water problem. Porous materials such as carpet, drywall, and insulation that sewage touches usually have to be removed, not dried.
+
+![Stacked bar of a $28,000 sewer backup claim: cleanup $6,500, drywall and insulation $7,800, flooring $5,200, belongings $6,000, and a water heater and furnace $2,500, compared with endorsement limits of $5,000, $10,000, and $25,000](https://jd221182-hue.github.io/media/f/r5-sewer-loss.png)
+
+*A backup in a finished basement easily passes $25,000. The endorsement limit, not the damage, decides how much is paid.*
+
+| Item | Cost |
+|---|---|
+| Professional cleanup and sanitizing | $6,500 |
+| Drywall and insulation, bottom 4 feet | $7,800 |
+| Carpet, pad, and flooring | $5,200 |
+| Furniture and stored items | $6,000 |
+| Water heater and furnace repairs | $2,500 |
+| **Total** | **$28,000** |
+
+## Choosing the limit
+
+![Bar chart of a $28,000 backup with a $1,000 deductible under three endorsement limits: owner pays $23,000 with a $5,000 limit, $18,000 with a $10,000 limit, and $3,000 with a $25,000 limit](https://jd221182-hue.github.io/media/f/r5-sewer-limits.png)
+
+*Moving from a $5,000 to a $25,000 limit cuts the owner's share of this claim from $23,000 to $3,000.*
+
+Endorsements are often sold in limits from $5,000 to $25,000, and some insurers offer more. The price difference between limits is usually small compared with the gap in coverage. If your basement is finished, or if you store anything valuable down there, a $5,000 limit is unlikely to be enough.
+
+For more on how backup coverage works and which situations it covers, see this explainer on [sewer backup coverage](https://vistacover.com/articles/sewer-backup-coverage/).
+
+## Backup vs. flood
+
+The cause of the water decides the coverage. This is where most denials come from.
+
+![Matrix showing sewer backups and sump pump failures are usually covered by a sewer and sump endorsement, surface water and river overflow by a flood policy, and an overflowing toilet from a clog by standard homeowners coverage](https://jd221182-hue.github.io/media/f/r5-sewer-matrix.png)
+
+*Water entering from outside at ground level is flood. Water coming up through the plumbing is backup. A household overflow is usually standard homeowners.*
+
+- **Backup** comes up through the home's drains, toilets, or sewer line, often because the municipal sewer is overwhelmed in heavy rain.
+- **Sump overflow** happens when the sump pump fails or can't keep up.
+- **Flood** is surface water from outside, rising water, or overflowing bodies of water. It's excluded from homeowners policies and needs a separate flood policy.
+
+In a big storm, a basement can take water from more than one source. Document where water entered, with photos of drains, walls, and window wells.
+
+![Water Rain](https://jd221182-hue.github.io/media/f/r5-sewer-inline.jpg)
+
+*A backwater valve and a sump pump with battery backup prevent many basement water claims.*
+
+## Prevention that pays for itself
+
+**Backwater valve.** Installed on the main sewer line, it lets water flow out but closes when the sewer backs up. Installation often costs a few hundred to a couple of thousand dollars, depending on access. Some cities offer rebates.
+
+**Battery backup for the sump pump.** Storms that cause backups often also cause power failures, exactly when the sump pump is needed. A battery backup system or a water-powered backup pump keeps it running.
+
+**Raise valuables and equipment.** Keep stored items on shelves, not on the floor. Consider raising the furnace and water heater on platforms.
+
+**Don't pour grease down drains.** Clogs in your own line cause many backups that have nothing to do with storms.
+
+**Clear the sewer line.** Older homes with clay pipes and nearby trees may have roots in the line. A camera inspection can find problems before they cause a backup.
+
+## The claim, step by step
+
+1. **Stop the inflow.** If you can, stop using water in the house and close the backwater valve if you have a manual one.
+2. **Stay safe.** Sewage carries bacteria. Keep children and pets away, wear boots and gloves, and don't run electrical equipment in standing water.
+3. **Document before cleanup.** Photograph the water level, the floor drain, and every damaged item.
+4. **Call your insurer and a cleanup company the same day.** Professional sanitizing is usually covered and is often required to prevent mold.
+5. **Keep samples and receipts.** Your adjuster may want to see pieces of damaged carpet or drywall. Keep receipts for everything you buy during cleanup.
+6. **Ask about the cause.** If a city sewer main failed, you may also have a claim against the municipality, usually with strict deadlines.
+
+## Renters and condo owners
+
+Renters can usually add water backup coverage to a renters policy to protect belongings stored in a basement. Condo owners in ground-level or basement units should check both the HO-6 policy and the association's master policy, since one may cover the building's drain lines and the other the unit's finishes and contents.
+
+## A quick checklist
+
+1. Check your declarations page for "water backup" or "sewer/drain backup" coverage and its limit.
+2. If it's missing or low, ask your insurer to add or raise it.
+3. Estimate the cost of redoing your basement and match the limit to it.
+4. Install a backwater valve and sump pump battery backup.
+5. Photograph the basement now, so you can document its condition before a loss.
+6. If a backup happens, call a cleanup company right away and document everything.
+
+## Quick answers
+
+**Does flood insurance cover sewer backup?**
+Only when the backup is caused directly by a flood. Otherwise, you need the backup endorsement.
+
+**Is the endorsement subject to my deductible?**
+Usually yes. Some endorsements have their own deductible.
+
+**Does it cover the cost to fix the sewer line?**
+Usually not. The endorsement covers damage caused by the water, not repairs to the pipe itself. Some insurers sell separate service-line coverage for that.
+
+### Sources and further reading
+
+- Insurance Information Institute: [Water backup coverage](https://www.iii.org/article/does-my-homeowners-policy-cover-water-backup)
+- FloodSmart: [What flood insurance covers](https://www.floodsmart.gov/)
+- U.S. Environmental Protection Agency: [Flooded homes cleanup](https://www.epa.gov/flooded-homes)
+
+*Hypothetical figures. General information only, not insurance advice. Endorsement wording and limits vary.*
+
+
+Photos (CC0): [Water Drop](https://stocksnap.io/photo/water-drop-RZGTIF02NB) by Pawe%u0142%20Chrz%u0105szczewski; [Water Rain](https://stocksnap.io/photo/water-rain-E2GQPU9YZO) by Snufkin. Charts by the author.
