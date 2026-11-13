@@ -1,0 +1,123 @@
+Adding a 16-year-old to a family car insurance policy can come close to doubling the premium. Parents usually see the bill, gasp, and start asking which discounts exist. Discounts help, but the decisions that move the number most are which car the teen drives, how the policy's liability limits are set, and how long the family keeps the expensive setup in place.
+
+This page lays out what the increase looks like by age, how far a realistic set of discounts brings it down, and why the liability limit is the number that protects the family's finances.
+
+![Forest Car](https://jd221182-hue.github.io/media/f/gs-teendriver-hero.jpg)
+
+*The first year of driving is the most expensive to insure, because it's statistically the riskiest.*
+
+## How the cost changes with age
+
+Young drivers, especially in their first years of driving, have far higher crash rates than experienced drivers, and premiums reflect that. The extra cost usually falls each year with a clean record.
+
+![Bar chart showing the hypothetical extra annual cost of adding a young driver to a family policy, falling from $2,600 at age 16 to $620 at age 25, compared with the parents' whole-policy premium of $2,400](https://jd221182-hue.github.io/media/f/gs-teendriver-byage.png)
+
+*In this example, a 16-year-old adds more than the parents' entire policy costs. By 21 the extra cost is about half that, with a clean record.*
+
+These figures are hypothetical. The real numbers vary enormously by state, insurer, ZIP code, and car. The shape of the curve is the useful part: the first few years are the expensive ones, and an accident or ticket in that period can keep the cost high for years.
+
+## Stacking discounts
+
+Discounts are worth chasing, but they work on a percentage of the teen's added premium, so they shrink the increase rather than erase it.
+
+| Step | Effect in this example | Running total |
+|---|---|---|
+| Teen added, no discounts | +$2,600 | $2,600 |
+| Good-student discount (often B average or better) | −$260 | $2,340 |
+| Approved driver training course | −$130 | $2,210 |
+| Telematics app or device (safe driving tracked) | −$235 | $1,975 |
+| Teen assigned to an older sedan instead of a new SUV | −$390 | $1,585 |
+
+![Waterfall chart showing the added cost for a 16-year-old falling from $2,600 to $1,585 after good-student, driver-training, telematics, and car-choice discounts](https://jd221182-hue.github.io/media/f/gs-teendriver-discounts.png)
+
+*In this example, the car choice saves more than any single discount. An older car without collision coverage can save even more.*
+
+Two more things often have large effects:
+
+- **Away at school.** A student who lives more than about 100 miles from home without a car often qualifies for a big reduction. Tell the insurer as soon as they move.
+- **Collision and comprehensive.** On an older car worth a few thousand dollars, dropping physical damage coverage can cut the cost significantly. You'd pay for that car's own damage yourself, but not for damage to others.
+
+## The number that protects the family
+
+Discounts reduce the premium. Liability limits decide what happens after a serious crash. Here's a teen at fault in a crash that causes $400,000 of injuries to one person:
+
+| Bodily injury limit | Insurance pays | Family owes |
+|---|---|---|
+| State minimum (e.g. 25/50) | $25,000 | $375,000 |
+| 100/300 | $100,000 | $300,000 |
+| 250/500 | $250,000 | $150,000 |
+| 250/500 + $1 million umbrella | $400,000 | $0 |
+
+![Stacked bar chart of a $400,000 injury claim: the family owes $375,000 with state minimum limits, $300,000 with 100/300, $150,000 with 250/500, and nothing with a $1 million umbrella](https://jd221182-hue.github.io/media/f/gs-teendriver-limits.png)
+
+*The years when a teen is most likely to cause a serious crash are the years when low limits are most dangerous.*
+
+Raising liability limits usually costs much less than the teen's added premium, and it's the change that matters most if something serious happens. Parents with savings, home equity, or high income often add an umbrella during these years. For a deeper look at how teens are rated, the discounts available, and the trade-offs of listing or excluding a driver, see this guide to [teen drivers and auto insurance](https://vistacover.com/guides/teen-drivers-and-auto-insurance/).
+
+![Traffic Light](https://jd221182-hue.github.io/media/f/gs-teendriver-inline.jpg)
+
+*Which car the teen drives regularly can matter more to the premium than any single discount.*
+
+## Decisions that usually pay off
+
+1. **Add the teen when they get a license, not a permit.** Many insurers cover permit holders under the parents' policy at no extra charge. Check yours.
+2. **Choose the car on purpose.** A mid-size older sedan with good safety ratings is usually far cheaper to insure than a sports car, a large truck, or a new SUV.
+3. **Assign drivers to cars, where the insurer allows it.** The rate can change depending on which car is listed as the teen's main car.
+4. **Turn on telematics.** Many families find the feedback useful for coaching the teen, apart from the discount.
+5. **Raise liability limits.** Consider 250/500 and an umbrella while a young driver is in the household.
+6. **Keep the record clean.** One at-fault accident or speeding ticket can wipe out every discount.
+7. **Re-shop at each renewal.** Insurers price young drivers very differently. The cheapest one at 16 may not be the cheapest at 18.
+
+## What happens after a ticket or a crash
+
+A first at-fault crash or speeding ticket is when the family's premium jumps a second time. The surcharge is usually applied for three to five years, and it stacks on top of the young-driver rating. A minor ticket might add 10% to 25% to the teen's portion. An at-fault crash with an injury can add much more. Some insurers forgive a first minor incident, often as an option you pay for or a reward for years claim-free.
+
+Ways to limit the damage:
+
+- **Accident forgiveness.** If it's available, consider adding it before the teen starts driving. It's worth the most during exactly these years.
+- **Defensive driving course after a ticket.** In some states, completing an approved course can keep a ticket off the record or earn a discount.
+- **Don't file small claims.** A minor fender-bender paid out of pocket may avoid a surcharge entirely. Compare the repair cost with three years of higher premiums before filing.
+
+## Graduated licensing rules matter for insurance too
+
+Most states license teens in stages: a learner's permit, then an intermediate license with limits on night driving and passengers, then a full license. Breaking those restrictions doesn't usually void the insurance, but a crash that happens while violating them can make the liability case worse. It also gives an insurer reason to treat the teen as a higher risk at renewal. Know your state's rules and put them in a written family driving agreement.
+
+## A sample year-one budget
+
+For a family adding a 16-year-old under the numbers above:
+
+| Item | Annual cost |
+|---|---|
+| Teen's added premium after discounts | $1,585 |
+| Raising liability limits to 250/500 | $180 |
+| $1 million umbrella | $260 |
+| Emergency fund target for a deductible | $1,000 (one time) |
+| **Ongoing yearly cost** | **$2,025** |
+
+The limits and the umbrella together cost less than a quarter of the teen's premium, and they're the part that protects the family from a life-changing judgment.
+
+## Should the teen get their own policy?
+
+Usually not while they live at home. A separate policy for a teen is typically much more expensive than adding them to the parents' policy, and the teen may not qualify for the parents' multi-car and bundling discounts. Separating policies also doesn't protect the parents if the teen drives a car the parents own. The main exception is a teen who owns and titles their own car and has their own financial resources, and even then, ask an agent about how liability would work.
+
+## Quick answers
+
+**Do I have to add my teen if they rarely drive?**
+Most insurers require all licensed household members to be listed or formally excluded. An unlisted driver can lead to a denied claim.
+
+**What about excluding the teen?**
+An excluded driver has no coverage when driving your cars. If they drive anyway and crash, the family may have no coverage at all. Use exclusion only if the teen truly won't drive.
+
+**Will my rates go back down when they leave?**
+Yes, when they move out and have their own policy, or move away to school without a car. Tell the insurer.
+
+### Sources and further reading
+
+- National Highway Traffic Safety Administration: [Teen driving](https://www.nhtsa.gov/road-safety/teen-driving)
+- Insurance Institute for Highway Safety: [Teenagers](https://www.iihs.org/topics/teenagers)
+- Insurance Information Institute: [Insurance for teen drivers](https://www.iii.org/article/what-you-should-know-about-insurance-for-teen-drivers)
+
+*Hypothetical prices. General information only, not insurance advice. Rules and discounts vary by state and insurer.*
+
+
+Photos (CC0): [Forest Car](https://stocksnap.io/photo/forest-car-ELFN8SNYQ6) by Lucas Vieira; [Traffic Light](https://stocksnap.io/photo/traffic-light-O5NJKI9KGZ) by Tim Gouw. Charts by the author.

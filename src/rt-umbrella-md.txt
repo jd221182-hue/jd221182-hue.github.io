@@ -1,0 +1,129 @@
+Umbrella insurance is usually pitched to homeowners with something to protect. Renters tend to assume they don't need it: no house, modest savings, so what's there to lose? The answer is future income. A judgment that's larger than your insurance doesn't disappear because you don't own much. In many states it can follow you through wage garnishment and liens for years.
+
+This page works through one at-fault crash at three levels of coverage, shows what it might cost a renter to add $1 million of extra liability protection, and lists what an umbrella does and doesn't cover.
+
+![Cars Traffic](https://jd221182-hue.github.io/media/f/rt-umbrella-hero.jpg)
+
+*Most large liability claims against renters come from driving, not from the apartment.*
+
+## How an umbrella works
+
+A personal umbrella policy sits on top of your auto and renters policies. When a covered liability claim is bigger than the underlying policy's limit, the umbrella pays the rest, up to its own limit, usually $1 million or more.
+
+Two conditions come with it:
+
+- **Minimum underlying limits.** Insurers typically require auto liability of at least 250/500 (that's $250,000 per person and $500,000 per accident for injuries) and renters liability of at least $300,000. If you carry less, you're responsible for the gap.
+- **Broader coverage for some claims.** Many umbrellas also cover things like defamation that the underlying policies may not, sometimes with a small retention (a deductible-like amount) for those claims.
+
+## One crash, three levels of coverage
+
+A renter runs a red light and seriously injures another driver. A court awards $480,000 for medical bills, lost wages, and pain and suffering.
+
+| Coverage | Auto pays | Umbrella pays | Renter owes |
+|---|---|---|---|
+| Auto 100/300, no umbrella | $100,000 | — | $380,000 |
+| Auto 250/500, no umbrella | $250,000 | — | $230,000 |
+| Auto 250/500 + $1M umbrella | $250,000 | $230,000 | $0 |
+
+![Stacked bar chart of a $480,000 judgment: with 100/300 auto limits the renter owes $380,000, with 250/500 limits the renter owes $230,000, and with an umbrella the renter owes nothing](https://jd221182-hue.github.io/media/f/rt-umbrella-layers.png)
+
+*The per-person bodily injury limit is the number that matters in a one-victim crash. Most renters carry far less than a serious injury costs.*
+
+Legal defense is usually paid by the insurer in addition to the limits, and umbrellas generally take over the defense once the underlying limit is used up. Without enough coverage, the renter may also face attorney costs on the uncovered part.
+
+## What it costs to add
+
+![Bar showing illustrative annual costs for a renter: $140 to raise auto liability to 250/500, $15 to raise renters liability to $300,000, and $190 for a $1 million umbrella, about $345 a year or $29 a month](https://jd221182-hue.github.io/media/f/rt-umbrella-cost.png)
+
+*In this example, the full package of higher limits plus a $1 million umbrella comes to about $29 a month.*
+
+The umbrella itself is often the cheaper part. Raising the auto limits to meet the umbrella's requirements usually costs more. Even so, the total is modest compared with the exposure it removes. These are illustrative prices. Your quotes will depend on your driving record, the number of drivers and cars, and where you live.
+
+For a fuller cost-and-benefit discussion aimed at renters, see this analysis of whether [umbrella insurance is worth it for renters](https://vistacover.com/blog/is-umbrella-insurance-worth-it-for-renters/).
+
+## What it covers and what it doesn't
+
+![Matrix showing an umbrella typically covers car crashes injuring others, guest injuries, dog bites, fire damage to a landlord's building, and defamation, but not damage to your own belongings, business claims, or intentional harm](https://jd221182-hue.github.io/media/f/rt-umbrella-covers.png)
+
+*An umbrella is liability coverage only. It pays for harm you cause others, not your own losses.*
+
+A few situations renters commonly overlook:
+
+- **Fire damage to the building.** If your cooking fire damages the landlord's building, the landlord's insurer may pay the landlord and then come after you to recover the cost. Your renters liability responds first, and the umbrella above it.
+- **Dogs.** Dog bites are among the most common liability claims. Some umbrellas exclude certain breeds or a dog with a bite history, so disclose your pets.
+- **Social hosting.** A guest who leaves your party and causes a crash can lead to claims against the host in some states.
+- **Online posts.** Defamation claims over reviews or social media posts can be covered under personal injury coverage, depending on wording.
+
+Business activity is the big exclusion. If you drive for a delivery app, rent out a room, or run a side business, ask how the umbrella treats it. Usually it doesn't cover it.
+
+![Rain Umbrella](https://jd221182-hue.github.io/media/f/rt-umbrella-inline.jpg)
+
+*Higher auto limits are usually the first step: most umbrella policies require them before they'll sit on top.*
+
+## Who should seriously consider one
+
+- Renters who drive daily, especially in dense traffic
+- Households with a teen driver
+- Dog owners
+- People who host often
+- Higher earners, whose future wages are the main asset at risk
+- Anyone with significant savings or retirement accounts outside protected plans
+
+## How to buy it without overpaying
+
+1. Ask your current auto and renters insurer first. Many give a multi-policy discount and make it simple to meet the underlying limits.
+2. Get a quote for the underlying limit increases and the umbrella together, so you see the true total.
+3. List every driver and vehicle in the household. A missing driver can void coverage for that person.
+4. Disclose pets, a home business, and any rideshare or delivery driving.
+5. Revisit the limit when your income or household changes.
+
+## Three renters, three answers
+
+**A 26-year-old who bikes to work, no car, modest savings.** Renters liability of $300,000 probably covers the realistic risks: a guest injury, a dog bite, or fire damage to the building. An umbrella would cost little, but the case for it is weaker without a car. Raising the renters liability limit is the cheap first step.
+
+**A 34-year-old who drives 40 minutes each way and earns well.** Driving is the biggest exposure by far. Higher auto limits plus a $1 million umbrella make sense here, because a serious crash could produce a judgment much larger than any auto policy's per-person limit, and a high income is exactly what a creditor can reach.
+
+**A couple with a teenage driver and a large dog, renting a house.** Two of the most common sources of large claims under one roof. An umbrella is close to essential, and $2 million is worth pricing.
+
+## How judgments reach renters
+
+When a court award exceeds your insurance, the injured person becomes a judgment creditor. Depending on the state, they can garnish a portion of your wages, levy bank accounts, and place liens on property you acquire later. Judgments can be renewed in many states, so they can stay collectible for decades. Retirement accounts in qualified plans are often protected, but ordinary savings and future paychecks usually aren't.
+
+Bankruptcy doesn't always help either. Some debts from injuries caused while driving under the influence, or from intentional harm, generally can't be discharged.
+
+That's the real reason an umbrella can matter to a renter: it protects income you haven't earned yet.
+
+## Reading the umbrella's conditions
+
+Before you buy, look for these in the policy or the quote:
+
+- **Required underlying limits** for each auto and renters policy, and what happens if you let one lapse.
+- **Who counts as an insured**: usually you and resident relatives. Check how it treats young adults living at home and anyone away at college.
+- **Excluded vehicles**: motorcycles, boats, and off-road vehicles may need their own underlying coverage or be excluded.
+- **A retained limit**: a deductible-like amount for claims the underlying policies don't cover at all.
+- **Defense costs**: whether they're in addition to the limit or reduce it.
+
+## Quick answers
+
+**Does my renters policy already include liability?**
+Yes, usually $100,000 to $300,000. The umbrella adds a much higher layer on top.
+
+**Is $1 million enough?**
+For most renters, it's a reasonable starting point. Higher earners sometimes choose $2 million.
+
+**Does an umbrella cover my roommate?**
+Usually only household members who are relatives. An unrelated roommate needs their own coverage.
+
+**Can I get an umbrella without a car?**
+Yes. The underlying requirement is then usually just renters liability.
+
+### Sources and further reading
+
+- Insurance Information Institute: [Umbrella liability insurance](https://www.iii.org/article/what-umbrella-liability-insurance)
+- National Association of Insurance Commissioners: [Consumer insurance resources](https://content.naic.org/consumer)
+- Consumer Financial Protection Bureau: [Debt collection and wage garnishment](https://www.consumerfinance.gov/consumer-tools/debt-collection/)
+
+*Hypothetical figures and illustrative prices. General information only, not insurance or legal advice.*
+
+
+Photos (CC0): [Cars Traffic](https://stocksnap.io/photo/cars-traffic-OEP6DXZE7T) by Nabeel Syed; [Rain Umbrella](https://stocksnap.io/photo/rain-umbrella-KU7VC6HZWJ) by Freddie Marriage. Charts by the author.

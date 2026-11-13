@@ -1,0 +1,164 @@
+Every mortgage calculator online gives you the same handful of numbers: the payment, the total interest, maybe a payoff date. What they rarely let you do is ask the questions that actually decide what to do with spare cash. What does an extra $200 a month do? Is it better to send a $25,000 bonus to principal or ask the lender to recast? When does the loan start paying down more principal than interest?
+
+You can answer all of these with about 40 lines of Python. This post builds an amortization schedule from scratch, checks it against the standard formula, and uses it to compare extra payments, lump-sum prepayment, and recasting on a $400,000, 30-year loan at 6.5%.
+
+![Home Office](https://jd221182-hue.github.io/media/f/hn-amort-hero.jpg)
+
+*An amortization schedule is just a loop: interest on the balance, the rest of the payment to principal, repeat.*
+
+## The payment formula
+
+For a fixed-rate loan with balance *L*, monthly rate *r*, and *n* monthly payments, the payment is:
+
+```
+P = r × L / (1 − (1 + r)^−n)
+```
+
+With *L* = $400,000, *r* = 0.065 / 12, and *n* = 360:
+
+```python
+L, r, n = 400_000, 0.065 / 12, 360
+P = r * L / (1 - (1 + r) ** -n)
+print(round(P, 2))   # 2528.27
+```
+
+That's $2,528.27 a month in principal and interest. Taxes and insurance in escrow come on top and don't affect the schedule.
+
+## Building the schedule
+
+Each month, interest is the monthly rate times the current balance. Whatever is left of the payment goes to principal. Any extra payment goes entirely to principal.
+
+```python
+def schedule(L, annual_rate, n, extra=0.0, lump=None, recast=False):
+    """Yield (month, interest, principal, balance, payment).
+    lump = (month, amount) applied after that month's payment.
+    recast=True re-amortizes the new balance over the remaining term."""
+    r = annual_rate / 12
+    pay = r * L / (1 - (1 + r) ** -n)
+    b, m = L, 0
+    while b > 0.005:
+        m += 1
+        i = b * r
+        p = min(pay - i + extra, b)
+        b -= p
+        yield m, i, p, b, pay
+        if lump and m == lump[0]:
+            b -= lump[1]
+            if recast:
+                pay = r * b / (1 - (1 + r) ** -(n - m))
+```
+
+A quick check that it matches the formula: total interest over the scheduled 30 years should equal 360 × P − L.
+
+```python
+rows = list(schedule(400_000, 0.065, 360))
+total_interest = sum(row[1] for row in rows)
+print(len(rows), round(total_interest))        # 360 510178
+print(round(360 * 2528.27 - 400_000))          # 510177  (rounding of P)
+```
+
+The loan costs $510,178 in interest, more than the original balance.
+
+## Where the payment goes
+
+The first payment is $2,166.67 of interest and $361.61 of principal. Over the first year, 85% of what you pay is interest. The split doesn't flip until month 233, in year 20.
+
+![Stacked bar chart of yearly interest and principal on a $400,000 loan at 6.5% over 30 years, showing 85% interest in year 1 and principal passing interest in year 20](https://jd221182-hue.github.io/media/f/hn-amort-split.png)
+
+*Same $30,339 every year, but the interest share falls from 85% in year 1 to 3% in year 30. Principal passes interest in year 20.*
+
+This front-loading is why extra principal early in the loan has such a large effect. Every dollar of principal you pay in year 2 stops accruing 6.5% interest for the next 28 years.
+
+## Extra principal every month
+
+```python
+for extra in (0, 100, 200, 500):
+    rows = list(schedule(400_000, 0.065, 360, extra=extra))
+    print(extra, len(rows), round(sum(r[1] for r in rows)))
+```
+
+| Extra per month | Payoff | Total interest | Interest saved |
+|---|---|---|---|
+| $0 | 30.0 years | $510,178 | — |
+| $100 | 26.8 years | $446,261 | $63,917 |
+| $200 | 24.4 years | $398,286 | $111,892 |
+| $500 | 19.4 years | $304,621 | $205,557 |
+
+![Line chart of loan balance over time for no extra payment, $200 extra per month, and $500 extra per month, showing payoff at 30, 24.4, and 19.4 years](https://jd221182-hue.github.io/media/f/hn-amort-balance.png)
+
+*An extra $200 a month takes 5.6 years off the loan and saves about $112,000 in interest.*
+
+Look at the $200 row as an investment. You put in $200 × 293 months = $58,600 of extra principal and avoid $111,892 of interest. That isn't a free lunch: it's the 6.5% rate compounding in your favor instead of the lender's. The fair comparison is the after-tax return you'd earn on that money elsewhere, with similar risk. A guaranteed 6.5% is hard to match with anything else that's guaranteed.
+
+## Lump sum: prepay or recast?
+
+Suppose a $25,000 bonus arrives right after the 60th payment, when the balance is $374,444. There are two ways to use it:
+
+- **Prepay and keep the payment.** The balance drops to $349,444. The payment stays $2,528.27, so the loan ends early.
+- **Recast.** The lender re-amortizes the new balance over the remaining 300 months. The payment drops and the end date stays the same. Lenders usually charge a small fee and require a minimum lump sum.
+
+```python
+prepay = list(schedule(400_000, 0.065, 360, lump=(60, 25_000)))
+recast = list(schedule(400_000, 0.065, 360, lump=(60, 25_000), recast=True))
+print(len(prepay), round(sum(r[1] for r in prepay)))                   # 316 423014
+print(len(recast), round(sum(r[1] for r in recast)), round(recast[-1][4], 2))  # 360 484537 2359.47
+```
+
+| Option | Payment after year 5 | Loan ends | Total interest |
+|---|---|---|---|
+| No lump sum | $2,528.27 | Year 30 | $510,178 |
+| Prepay, keep payment | $2,528.27 | Year 26.3 | $423,014 |
+| Recast | $2,359.47 | Year 30 | $484,537 |
+
+![Two-panel chart: left shows balance over time for no lump sum, prepay, and recast; right shows total interest of $510k, $423k, and $485k](https://jd221182-hue.github.io/media/f/hn-amort-recast.png)
+
+*Prepaying saves more interest because you keep paying the higher payment. Recasting lowers the payment by $168.80 a month and saves less.*
+
+Prepaying saves $87,164 in interest. Recasting saves only $25,641, but the payment drops by $168.80 a month for 25 years. The gap isn't really about the lump sum. It's about what happens to the $168.80 a month after a recast. If you spend it, prepay wins easily. If you put the $168.80 back toward principal every month, you end up very close to the prepay result.
+
+Choose a recast for flexibility: a lower required payment protects you if income drops. Choose prepay if you want the loan gone.
+
+![Laptop Keyboard](https://jd221182-hue.github.io/media/f/hn-amort-inline.jpg)
+
+*The point of running the numbers yourself is to compare options with the same assumptions, side by side.*
+
+## Things the simple model leaves out
+
+- **Daily interest.** Some loans, especially HELOCs, charge interest daily on the actual balance, so the timing of payments within a month matters. Standard fixed-rate mortgages compute interest monthly, as above.
+- **Payment application rules.** Make sure extra money is labeled "principal only." Otherwise a servicer may hold it as an advance on the next payment, which doesn't reduce interest.
+- **Rounding.** Servicers round to the cent each month, so the final payment is usually a little different from the others. The model handles this with `min(pay − i + extra, b)`.
+- **Taxes and opportunity cost.** If you itemize and deduct mortgage interest, your effective rate is lower than 6.5%. Compare after-tax rates.
+- **Liquidity.** Money in home equity is hard to get back out. Keep an emergency fund before you prepay aggressively.
+
+For a plain-English walk-through of how amortization works, including how to read the schedule a lender gives you, see this explainer on [mortgage amortization](https://vistacover.com/articles/mortgage-amortization-explained/).
+
+## Extending the script
+
+A few useful additions take only a few lines each:
+
+- **Biweekly payments:** half the payment every 14 days, which adds up to 13 full payments a year instead of 12.
+- **Rate changes:** for an adjustable-rate loan, recompute `pay` when the rate resets, using the remaining term.
+- **Export:** write the rows to CSV with the `csv` module and open the file in a spreadsheet.
+- **Compare to investing:** run the extra payments into a separate balance that grows at an assumed return, and compare net worth at the end of the term.
+
+## Frequently asked questions
+
+**Does paying extra lower my monthly payment?**
+No, unless you recast. Extra principal shortens the loan. The required payment stays the same.
+
+**Is it better to pay extra early or late in the loan?**
+Early. Principal paid early avoids interest for more years.
+
+**Can I deduct the interest I didn't pay?**
+No. You can only deduct interest you actually paid, and only if you itemize.
+
+### Sources and further reading
+
+- Consumer Financial Protection Bureau: [What is amortization and how could it affect my loan?](https://www.consumerfinance.gov/ask-cfpb/what-is-amortization-and-how-could-it-affect-my-auto-loan-en-779/)
+- Consumer Financial Protection Bureau: [Owning a home](https://www.consumerfinance.gov/owning-a-home/)
+- Python documentation: [The csv module](https://docs.python.org/3/library/csv.html)
+
+*Hypothetical loan. General information only, not financial advice. Check your loan documents for prepayment and recast terms.*
+
+
+Photos (CC0): [Home Office](https://stocksnap.io/photo/home-office-TTSZNHYKJD) by Matt Bango; [Laptop Keyboard](https://stocksnap.io/photo/laptop-keyboard-RHVMWGQKBE) by Tim Sullivan. Charts by the author.

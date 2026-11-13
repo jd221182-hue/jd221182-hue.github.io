@@ -1,0 +1,131 @@
+Pet insurance is mostly sold on a monthly price and a reimbursement percentage: 70%, 80%, or 90%. The percentage is the number people remember, and it's the one most likely to mislead. How much you actually get back on a vet bill depends on the deductible, the order in which the deductible and the percentage are applied, annual limits, and what counts as a pre-existing condition.
+
+This page works through a $4,000 surgery bill under three plan setups, shows the order-of-operations detail that changes the payout, and looks at how premiums tend to rise as a pet gets older.
+
+![Dog Pet](https://jd221182-hue.github.io/media/f/wx-petins-hero.jpg)
+
+*A single orthopedic surgery can cost more than several years of premiums, which is the case for buying coverage.*
+
+## The pieces that set the payout
+
+| Plan feature | What it does | Common options |
+|---|---|---|
+| Reimbursement percentage | The share of the covered bill the plan pays after the deductible | 70%, 80%, 90% |
+| Deductible | What you pay before reimbursement starts | $100–$1,000; annual or per condition |
+| Annual limit | The most the plan pays in a policy year | $5,000, $10,000, unlimited |
+| Exam fees | Whether the vet's exam charge is covered | Included or excluded |
+| Waiting periods | Time after enrollment before claims are covered | Often days for accidents, weeks for illness, longer for orthopedic |
+| Pre-existing conditions | Conditions that showed signs before coverage | Usually excluded; some plans allow cured conditions after a period |
+
+A plan is reimbursement-based: you pay the vet, file a claim, and get paid back.
+
+## A $4,000 surgery under three setups
+
+A dog tears a knee ligament, and surgery plus aftercare comes to $4,000, all covered.
+
+| Plan | Calculation | Plan pays | You pay |
+|---|---|---|---|
+| 90%, $250 deductible | ($4,000 − $250) × 90% | $3,375 | $625 |
+| 80%, $500 deductible | ($4,000 − $500) × 80% | $2,800 | $1,200 |
+| 70%, $1,000 deductible | ($4,000 − $1,000) × 70% | $2,100 | $1,900 |
+
+![Line chart of how much each plan pays across vet bills up to $8,000, with markers at a $4,000 surgery: $3,375 for 90% with $250 deductible, $2,800 for 80% with $500 deductible, and $2,100 for 70% with $1,000 deductible](https://jd221182-hue.github.io/media/f/wx-petins-payout.png)
+
+*The higher-reimbursement plan pays $1,275 more on the same surgery. On small bills, a high deductible means the plan pays nothing.*
+
+The richer plan costs more each month. Whether it's worth it depends on how likely you are to have a large bill. For young dogs of breeds prone to joint problems, the bigger reimbursement often pays off.
+
+## The order-of-operations detail
+
+Most plans subtract the deductible first, then apply the percentage. A few apply the percentage first, then subtract the deductible. Same bill, same numbers, different payment:
+
+![Bar chart comparing $2,800 paid when the deductible is applied before 80% reimbursement with $2,700 paid when 80% is applied before the deductible on a $4,000 bill](https://jd221182-hue.github.io/media/f/wx-petins-order.png)
+
+*Applying the percentage first costs you an extra 20% of the deductible, here $100, on every claim that meets the deductible.*
+
+The difference equals the deductible times the share you pay, here $500 × 20% = $100. It's not huge, but it applies every year you meet the deductible. The sample claim in the policy documents shows which order a plan uses.
+
+## Annual vs. per-condition deductibles
+
+- **Annual deductible:** met once per policy year, then all covered claims are reimbursed for the rest of that year.
+- **Per-condition (or per-incident) deductible:** met separately for each new condition. Sometimes it's met once per lifetime per condition, which can work well for chronic conditions.
+
+For a pet with several different problems in one year, an annual deductible is usually better. For a single chronic condition that lasts years, a lifetime per-condition deductible can be better.
+
+## Where claims get denied
+
+**Pre-existing conditions.** Anything with signs before coverage started, or during a waiting period, is usually excluded. Get the vet records reviewed before enrolling, and enroll young to keep the list short.
+
+**Bilateral conditions.** Some plans treat conditions that can affect both sides of the body as one condition. Knee ligaments and hips are the common examples. If the left knee was injured before coverage, the right knee may be excluded too.
+
+**Exam fees and extras.** Some plans exclude the exam fee, which adds up over many visits. Prescription food, supplements, and behavioral therapy vary by plan.
+
+**Routine care.** Vaccines, dental cleanings, and checkups usually need a separate wellness add-on. Run the math on a wellness add-on separately. Often it simply prepays care you'd buy anyway, plus a margin.
+
+![Dog Cat](https://jd221182-hue.github.io/media/f/wx-petins-inline.jpg)
+
+*Ask your vet for complete records before you enroll, so you know what an insurer might call pre-existing.*
+
+## Premiums as a pet ages
+
+Premiums usually rise with age, sometimes steeply in the senior years, on top of general price increases.
+
+![Line chart of hypothetical monthly premiums for a medium-size dog rising from $38 at age 0 to about $45 at 4, $69 at 8, and $125 at 12](https://jd221182-hue.github.io/media/f/wx-petins-age.png)
+
+*In this example the premium more than triples by age 12. Plan for that before you choose a rich plan for a puppy.*
+
+It's tempting to drop coverage when premiums climb, but older pets also have the most claims, and a new insurer will exclude anything the pet already has. Raising the deductible or lowering the reimbursement percentage is usually a better way to keep coverage affordable than canceling.
+
+For a closer look at exclusions, waiting periods, and how to compare policies line by line, see this guide to [pet insurance reimbursement and exclusions](https://vistacover.com/guides/pet-insurance-reimbursement-and-exclusions/).
+
+## Annual limits: when they bite
+
+A $5,000 annual limit sounds like plenty until a dog has a cruciate repair in March and swallows a sock in October. Using an 80% plan with a $500 deductible:
+
+| Event | Bill | Plan pays | Running total |
+|---|---|---|---|
+| Knee surgery, March | $4,000 | $2,800 | $2,800 |
+| Follow-up rehab, April–May | $900 | $720 | $3,520 |
+| Foreign-body surgery, October | $3,800 | $1,480 (limit reached) | $5,000 |
+
+The October surgery should have paid $3,040, but only $1,480 remained under the limit, leaving $1,560 more for the owner to pay. For a young, active dog, or a breed with known orthopedic problems, an unlimited or $10,000+ annual limit is often worth the higher premium. For an older cat that rarely leaves the house, a lower limit may be fine.
+
+## Accident-only plans
+
+Accident-only plans cover injuries such as broken bones, swallowed objects, and bite wounds, but not illnesses such as cancer, diabetes, or allergies. They're much cheaper and have short waiting periods. They can make sense for an older pet whose illness coverage would be very expensive, or as a bridge while you build a dedicated vet savings fund. Most large lifetime vet costs come from illness, though, so accident-only isn't a substitute for full coverage on a young pet.
+
+## Comparing two quotes the right way
+
+1. Pick three realistic bills: a $400 illness visit, a $4,000 surgery, and a $10,000 cancer treatment over a year.
+2. Run each through each plan's deductible, reimbursement, order of operations, and annual limit.
+3. Add up a year's premiums for each plan.
+4. Compare the total out-of-pocket (premiums plus your share of bills) under each scenario.
+5. Repeat for the pet at age 8, with that age's premium.
+
+A plan that's cheapest for a puppy is often not the cheapest over the pet's whole life.
+
+## Is it worth it?
+
+Pet insurance makes the most sense when a $3,000 to $8,000 bill would force a hard decision about your pet's care. If you could pay a bill like that from savings without strain, self-insuring is reasonable. Put the premium into a dedicated savings account each month instead. If you couldn't, insurance turns an impossible decision into a manageable one.
+
+## Quick answers
+
+**Do I have to use a specific vet?**
+Usually not. Most plans reimburse any licensed vet.
+
+**Can the plan be canceled if my pet gets sick?**
+Most plans renew each year. Read the renewal terms, and watch for age-based premium increases.
+
+**Is a 100% reimbursement plan a good deal?**
+It pays the most per claim but costs the most per month. Compare the premium difference with how much more it pays on likely bills.
+
+### Sources and further reading
+
+- American Veterinary Medical Association: [Pet health insurance](https://www.avma.org/resources-tools/pet-owners/petcare/pet-insurance)
+- National Association of Insurance Commissioners: [Pet insurance consumer information](https://content.naic.org/consumer)
+- Federal Trade Commission: [Buying a pet? Tips for pet owners](https://consumer.ftc.gov/)
+
+*Hypothetical bills and premiums. General information only, not insurance or veterinary advice. Read your policy's sample claim calculation.*
+
+
+Photos (CC0): [Dog Pet](https://stocksnap.io/photo/dog-pet-S2QPBLPTL5) by Pawel Kadysz; [Dog Cat](https://stocksnap.io/photo/dog-cat-YNI4E0XAAS) by Krista Mangulsone. Charts by the author.

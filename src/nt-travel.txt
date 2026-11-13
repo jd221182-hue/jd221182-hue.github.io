@@ -1,0 +1,126 @@
+<p>Travel insurance gets sold as one product, but it's really two very different ones in a single box. <strong>Trip cancellation</strong> protects the money you've prepaid for the trip. <strong>Travel medical and evacuation</strong> protects you from bills that can be many times the trip's cost if you get sick or hurt far from home. Knowing which one you actually need, and what triggers each, is most of the decision.</p>
+<p>This guide works through an $8,000 prepaid trip: what you get back when you cancel for different reasons, what "cancel for any reason" really pays, what a plan might cost, and what a medical emergency abroad can cost compared with the coverage limits.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/nt-travel-hero.jpg" alt="Airport People" width="1200" height="675" loading="lazy"><figcaption>The trip cost is what you can lose by canceling. The medical bill is what you can lose by going.</figcaption></figure>
+
+<h2>The two halves of a plan</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Trip cancellation and interruption</th>
+<th>Travel medical and evacuation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Protects</td>
+<td>Prepaid, nonrefundable trip costs</td>
+<td>Emergency medical care and transport while traveling</td>
+</tr>
+<tr>
+<td>Pays when</td>
+<td>You cancel or cut short for a covered reason</td>
+<td>You need emergency care or evacuation</td>
+</tr>
+<tr>
+<td>Limit</td>
+<td>Usually the insured trip cost</td>
+<td>A set amount, such as $50,000 medical and $250,000 evacuation</td>
+</tr>
+<tr>
+<td>Most important if</td>
+<td>You've prepaid a lot that you can't get back</td>
+<td>Your health coverage pays little or nothing where you're going</td>
+</tr>
+</tbody>
+</table>
+<p>A comprehensive plan bundles both. Medical-only plans cost much less and skip cancellation entirely.</p>
+<h2>Canceling an $8,000 trip</h2>
+<p>A couple prepays $8,000 in nonrefundable flights, a tour, and hotels. Here's what they get back if they cancel:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/nt-travel-cancel.png" alt="Bar chart of refunds on an $8,000 trip: $8,000 for a covered reason, $6,000 with 75% cancel-for-any-reason coverage, $4,000 with 50% CFAR, and $0 for a reason that isn't covered" width="1200" height="672" loading="lazy"><figcaption>Covered reasons return the full insured cost. Cancel for any reason returns part of it. A reason that isn't on the list returns nothing.</figcaption></figure>
+
+<p><strong>Covered reasons</strong> are listed in the policy and usually include serious illness or injury of the traveler, a travel companion, or a close family member; the death of a family member; severe weather that stops a carrier; and certain other events. "I changed my mind" isn't on the list, and neither is a worry about something that might happen.</p>
+<p><strong>Cancel for any reason (CFAR)</strong> is an upgrade that lets you cancel for reasons not on the list and get back part of your cost, usually 50% or 75%. It usually comes with strict conditions:</p>
+<ul>
+<li>You must buy it within a short window after your first trip deposit, often 14 to 21 days.</li>
+<li>You must insure the full prepaid trip cost.</li>
+<li>You must cancel at least a set time before departure, often 48 or 72 hours.</li>
+</ul>
+<h2>What a plan might cost</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/nt-travel-price.png" alt="Bar chart of illustrative prices on an $8,000 trip: $480 for cancellation plus medical, $720 with cancel-for-any-reason added, and $110 for medical and evacuation only" width="1200" height="672" loading="lazy"><figcaption>Cancellation coverage is priced as a share of the trip cost. Medical-only plans are much cheaper because they don't insure the prepaid money.</figcaption></figure>
+
+<p>Comprehensive plans are often priced at roughly 4% to 10% of the insured trip cost, depending on travelers' ages, destination, and limits. CFAR adds a significant extra. The example prices are illustrative, not quotes.</p>
+<p>A useful way to decide: how much of the trip could you get back without insurance? Refundable hotels, airline credits, and a credit card's built-in trip protection may already cover a good part of it. Only insure what you can't get back.</p>
+<h2>Medical emergencies abroad</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/nt-travel-medical.png" alt="Grouped bar chart comparing possible bills abroad with what a plan with $50,000 medical and $250,000 evacuation would pay: $3,500 ER visit, $28,000 hospital stay, $85,000 air ambulance, all fully covered by those limits" width="1200" height="672" loading="lazy"><figcaption>A four-night hospital stay or an air ambulance can cost several times the trip itself. These are the bills a medical plan exists for.</figcaption></figure>
+
+<p>Before you buy medical coverage, check what you already have:</p>
+<ul>
+<li><strong>Original Medicare</strong> generally doesn't pay for care outside the U.S., with narrow exceptions. Some Medicare Supplement plans include limited foreign travel emergency coverage.</li>
+<li><strong>Employer and individual health plans</strong> vary widely. Some cover emergencies abroad as out-of-network care; many don't cover medical evacuation at all.</li>
+<li><strong>Credit cards</strong> sometimes include evacuation or travel medical benefits, but limits and conditions vary.</li>
+</ul>
+<p>If your existing coverage is thin abroad, a medical and evacuation plan is usually the most valuable part of travel insurance, and it's cheap compared with cancellation coverage.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/nt-travel-inline.jpg" alt="Passport Table" width="1200" height="675" loading="lazy"><figcaption>Check your existing health coverage before you buy: many plans pay little or nothing outside the country.</figcaption></figure>
+
+<h2>Pre-existing conditions</h2>
+<p>Many plans exclude claims caused by a medical condition that existed before you bought the policy, usually defined by a look-back period such as 60 to 180 days. Some plans waive that exclusion if you buy within a short time after your first trip deposit and insure the full trip cost. If you or a family member whose illness could cancel the trip has an ongoing condition, that waiver can be the most important feature of the plan.</p>
+<p>For a side-by-side comparison of cancellation and medical coverage, including when you might need only one, see this explainer on <a href="https://vistacover.com/guides/travel-insurance-cancellation-vs-medical/">travel insurance: cancellation vs. medical</a>.</p>
+<h2>Trip interruption: coming home early</h2>
+<p>Interruption coverage is the other half of the cancellation benefit. It pays when a covered reason forces you to cut a trip short once it's started. On our $8,000 trip, suppose a family member at home is hospitalized on day 4 of a 10-day trip:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unused prepaid tour days and hotels (6 of 10 days)</td>
+<td>$3,600</td>
+</tr>
+<tr>
+<td>One-way flights home for two, booked last minute</td>
+<td>$1,400</td>
+</tr>
+<tr>
+<td><strong>Typical interruption payment</strong></td>
+<td><strong>$5,000</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Many plans pay interruption up to 125% to 150% of the insured trip cost, because last-minute flights home are expensive. Check that limit, and keep every receipt and the medical documentation for the family member.</p>
+<h2>Delays and missed connections</h2>
+<p>Most comprehensive plans also include smaller benefits:</p>
+<ul>
+<li><strong>Travel delay:</strong> a daily amount, often $100 to $200 per person, for meals and hotels after a delay of a set length, such as 6 or 12 hours.</li>
+<li><strong>Missed connection:</strong> costs to catch up with a cruise or tour you missed because of a covered delay.</li>
+<li><strong>Baggage delay and loss:</strong> essentials while bags are delayed, and a limit for lost bags, usually with low per-item caps for electronics and jewelry.</li>
+</ul>
+<p>These benefits rarely justify a plan on their own, but they're useful when something goes wrong, and many credit cards duplicate them.</p>
+<h2>Older travelers</h2>
+<p>Prices rise steeply with age, and the medical part matters more. Original Medicare generally doesn't cover care abroad, so a medical and evacuation plan is often the most valuable purchase for travelers over 65, even when they skip cancellation coverage. For a cruise, check whether the ship's medical center bills separately (it usually does) and whether evacuation from a ship at sea is covered.</p>
+<h2>A quick buying checklist</h2>
+<ol>
+<li>Add up what you couldn't get back if you canceled tomorrow. That's the amount to insure.</li>
+<li>Check your health plan's and credit cards' coverage abroad.</li>
+<li>Decide whether you need cancellation, medical, or both.</li>
+<li>If you want CFAR or a pre-existing condition waiver, buy soon after your first deposit.</li>
+<li>Read the list of covered reasons, not just the summary.</li>
+<li>Keep receipts, booking confirmations, and any medical documentation for a claim.</li>
+</ol>
+<h2>Quick answers</h2>
+<p><strong>Does travel insurance cover canceling because of bad weather forecasts?</strong>
+Usually not for a forecast. It often covers a carrier canceling because of severe weather, or a hurricane that makes the destination uninhabitable, under specific conditions.</p>
+<p><strong>Is the insurance from the airline or tour company enough?</strong>
+Sometimes, but it may only give credits instead of cash, and it may not cover you if that company fails. Compare it with a separate plan.</p>
+<p><strong>Can I buy coverage after I've booked?</strong>
+Yes, usually up to departure. Some features, such as CFAR and pre-existing condition waivers, have earlier deadlines.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>U.S. Department of State: <a href="https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/insurance-providers-overseas.html">Insurance coverage overseas</a></li>
+<li>Medicare.gov: <a href="https://www.medicare.gov/coverage/travel-outside-the-u-s">Travel outside the U.S.</a></li>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/consumer">Consumer insurance resources</a></li>
+</ul>
+<p><em>Hypothetical trip and illustrative prices. General information only, not insurance advice. Covered reasons and conditions vary by plan.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/airport-people-55EAC841F9">Airport People</a> by Ashim%20D%u2019Silva (CC0); photo: <a href="https://stocksnap.io/photo/passport-table-VZTYVVUYZB">Passport Table</a> by Kristin Hardwick (CC0). Charts by the author.</small></p>
