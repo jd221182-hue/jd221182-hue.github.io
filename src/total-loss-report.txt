@@ -1,0 +1,251 @@
+<p>When an insurer declares a car a total loss, it sends a valuation report, often 10 to 20 pages long, that arrives at one number: what your car was worth the moment before the crash. That number is the settlement offer, and it is built from comparable vehicles, mileage adjustments, condition ratings, and options. Every one of those inputs can be checked.</p>
+<p>This guide walks through a hypothetical valuation report section by section, shows how much each adjustment moves the number, and gives a step-by-step process for disputing a low offer with evidence instead of frustration.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/total-loss-report-hero.jpg" alt="Santamonica Street" width="1200" height="675" loading="lazy"><figcaption>A total-loss offer is built from comparable listings and adjustments. Each one can be checked against the real market.</figcaption></figure>
+
+<h2>Why the car was "totaled" in the first place</h2>
+<p>A car is usually declared a total loss when the cost to repair it (plus its salvage value, in some formulas) reaches a certain share of its actual cash value. Many states set a <strong>total loss threshold</strong> by law, commonly somewhere between 60% and 100% of the car's value; other states use a "total loss formula" comparing repair cost plus salvage value to the car's value.</p>
+<p>For example, if a car is worth $16,000 and the threshold is 75%, repair estimates above $12,000 would make it a total loss. Insurers may also total a car below the threshold if hidden damage is likely.</p>
+<h2>The sections of a valuation report</h2>
+<p>Most reports, whichever valuation vendor the insurer uses, include:</p>
+<ol>
+<li><strong>Vehicle details:</strong> VIN, year, make, model, trim, engine, and installed options decoded from the VIN.</li>
+<li><strong>Condition assessment:</strong> ratings for interior, exterior, mechanical, and tires, compared with a "typical" vehicle.</li>
+<li><strong>Comparable vehicles ("comps"):</strong> recent dealer listings or sales of similar cars in your area, each with its mileage, options, and distance from you.</li>
+<li><strong>Adjustments:</strong> dollar adjustments to each comp for mileage, options, and equipment differences, plus sometimes a "projected sold" adjustment that reduces listing prices to estimated selling prices.</li>
+<li><strong>Base value</strong> averaged from the adjusted comps.</li>
+<li><strong>Condition adjustment</strong> to your car.</li>
+<li><strong>Settlement summary:</strong> value, plus taxes and fees where applicable, minus deductible and any prior damage.</li>
+</ol>
+<h2>Checking the comparable vehicles</h2>
+<p>The comps drive everything. Here are five comps from a hypothetical report for a car with 68,000 miles:</p>
+<table>
+<thead>
+<tr>
+<th>Comp</th>
+<th>Listing price</th>
+<th>Miles</th>
+<th>Distance</th>
+<th>Projected sold adj.</th>
+<th>Mileage adj.</th>
+<th>Options adj.</th>
+<th>Adjusted value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>$17,450</td>
+<td>61,200</td>
+<td>22 mi</td>
+<td>−$520</td>
+<td>−$370</td>
+<td>+$0</td>
+<td>$16,560</td>
+</tr>
+<tr>
+<td>2</td>
+<td>$16,990</td>
+<td>74,800</td>
+<td>35 mi</td>
+<td>−$510</td>
+<td>+$350</td>
+<td>−$400</td>
+<td>$16,430</td>
+</tr>
+<tr>
+<td>3</td>
+<td>$15,800</td>
+<td>82,500</td>
+<td>58 mi</td>
+<td>−$470</td>
+<td>+$720</td>
+<td>+$0</td>
+<td>$16,050</td>
+</tr>
+<tr>
+<td>4</td>
+<td>$18,200</td>
+<td>55,900</td>
+<td>41 mi</td>
+<td>−$550</td>
+<td>−$640</td>
+<td>−$400</td>
+<td>$16,610</td>
+</tr>
+<tr>
+<td>5</td>
+<td>$14,950</td>
+<td>91,000</td>
+<td>87 mi</td>
+<td>−$450</td>
+<td>+$1,100</td>
+<td>+$350</td>
+<td>$15,950</td>
+</tr>
+<tr>
+<td><strong>Average</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><strong>$16,320</strong></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/total-loss-report-comps.png" alt="Scatter plot of comparable vehicle listing prices against mileage with a fitted trend line and the subject vehicle marked at 68,000 miles" width="1200" height="672" loading="lazy"><figcaption>Comparable listings and the market trend line. The subject car at 68,000 miles sits right on the line, which supports a value of about $17,100 at list prices, before any projected-sold discount.</figcaption></figure>
+
+<p>What to look for:</p>
+<ul>
+<li><strong>Wrong trim or options.</strong> If your car is a higher trim with a technology package, comps of the base trim pull the value down. Check every comp's VIN or listing.</li>
+<li><strong>Comps far away or in a different market.</strong> A comp 87 miles away in a cheaper market can drag the average.</li>
+<li><strong>Mileage adjustments that seem too large or too small.</strong> The mileage adjustment rate should be consistent across comps.</li>
+<li><strong>"Projected sold" adjustments.</strong> Some reports reduce dealer list prices to estimated transaction prices. Some states restrict this; others allow it if it's supported. If yours shows one, ask what data supports the size of the reduction.</li>
+<li><strong>Stale listings.</strong> Comps should be recent. A listing from months ago in a fast-moving market may be out of date.</li>
+</ul>
+<h2>The condition adjustment</h2>
+<p>Reports often rate your car's condition against a typical car of the same age and apply a dollar adjustment. A small change in a rating can move the value by hundreds of dollars.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/total-loss-report-condition.png" alt="Bar chart of how condition ratings for interior, exterior, mechanical, and tires adjust a car's value, comparing the report's ratings to documented ratings" width="1200" height="672" loading="lazy"><figcaption>How condition ratings change value. Photos and service records can move a rating up a notch.</figcaption></figure>
+
+<p>If the report says your interior was "fair" but you have photos from last month showing it was clean and undamaged, send them. Maintenance records, recent tires, new brakes, and a recent major service can all support a better mechanical and tire rating. Receipts for tires or major repairs in the last year or so can justify a value increase.</p>
+<h2>Taxes, title, and fees</h2>
+<p>In many states, a total-loss settlement must include <strong>sales tax</strong> on the vehicle's value, plus <strong>title and registration fees</strong>, because you'll need to pay these to replace the car. Rules vary: some states require it for all policyholders, some only once you buy a replacement, and some do not address it in the same way. Check the settlement summary for these lines. Missing sales tax on a $16,000 car could be worth $1,000 or more.</p>
+<h2>Putting it together</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/total-loss-report-waterfall.png" alt="Waterfall chart from average adjusted comparable value through condition adjustments, recent tire credit, sales tax, title fees, and deductible to the final settlement" width="1200" height="672" loading="lazy"><figcaption>How a hypothetical settlement is built, and how documentation can move it from the first offer to the revised one.</figcaption></figure>
+
+<p>In this example, the first offer was <strong>$14,720</strong> after a $1,000 deductible. With corrected trim on two comps, better condition ratings backed by photos, a credit for tires bought six months earlier, and sales tax added, the revised settlement came to <strong>$17,670</strong>: about $2,950 more for an afternoon of work.</p>
+<h2>How to dispute a low offer, step by step</h2>
+<ol>
+<li><strong>Ask for the full valuation report</strong> if you only received a number.</li>
+<li><strong>Check the vehicle details:</strong> trim, engine, options, packages. Correct anything wrong with the window sticker or build sheet (often obtainable from the manufacturer by VIN).</li>
+<li><strong>Find your own comps.</strong> Search dealer listings for the same year, make, model, trim, and similar mileage within a reasonable radius. Save screenshots with dates.</li>
+<li><strong>Gather condition evidence:</strong> photos, service records, receipts for tires, brakes, and major repairs.</li>
+<li><strong>Write a short counter.</strong> List each correction with the dollar effect and attach the evidence. Ask for a revised valuation.</li>
+<li><strong>Use the appraisal clause</strong> if you can't agree. Most auto policies let each side hire an appraiser, with an umpire for disagreements. It costs money, so it's best for larger gaps.</li>
+<li><strong>Contact your state insurance department</strong> if the insurer isn't following state rules on total-loss valuation, sales tax, or response times.</li>
+</ol>
+<figure><img src="https://jd221182-hue.github.io/media/f/total-loss-report-inline.jpg" alt="Finance Flatlay" width="1200" height="675" loading="lazy"><figcaption>Comparable listings, saved with screenshots and dates, are the strongest evidence in a total-loss dispute.</figcaption></figure>
+
+<h2>If you owe more than the car is worth</h2>
+<p>If your loan balance is higher than the settlement, the insurer pays the lender first and you owe the difference, unless you have <strong>gap insurance</strong> or a loan with gap coverage built in. Check your loan paperwork and your auto policy for gap or loan/lease payoff coverage before you finalize.</p>
+<h2>Keeping the car</h2>
+<p>Some states let you keep a totaled car ("owner-retained salvage"). The insurer subtracts the salvage value from your settlement, and the car usually gets a salvage title, which affects registration, future insurance, and resale. It can make sense for an older car with mostly cosmetic damage.</p>
+<h2>How much each common error is worth</h2>
+<p>Not every mistake in a valuation report is equally valuable to fix. In a hypothetical $16,000 valuation, here's roughly how much each common problem can move the number:</p>
+<table>
+<thead>
+<tr>
+<th>Error</th>
+<th>Typical effect</th>
+<th>How to prove it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wrong trim level (base instead of upper trim)</td>
+<td>$800 to $2,500</td>
+<td>Window sticker, build sheet, VIN decode</td>
+</tr>
+<tr>
+<td>Missing factory package (technology, towing, premium audio)</td>
+<td>$300 to $1,200</td>
+<td>Window sticker, photos of features</td>
+</tr>
+<tr>
+<td>Condition rated below typical without inspection</td>
+<td>$200 to $800</td>
+<td>Recent photos, detailing receipts</td>
+</tr>
+<tr>
+<td>Recent tires, brakes, or major service not credited</td>
+<td>$200 to $700</td>
+<td>Receipts with dates and mileage</td>
+</tr>
+<tr>
+<td>Distant or mismatched comparables</td>
+<td>$300 to $1,500</td>
+<td>Your own local listings with screenshots</td>
+</tr>
+<tr>
+<td>Sales tax and fees omitted (where required)</td>
+<td>5% to 10% of value</td>
+<td>State rules, your registration documents</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/total-loss-report-errors.png" alt="Horizontal bar chart showing the dollar range each common valuation error can be worth on a $16,000 vehicle" width="1200" height="672" loading="lazy"><figcaption>Typical ranges each common error can be worth on a hypothetical $16,000 car. Wide ranges reflect differences between vehicles and markets.</figcaption></figure>
+
+<p>Start with the biggest items. Trim and options errors are the most valuable and the easiest to prove with documents.</p>
+<h2>A counteroffer letter you can adapt</h2>
+<blockquote>
+<p>Claim number: [number]</p>
+<p>I've reviewed the valuation report dated [date] and request a revised valuation based on the following corrections:</p>
+<ol>
+<li><strong>Trim:</strong> the vehicle is a [trim], not [trim in report]. Window sticker attached. Comparables 2 and 4 are the lower trim and should be replaced or adjusted.</li>
+<li><strong>Condition:</strong> the report rates the interior as below average. Photos taken [date] are attached and show no wear beyond normal.</li>
+<li><strong>Tires:</strong> four new tires were installed on [date] at [mileage]. Receipt attached.</li>
+<li><strong>Comparables:</strong> attached are three listings for the same year, trim, and similar mileage within 30 miles, priced between $[x] and $[y].</li>
+<li><strong>Taxes and fees:</strong> please include applicable sales tax and title fees as required in [state].</li>
+</ol>
+<p>Based on these corrections, I believe the actual cash value is approximately $[amount]. Please send a revised valuation or a written explanation for any item you won't adjust.</p>
+</blockquote>
+<p>Keep it factual and attach the evidence. A clear, documented request is far more likely to be adjusted than a phone call saying the offer is too low.</p>
+<h2>Should you keep the totaled car?</h2>
+<p>Owner-retained salvage can make sense, but run the numbers first. Hypothetical example:</p>
+<table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revised settlement (after deductible)</td>
+<td>$17,670</td>
+</tr>
+<tr>
+<td>Less salvage value retained by owner</td>
+<td>($3,200)</td>
+</tr>
+<tr>
+<td><strong>Payment if you keep the car</strong></td>
+<td><strong>$14,470</strong></td>
+</tr>
+<tr>
+<td>Estimated repair cost at an independent shop</td>
+<td>$6,800</td>
+</tr>
+<tr>
+<td>Inspection and salvage title fees (varies by state)</td>
+<td>$250</td>
+</tr>
+<tr>
+<td><strong>Total cost to put it back on the road</strong></td>
+<td><strong>$7,050</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Keeping the car leaves you with a repaired car and about $7,420 in cash ($14,470 − $7,050). Taking the full settlement and buying a comparable replacement for about $17,500 leaves you with a car and about $170. On paper, keeping it looks $7,250 better. The catch: the repaired car carries a salvage or rebuilt title, which can make it harder to insure for physical damage and noticeably reduces resale value, and hidden damage can surface later. It tends to work best for older, mechanically sound cars you plan to drive for years.</p>
+<h2>Watch the clock on rental and storage</h2>
+<p>Two costs keep running while you negotiate:</p>
+<ul>
+<li><strong>Rental car coverage</strong> usually ends a set number of days after the insurer makes a settlement offer, or when a policy limit is reached.</li>
+<li><strong>Storage fees</strong> at the tow yard or body shop can add up daily. Insurers typically pay reasonable storage until they make an offer, then may stop.</li>
+</ul>
+<p>Ask the adjuster to confirm both dates in writing and move the car to the insurer's salvage yard if storage fees are building. Negotiating doesn't have to mean paying for a rental out of pocket.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Do I have to accept the first offer?</strong>
+No. Negotiation is normal. Insurers generally have to pay a fair actual cash value, and they usually revise offers when presented with supported corrections.</p>
+<p><strong>Can the insurer use listings from far away?</strong>
+Many states have rules about how comparables are chosen, including how local they should be. When local comps exist, ask why distant ones were used.</p>
+<p><strong>How long do I have to respond?</strong>
+The policy and state rules govern timing. Rental car coverage may end a few days after the settlement offer, so respond promptly and in writing.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-aut-pp-consumer-auto.pdf">A consumer's guide to auto insurance (PDF)</a></li>
+<li>Your state insurance department's auto claims guide, which describes state rules on total-loss thresholds, comparables, and sales tax</li>
+<li>NHTSA: <a href="https://vpic.nhtsa.dot.gov/decoder/">VIN decoder</a> to confirm a vehicle's factory specifications</li>
+</ul>
+<p><em>All figures are hypothetical. This is general information, not insurance or legal advice. State law and your policy govern total-loss valuations.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/santamonica-street-EE7CC8DF17">Santamonica Street</a> by Jay Mantri (CC0); photo: <a href="https://stocksnap.io/photo/finance-flatlay-M9MYHLGNDA">Finance Flatlay</a> by Artsy Crafty (CC0). Charts by the author.</small></p>

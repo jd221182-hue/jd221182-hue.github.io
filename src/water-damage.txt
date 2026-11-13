@@ -1,0 +1,266 @@
+<p>Water is one of the most common reasons homeowners file claims, and one of the most common reasons claims get denied. The denial letters usually turn on a single question the homeowner never thought to ask: <em>how fast did the water come out?</em></p>
+<p>A pipe that bursts on a Tuesday afternoon and floods the kitchen is usually covered. A fitting that has dripped behind the same cabinet for eight months, rotting the subfloor, usually isn't, even though the damage might look similar and cost the same to fix. This guide explains why the timing matters so much, how adjusters tell the difference, and what to do in the first 48 hours so the timing works in your favor.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/water-damage-hero.jpg" alt="Farmhouse Kitchen" width="1200" height="675" loading="lazy"><figcaption>Most homeowners policies cover water that escapes suddenly. Water that seeps slowly over months is usually excluded.</figcaption></figure>
+
+<h2>The rule in one line</h2>
+<p>Standard homeowners policies generally cover <strong>sudden and accidental</strong> discharge of water from a plumbing, heating, or air-conditioning system or a household appliance. They generally exclude <strong>continuous or repeated seepage or leakage over time</strong>, often with wording along the lines of "over a period of weeks, months, or years."</p>
+<p>The policy is meant to cover accidents, not maintenance. A slow leak is treated as something a homeowner could have noticed and fixed.</p>
+<h2>Five water scenarios, five different answers</h2>
+<table>
+<thead>
+<tr>
+<th>What happened</th>
+<th>Typical answer under a standard homeowners policy</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Supply line to the washing machine bursts</td>
+<td>Usually covered</td>
+<td>Sudden, accidental discharge from an appliance</td>
+</tr>
+<tr>
+<td>Pipe in an exterior wall freezes and splits during a cold snap</td>
+<td>Usually covered, <em>if</em> you kept the heat on or drained the system</td>
+<td>Freezing exclusions often apply when a house is vacant or unheated</td>
+</tr>
+<tr>
+<td>Shower pan leaks slowly into the subfloor for a year</td>
+<td>Usually excluded</td>
+<td>Continuous or repeated seepage over time</td>
+</tr>
+<tr>
+<td>Heavy rain floods the basement through the walls</td>
+<td>Excluded (flood or surface water)</td>
+<td>Requires separate flood coverage</td>
+</tr>
+<tr>
+<td>Sewer backs up through a floor drain</td>
+<td>Excluded unless you bought water backup coverage</td>
+<td>Separate endorsement</td>
+</tr>
+</tbody>
+</table>
+<p>The same house can have several of these on the same day. A storm might cause surface water in the basement (excluded), a sewer backup (covered only with an endorsement), and a burst pipe in the attic from a fallen branch (likely covered).</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/water-damage-outcomes.png" alt="Horizontal bar chart showing water damage scenarios grouped as usually covered, depends on endorsement, and usually excluded" width="1200" height="672" loading="lazy"><figcaption>How common water losses usually line up under a standard homeowners form. Your policy wording controls.</figcaption></figure>
+
+<h2>How adjusters tell sudden from gradual</h2>
+<p>Adjusters, and sometimes the plumbers and mitigation companies they hire, look for physical evidence of how long water has been present. The clues that suggest a <strong>long-term leak</strong>:</p>
+<ul>
+<li><strong>Rot and delamination</strong> in wood subfloors and cabinet bases. Wood takes weeks to months of wetting to rot.</li>
+<li><strong>Mold colonies</strong> that are large or well established. Mold can start growing within 24 to 48 hours in the right conditions, but extensive colonies point to a longer timeline.</li>
+<li><strong>Staining in rings</strong> or "tide lines," which form as water repeatedly wets and dries.</li>
+<li><strong>Corrosion and mineral deposits</strong> on fittings and pipes.</li>
+<li><strong>Previous repair attempts</strong>, like caulk over a stain or paint over a ceiling spot.</li>
+</ul>
+<p>Clues that point to a <strong>sudden</strong> event:</p>
+<ul>
+<li>A visibly split pipe, a failed supply hose, or a burst water heater tank.</li>
+<li>Clean water spread across a wide area with no staining history.</li>
+<li>Wet materials that are still structurally sound.</li>
+<li>A spike on the water bill or smart meter, or a leak sensor alert, on a specific day.</li>
+</ul>
+<figure><img src="https://jd221182-hue.github.io/media/f/water-damage-timeline.png" alt="Timeline chart showing how long water typically needs to cause visible mold, swelling, staining, rot, and structural damage" width="1200" height="672" loading="lazy"><figcaption>Rough timelines for water damage signs. These guide how adjusters estimate how long water was present.</figcaption></figure>
+
+<p>That timeline is why a 48-hour response matters. If mitigation starts within a day or two, the damage looks like what it was: a sudden event.</p>
+<h2>The trap: covered pipe, excluded rot</h2>
+<p>Here's the version that frustrates people most. A pipe under the kitchen sink develops a pinhole leak and drips for six months. Then it finally bursts.</p>
+<p>The burst itself may be covered, and so may the <em>immediate</em> water damage from it. But the rotted subfloor and mold from the six months of dripping before the burst may be excluded. Adjusters often split these claims into covered and excluded portions.</p>
+<p>And the pipe itself? Many policies don't pay to repair the part that failed. They pay for the damage it caused, plus the cost of tearing out and replacing the wall or floor to reach the pipe ("tear-out" or access coverage).</p>
+<h3>A hypothetical split claim</h3>
+<table>
+<thead>
+<tr>
+<th>Line item</th>
+<th>Cost</th>
+<th>Covered?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Water extraction and drying after the burst</td>
+<td>$3,200</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Replacing swollen cabinet base</td>
+<td>$1,800</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Removing and replacing subfloor rotted over months</td>
+<td>$4,500</td>
+<td>Likely excluded</td>
+</tr>
+<tr>
+<td>Mold remediation</td>
+<td>$2,600</td>
+<td>Partly; many policies cap mold, often at a few thousand to $10,000</td>
+</tr>
+<tr>
+<td>Repairing the failed pipe fitting</td>
+<td>$350</td>
+<td>Often excluded (the part that failed)</td>
+</tr>
+<tr>
+<td>Tear-out to reach the pipe</td>
+<td>$900</td>
+<td>Usually yes</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$13,350</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/water-damage-split.png" alt="Stacked bar showing a hypothetical $13,350 water claim split into covered, partly covered, and excluded amounts" width="1200" height="672" loading="lazy"><figcaption>The same leak, split three ways. The faster you find a leak, the more of the bill lands in the covered column.</figcaption></figure>
+
+<p>Depending on the mold cap and how the adjuster splits the timeline, this homeowner could recover roughly half of the total after the deductible. The earlier the leak is found, the bigger the covered share.</p>
+<h2>What to do in the first 48 hours</h2>
+<ol>
+<li><strong>Stop the water.</strong> Shut off the fixture valve or the main water shutoff. Know where your main shutoff is before you need it.</li>
+<li><strong>Document before you clean.</strong> Photos and video of the source, the spread, and any visible damage, with timestamps. Photograph the failed part, then keep it.</li>
+<li><strong>Mitigate.</strong> Policies require you to take reasonable steps to prevent further damage. Call a water mitigation company or start drying with fans and a dehumidifier. Keep receipts; reasonable mitigation costs are usually reimbursable.</li>
+<li><strong>Report the claim promptly.</strong> Late reporting can give the insurer grounds to argue damage worsened because of the delay.</li>
+<li><strong>Write down the timeline</strong> while it's fresh: when you noticed it, what you saw, what you did.</li>
+<li><strong>Don't throw out damaged materials</strong> until the adjuster has seen them or agreed in writing that you can.</li>
+</ol>
+<figure><img src="https://jd221182-hue.github.io/media/f/water-damage-inline.jpg" alt="Kitchen Sink" width="1200" height="675" loading="lazy"><figcaption>Knowing where your main shutoff valve is turns a flood into a puddle.</figcaption></figure>
+
+<h2>Preventing the slow leak in the first place</h2>
+<p>Because gradual leaks are excluded, prevention is the real insurance. A few low-cost habits catch most slow leaks early:</p>
+<ul>
+<li><strong>Check under sinks, behind toilets, and around the water heater monthly.</strong> A flashlight and a dry paper towel find most drips.</li>
+<li><strong>Replace rubber washing machine hoses</strong> with braided stainless steel ones, and replace them every five years or so.</li>
+<li><strong>Watch the water bill or meter.</strong> Turn off every fixture, note the meter reading, and check again two hours later. If it moved, something is leaking.</li>
+<li><strong>Re-caulk tubs and showers</strong> when the caulk cracks.</li>
+<li><strong>Install leak sensors and an automatic shutoff valve.</strong> These are inexpensive compared with a claim, and many insurers offer a discount for them. This explainer on <a href="https://vistacover.com/articles/water-leak-sensors-and-shutoff-valves/">water leak sensors and automatic shutoff valves</a> compares the main types and what they cost.</li>
+</ul>
+<h2>Coverage worth checking now</h2>
+<ul>
+<li><strong>Water backup / sewer backup endorsement.</strong> Usually inexpensive and covers a loss the base policy excludes. Essential with a finished basement.</li>
+<li><strong>Mold sublimit.</strong> Many policies cap mold remediation. Check the number.</li>
+<li><strong>Service line coverage.</strong> Covers the buried water or sewer line from the street to the house, which homeowners typically own and the base policy typically excludes.</li>
+<li><strong>Flood insurance.</strong> Covers surface water and rising water. Available through the National Flood Insurance Program and private insurers, usually with a 30-day waiting period for NFIP policies.</li>
+</ul>
+<p>For a deeper explanation of how insurers treat each kind of water loss, see the guide on <a href="https://vistacover.com/guides/water-damage-claims-sudden-vs-gradual/">water damage claims: sudden vs. gradual</a>.</p>
+<h2>If your claim is denied</h2>
+<ul>
+<li><strong>Ask for the denial in writing</strong>, with the specific policy language it relies on.</li>
+<li><strong>Ask for the adjuster's report and photos.</strong> Many states require insurers to explain the basis for a denial.</li>
+<li><strong>Get an independent opinion</strong> from a plumber or water mitigation professional about how long the leak likely ran.</li>
+<li><strong>Ask whether part of the claim can be paid.</strong> A split claim is often possible even when the insurer argues the leak was long-term.</li>
+<li><strong>Contact your state insurance department</strong> if you believe the denial doesn't match the policy. Filing a complaint is free.</li>
+</ul>
+<h2>What water claims cost compared with prevention</h2>
+<p>Prevention is inexpensive relative to the claims it prevents. Here's a hypothetical comparison of typical repair costs for common water losses against the cost of the device or habit that most often prevents them:</p>
+<table>
+<thead>
+<tr>
+<th>Loss</th>
+<th>Hypothetical repair cost</th>
+<th>Prevention</th>
+<th>Approximate prevention cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Washing machine hose burst, first floor</td>
+<td>$8,000</td>
+<td>Braided steel hoses, replaced every 5 years</td>
+<td>$30</td>
+</tr>
+<tr>
+<td>Water heater leak in a finished basement</td>
+<td>$12,000</td>
+<td>Drip pan, leak sensor, replacing an old tank</td>
+<td>$40 to $1,500</td>
+</tr>
+<tr>
+<td>Toilet supply line failure, upstairs bathroom</td>
+<td>$10,000</td>
+<td>Braided supply line, leak sensor</td>
+<td>$25</td>
+</tr>
+<tr>
+<td>Slow sink drain leak rotting the cabinet base</td>
+<td>$3,500 (often excluded)</td>
+<td>Monthly visual check</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Burst pipe while away in winter</td>
+<td>$25,000</td>
+<td>Automatic shutoff valve, heat left on</td>
+<td>$300 to $800</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/water-damage-prevention.png" alt="Bar chart on a log scale comparing hypothetical water damage repair costs with the cost of preventive devices for five common losses" width="1200" height="672" loading="lazy"><figcaption>Prevention typically costs a small fraction of the loss it prevents. Log scale; hypothetical costs.</figcaption></figure>
+
+<p>Several of these devices can also earn an insurance discount. Ask your insurer which ones qualify and what proof they need.</p>
+<h2>Find your main shutoff before you need it</h2>
+<p>When a pipe bursts, the most valuable minutes are the first ones. Find your main shutoff now:</p>
+<ul>
+<li><strong>Basement or crawlspace:</strong> usually on the wall facing the street, where the water line enters.</li>
+<li><strong>Slab homes in warm climates:</strong> often near the water heater, in a garage, or in an outdoor box near the foundation.</li>
+<li><strong>The street-side curb stop:</strong> in a ground box between the house and the street. It usually needs a special key and may belong to the utility.</li>
+</ul>
+<p>Test the valve once or twice a year. Old gate valves can seize. If yours is hard to turn, a plumber can replace it with a quarter-turn ball valve, a small job that pays for itself the first time you need it.</p>
+<h2>A 10-minute monthly leak check</h2>
+<table>
+<thead>
+<tr>
+<th>Where</th>
+<th>What to look for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Under every sink</td>
+<td>Damp cabinet floor, swelling, drips at connections</td>
+</tr>
+<tr>
+<td>Behind each toilet</td>
+<td>Water at the base, a running tank, damp supply line</td>
+</tr>
+<tr>
+<td>Water heater</td>
+<td>Rust, water in the drip pan, moisture at fittings</td>
+</tr>
+<tr>
+<td>Washing machine</td>
+<td>Bulging or cracked hoses, damp floor</td>
+</tr>
+<tr>
+<td>Refrigerator ice maker line</td>
+<td>Kinks or damp floor behind the fridge</td>
+</tr>
+<tr>
+<td>Ceilings below bathrooms</td>
+<td>New stains or soft spots</td>
+</tr>
+<tr>
+<td>Water meter</td>
+<td>Movement when everything is turned off</td>
+</tr>
+</tbody>
+</table>
+<p>Five minutes once a month catches most slow leaks while they're still cheap, and while the damage still looks sudden rather than gradual.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Is a burst water heater covered?</strong>
+The water damage from a sudden tank failure is usually covered. The water heater itself typically isn't, because it failed from wear.</p>
+<p><strong>What if I was on vacation when it happened?</strong>
+That alone doesn't make a loss excluded. But some policies exclude freezing damage if the house was unheated and the water wasn't shut off, and vacancy clauses can limit coverage if a house is empty for an extended period, often 60 days.</p>
+<p><strong>Does a leak from the upstairs neighbor's unit fall under my policy?</strong>
+In a condo or rental, your own policy typically covers your belongings and improvements, and you may be able to recover from the neighbor's liability coverage if they were negligent. The association's master policy may cover the building structure.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-hoi-pp-consumer-homeowners.pdf">A consumer's guide to home insurance (PDF)</a></li>
+<li>FEMA / National Flood Insurance Program: <a href="https://www.floodsmart.gov/">FloodSmart.gov</a></li>
+<li>U.S. Environmental Protection Agency: <a href="https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home">A brief guide to mold, moisture, and your home</a></li>
+<li>U.S. EPA WaterSense: <a href="https://www.epa.gov/watersense/fix-leak-week">Fix a Leak Week</a></li>
+</ul>
+<p><em>All figures are hypothetical. This is general information, not insurance advice. Coverage depends on your policy wording and your state's law.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/farmhouse-kitchen-QSX4WH8BDB">Farmhouse Kitchen</a> by Matt Bango (CC0); photo: <a href="https://stocksnap.io/photo/kitchen-sink-VO57T4JVJU">Kitchen Sink</a> by Jim DiGritz (CC0). Charts by the author.</small></p>

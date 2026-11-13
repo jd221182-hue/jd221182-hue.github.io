@@ -1,0 +1,289 @@
+<p>You file a home insurance claim, the estimate comes back, and the check is smaller than the estimate total. Somewhere on the summary page is a line that says <strong>"recoverable depreciation"</strong> with a dollar amount next to it. The insurer hasn't refused to pay that money. It's holding it until you finish the repairs.</p>
+<p>Every year, a lot of policyholders never collect it, simply because nobody explained the process or the deadline. This guide shows what recoverable depreciation is, how to calculate it from your own estimate, and the exact steps to get it paid.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/recoverable-depreciation-hero.jpg" alt="Construction Worker" width="1200" height="675" loading="lazy"><figcaption>Recoverable depreciation is money the insurer holds back until the work is done. It's yours to collect, but only if you ask for it in time.</figcaption></figure>
+
+<h2>The short definition</h2>
+<p>On a <strong>replacement cost</strong> policy, the insurer typically pays a claim in two parts:</p>
+<ol>
+<li><strong>Actual cash value (ACV) minus your deductible</strong>, paid up front.</li>
+<li><strong>The depreciation it held back</strong>, paid once you've actually repaired or replaced the property and shown proof.</li>
+</ol>
+<p>That second part is the <strong>recoverable depreciation</strong>, sometimes called the <strong>holdback</strong> or <strong>replacement cost benefit</strong>. "Recoverable" means you can get it back. "Non-recoverable" depreciation, which appears on actual cash value policies or on items the policy settles at ACV, is gone for good.</p>
+<h2>Where it shows up on your paperwork</h2>
+<p>Look at the summary page of the adjuster's estimate. A typical layout:</p>
+<table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Replacement cost value (RCV)</td>
+<td>$24,600</td>
+</tr>
+<tr>
+<td>Less recoverable depreciation</td>
+<td>($6,850)</td>
+</tr>
+<tr>
+<td>Less non-recoverable depreciation</td>
+<td>($0)</td>
+</tr>
+<tr>
+<td>Actual cash value (ACV)</td>
+<td>$17,750</td>
+</tr>
+<tr>
+<td>Less deductible</td>
+<td>($1,500)</td>
+</tr>
+<tr>
+<td><strong>Net claim</strong></td>
+<td><strong>$16,250</strong></td>
+</tr>
+<tr>
+<td>Total recoverable depreciation</td>
+<td>$6,850</td>
+</tr>
+<tr>
+<td><strong>Net claim if depreciation is recovered</strong></td>
+<td><strong>$23,100</strong></td>
+</tr>
+</tbody>
+</table>
+<p>That last line is what the claim is worth once you finish the work: the full replacement cost minus the deductible.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/recoverable-depreciation-stack.png" alt="Stacked bar showing a $24,600 replacement cost claim split into deductible, first payment, and recoverable depreciation" width="1200" height="672" loading="lazy"><figcaption>How a $24,600 claim is paid on a replacement cost policy. The amber block is collected only after repairs.</figcaption></figure>
+
+<h2>How much depreciation is held back, by item type</h2>
+<p>Depreciation depends on what was damaged. Roofs, flooring, carpet, appliances, and contents typically carry large depreciation. Labor-heavy building items carry less. Here's how the $6,850 in this hypothetical roof-and-interior claim breaks down:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>RCV</th>
+<th>Depreciation</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Asphalt shingle roof, 14 years into a 25-year life</td>
+<td>$14,200</td>
+<td>$5,100</td>
+<td>Older roof, high wear</td>
+</tr>
+<tr>
+<td>Interior ceiling drywall and paint</td>
+<td>$3,400</td>
+<td>$340</td>
+<td>Little wear on drywall</td>
+</tr>
+<tr>
+<td>Bedroom carpet and pad, 8 years old</td>
+<td>$2,600</td>
+<td>$1,040</td>
+<td>Carpet wears quickly</td>
+</tr>
+<tr>
+<td>Insulation</td>
+<td>$1,500</td>
+<td>$0</td>
+<td>Often not depreciated</td>
+</tr>
+<tr>
+<td>Debris removal, tarping, mitigation</td>
+<td>$2,900</td>
+<td>$370</td>
+<td>Labor and services, minimal</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$24,600</strong></td>
+<td><strong>$6,850</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/recoverable-depreciation-share.png" alt="Bar chart of depreciation as a share of replacement cost for roof, carpet, drywall and paint, services, and insulation" width="1200" height="672" loading="lazy"><figcaption>Depreciation as a percentage of each line. The roof alone accounts for three-quarters of the holdback.</figcaption></figure>
+
+<h2>The five steps to collect it</h2>
+<h3>1. Read your policy's replacement cost clause</h3>
+<p>Look for wording in the loss settlement section that says something like: <em>we will pay no more than the actual cash value until actual repair or replacement is complete.</em> That same section usually states the <strong>deadline</strong>, which might be 180 days, one year, or two years from the date of loss or the date of the first payment. Some states extend deadlines by law, especially after declared disasters. If your policy is silent or unclear, ask the adjuster for the deadline in writing.</p>
+<h3>2. Do the work</h3>
+<p>You generally need to actually repair or replace the damaged property. You can usually use the contractor of your choice. If you replace with something of lesser cost, the insurer will usually pay only what you actually spent, up to the replacement cost on the estimate.</p>
+<h3>3. Collect the proof</h3>
+<ul>
+<li>Final contractor invoice showing the work completed and the amount paid</li>
+<li>Receipts for any items you replaced yourself</li>
+<li>Photos of the completed work</li>
+<li>A signed completion certificate, if the insurer uses one</li>
+</ul>
+<figure><img src="https://jd221182-hue.github.io/media/f/recoverable-depreciation-timeline.png" alt="Timeline showing the claim from date of loss through first payment, repairs, proof submission, and holdback payment against a 365-day deadline" width="1200" height="672" loading="lazy"><figcaption>A typical replacement cost claim timeline. Track the deadline from day one.</figcaption></figure>
+
+<h3>4. Submit and ask for a revised payment</h3>
+<p>Send the documents to the adjuster with a short request: "Repairs are complete. Please release the recoverable depreciation of $6,850 per the estimate dated [date]. Final invoice and photos are attached." Keep a copy of everything you send.</p>
+<h3>5. Watch for the supplement</h3>
+<p>If the final cost was <em>higher</em> than the estimate because the contractor found additional damage, ask for a <strong>supplement</strong> at the same time. Supplements are common. They require documentation, ideally reported before the extra work is done.</p>
+<h2>Common reasons people lose it</h2>
+<table>
+<thead>
+<tr>
+<th>Mistake</th>
+<th>What happens</th>
+<th>How to avoid it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Missing the deadline</td>
+<td>Holdback forfeited</td>
+<td>Put the date on your calendar the day the first check arrives</td>
+</tr>
+<tr>
+<td>Not doing the repair</td>
+<td>Only ACV is paid</td>
+<td>If you won't rebuild, know you're accepting ACV</td>
+</tr>
+<tr>
+<td>Spending less than the estimate</td>
+<td>Holdback limited to actual cost</td>
+<td>Get a clear final invoice</td>
+</tr>
+<tr>
+<td>No proof</td>
+<td>Request stalls</td>
+<td>Save invoices and photos</td>
+</tr>
+<tr>
+<td>Mortgage company holding funds</td>
+<td>Delays in paying contractor</td>
+<td>Ask the lender about its claim check process early</td>
+</tr>
+</tbody>
+</table>
+<h2>The mortgage company wrinkle</h2>
+<p>If you have a mortgage, claim checks for the dwelling are usually made out to both you and your lender. For larger claims, the lender may deposit the money in a loss draft account and release it in stages as work is completed and inspected. That's separate from the insurer's holdback, and it can slow the whole process. Call the lender's loss draft department as soon as you receive the first check to ask what they need.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/recoverable-depreciation-inline.jpg" alt="Office Work" width="1200" height="675" loading="lazy"><figcaption>Save every invoice, receipt, and before-and-after photo until the claim is fully closed.</figcaption></figure>
+
+<h2>When depreciation itself is wrong</h2>
+<p>Sometimes the right move isn't just collecting the holdback, it's reducing the depreciation in the first place. That matters most when you might not complete all the repairs, or on items where only ACV will be paid. Ask the adjuster for the age and expected life used for each line. A newer roof than the adjuster assumed, receipts showing recent replacement, or photos showing good condition can all lower depreciation. Some states also limit depreciation on labor.</p>
+<p>The companion article on <a href="https://financeinsurance980.blogspot.com/2026/11/replacement-cost-vs-actual-cash-value.html">replacement cost vs. actual cash value</a> walks through how depreciation is calculated, item by item, on a kitchen fire claim.</p>
+<h2>Three ways the same claim can play out</h2>
+<p>Using the $24,600 claim above, here's what the homeowner ends up with depending on what happens after the first check:</p>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>First payment</th>
+<th>Holdback collected</th>
+<th>Total from insurer</th>
+<th>Out of pocket for full repair</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repairs completed on time, invoice matches estimate</td>
+<td>$16,250</td>
+<td>$6,850</td>
+<td>$23,100</td>
+<td>$1,500 (deductible only)</td>
+</tr>
+<tr>
+<td>Roof replaced, interior left as is</td>
+<td>$16,250</td>
+<td>$5,100 (roof only)</td>
+<td>$21,350</td>
+<td>Interior never repaired</td>
+</tr>
+<tr>
+<td>Nothing repaired, house sold as is</td>
+<td>$16,250</td>
+<td>$0</td>
+<td>$16,250</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Repairs finished after the deadline</td>
+<td>$16,250</td>
+<td>$0</td>
+<td>$16,250</td>
+<td>$8,350</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/recoverable-depreciation-scenarios.png" alt="Bar chart comparing total insurer payments across four scenarios: full repair on time, partial repair, no repair, and repair after the deadline" width="1200" height="672" loading="lazy"><figcaption>The same claim, four outcomes. Missing the deadline costs as much as never repairing at all.</figcaption></figure>
+
+<p>The last row is the painful one. Doing all the work but missing the paperwork deadline turns a $23,100 claim into a $16,250 claim. If repairs are running long, often because contractors are booked after a regional storm, ask the insurer <strong>in writing</strong> for an extension before the deadline passes. Many insurers grant them, and some states require extensions in certain situations.</p>
+<h2>Contents claims work item by item</h2>
+<p>If you have replacement cost on personal property, the holdback is usually tracked separately for each item on the contents list. That means you don't have to replace everything at once. Replace the couch, send the receipt, and collect the depreciation for the couch. Replace the TV next month and do the same.</p>
+<p>A simple tracking sheet makes this easy:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>RCV on estimate</th>
+<th>ACV paid</th>
+<th>Depreciation held</th>
+<th>Replaced?</th>
+<th>Receipt amount</th>
+<th>Depreciation requested</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sofa</td>
+<td>$1,800</td>
+<td>$720</td>
+<td>$1,080</td>
+<td>Yes</td>
+<td>$1,750</td>
+<td>$1,030</td>
+</tr>
+<tr>
+<td>Television</td>
+<td>$900</td>
+<td>$390</td>
+<td>$510</td>
+<td>Yes</td>
+<td>$950</td>
+<td>$510</td>
+</tr>
+<tr>
+<td>Area rug</td>
+<td>$400</td>
+<td>$160</td>
+<td>$240</td>
+<td>Not yet</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Notice the sofa row: the replacement cost $1,750, less than the $1,800 estimate, so the depreciation paid is limited to $1,030 (the actual cost minus the ACV already paid). The TV cost more than estimated, but the payment is capped at the estimate unless you get the estimate revised.</p>
+<h2>A short request letter you can adapt</h2>
+<blockquote>
+<p>Claim number: [number]
+Date of loss: [date]</p>
+<p>Repairs to the property at [address] were completed on [date]. Attached are the final invoice from [contractor] for $[amount], proof of payment, and photos of the completed work.</p>
+<p>Please release the recoverable depreciation of $[amount] shown on the estimate dated [date]. If any amount will be withheld, please explain the reason in writing and identify the policy provision it relies on.</p>
+<p>[Name, phone, email]</p>
+</blockquote>
+<p>Send it by email or through the insurer's claim portal so you have a timestamp, and follow up if you don't hear back within a couple of weeks. Many states set time limits for insurers to respond to claim communications.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Is recoverable depreciation taxable?</strong>
+Insurance payments that restore damaged property generally aren't income. But tax rules around casualty losses can get complex, especially if the payments exceed your basis. Check IRS Publication 547 or ask a tax professional.</p>
+<p><strong>Can I do the work myself and still collect?</strong>
+Often yes, for materials and sometimes your documented labor, but insurers differ. Ask before you start.</p>
+<p><strong>What if I sell the house before repairing?</strong>
+You'll generally get only the ACV portion. Discuss it with the adjuster and your agent before listing.</p>
+<p><strong>Does recoverable depreciation apply to contents too?</strong>
+If you have replacement cost coverage on personal property, yes: replace the item, send the receipt, and request the depreciation for that item.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-hoi-pp-consumer-homeowners.pdf">A consumer's guide to home insurance (PDF)</a></li>
+<li>IRS: <a href="https://www.irs.gov/publications/p547">Publication 547, Casualties, Disasters, and Thefts</a></li>
+<li>United Policyholders: <a href="https://uphelp.org/claim-guidance-publications/">Claim guidance publications</a></li>
+</ul>
+<p><em>All figures are hypothetical. This is general information, not insurance, tax, or legal advice. Your policy and state law control.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/construction-worker-6B70C91911">Construction Worker</a> by Leeroy (CC0); photo: <a href="https://stocksnap.io/photo/office-work-UP9J4EZYNJ">Office Work</a> by Ch%E2u%20Th%F4ng%20Phan (CC0). Charts by the author.</small></p>
