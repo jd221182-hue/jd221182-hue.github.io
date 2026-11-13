@@ -1,0 +1,24 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Deductible break-even calculator | Open Money Calculators</title><meta name="description" content="Is a higher insurance deductible worth the premium savings? Calculate how many claim-free years it takes to come out ahead."><link rel="canonical" href="https://jd221182-hue.github.io/deductible.html"><style>*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui,-apple-system,Segoe UI,sans-serif;color:#1b2430;background:#f6f8fb}
+header,main,footer{max-width:760px;margin:0 auto;padding:0 18px}header{padding:22px 18px 6px}header a{color:#1b2430;font-weight:800;text-decoration:none;font-size:19px}
+header p{margin:2px 0 0;color:#5b6575;font-size:14px}h1{font-size:30px;line-height:1.2;margin:26px 0 12px}h2{font-size:21px;margin:28px 0 8px}
+a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:18px;margin:20px 0}
+.calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
+.out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
+ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
+footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+<body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
+<main><h1>Deductible break-even calculator</h1>
+<p>A higher deductible lowers your premium. This calculator shows how many claim-free years it takes for the premium savings to cover the extra amount you'd pay if you file a claim.</p>
+<div class="calc"><label for="d1">Current deductible ($)</label><input id="d1" type="number" value="500">
+<label for="d2">Higher deductible you're considering ($)</label><input id="d2" type="number" value="1000">
+<label for="s">Yearly premium savings from the higher deductible ($)</label><input id="s" type="number" value="150">
+<div class="out" id="o"></div></div>
+<h2>The formula</h2><pre>break-even years = (higher deductible − current deductible) ÷ yearly savings</pre>
+<p>With the example numbers: ($1,000 − $500) ÷ $150 ≈ 3.3 years. If you usually go longer than that between claims, the higher deductible saves money over time.</p>
+<h2>What the math leaves out</h2>
+<ul><li><strong>Cash on hand.</strong> Only choose a deductible you could pay tomorrow without borrowing.</li>
+<li><strong>Small claims.</strong> Many people avoid filing small claims anyway because claims can affect future premiums. That makes a higher deductible look better.</li>
+<li><strong>Percentage deductibles.</strong> Some home policies set wind or hurricane deductibles as a percentage of the dwelling limit. A 2% deductible on a $400,000 limit is $8,000. Enter that dollar amount above.</li></ul>
+<p>For a longer walkthrough of choosing deductibles on home, auto, and health plans, see <a href="https://vistacover.com/guides/how-to-choose-a-deductible/">how to choose a deductible</a>.</p></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function c(){const gap=$('d2')-$('d1'),s=$('s');document.getElementById('o').textContent=(gap<=0||s<=0)?'Enter a higher deductible and a positive savings amount.':`Extra out of pocket per claim: ${fmt(gap)}. Break-even: ${(gap/s).toFixed(1)} claim-free years.`}document.querySelectorAll('input').forEach(i=>i.oninput=c);c();</script></body></html>

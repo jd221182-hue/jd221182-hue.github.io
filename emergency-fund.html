@@ -1,0 +1,25 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Emergency fund calculator (bare-bones month) | Open Money Calculators</title><meta name="description" content="Size an emergency fund from the costs you&#x27;d still have to pay after losing income, not your normal spending."><link rel="canonical" href="https://jd221182-hue.github.io/emergency-fund.html"><style>*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui,-apple-system,Segoe UI,sans-serif;color:#1b2430;background:#f6f8fb}
+header,main,footer{max-width:760px;margin:0 auto;padding:0 18px}header{padding:22px 18px 6px}header a{color:#1b2430;font-weight:800;text-decoration:none;font-size:19px}
+header p{margin:2px 0 0;color:#5b6575;font-size:14px}h1{font-size:30px;line-height:1.2;margin:26px 0 12px}h2{font-size:21px;margin:28px 0 8px}
+a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:18px;margin:20px 0}
+.calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
+.out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
+ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
+footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+<body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
+<main><h1>Emergency fund calculator</h1>
+<p>The usual advice is three to six months of expenses. The more useful number is your bare-bones month: only what you'd still have to pay if your income stopped.</p>
+<div class="calc"><label for="h">Rent or mortgage ($/month)</label><input id="h" type="number" value="1800">
+<label for="u">Utilities and phone</label><input id="u" type="number" value="300">
+<label for="g">Groceries</label><input id="g" type="number" value="600">
+<label for="i">Insurance premiums</label><input id="i" type="number" value="450">
+<label for="dm">Minimum debt payments</label><input id="dm" type="number" value="400">
+<label for="t">Transportation and other essentials</label><input id="t" type="number" value="250">
+<label for="m">Months of cover</label><input id="m" type="number" value="6">
+<div class="out" id="o"></div></div>
+<h2>How to choose the number of months</h2>
+<ul><li>Lean higher with irregular or commission income, a single earner, or a long job search in your field.</li>
+<li>Make sure the fund also covers your largest insurance deductible or health plan out-of-pocket maximum.</li>
+<li>Keep it somewhere safe and quick to reach, like a high-yield savings account, not in stocks.</li></ul></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function c(){const t=['h','u','g','i','dm','t'].reduce((s,k)=>s+$(k),0);document.getElementById('o').textContent=`Bare-bones month: ${fmt(t)}. ${$('m')} months: ${fmt(t*$('m'))}.`}document.querySelectorAll('input').forEach(i=>i.oninput=c);c();</script></body></html>

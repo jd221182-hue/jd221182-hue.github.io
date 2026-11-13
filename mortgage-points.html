@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mortgage points break-even calculator | Open Money Calculators</title><meta name="description" content="Calculate how many months it takes for mortgage discount points to pay for themselves through a lower monthly payment."><link rel="canonical" href="https://jd221182-hue.github.io/mortgage-points.html"><style>*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui,-apple-system,Segoe UI,sans-serif;color:#1b2430;background:#f6f8fb}
+header,main,footer{max-width:760px;margin:0 auto;padding:0 18px}header{padding:22px 18px 6px}header a{color:#1b2430;font-weight:800;text-decoration:none;font-size:19px}
+header p{margin:2px 0 0;color:#5b6575;font-size:14px}h1{font-size:30px;line-height:1.2;margin:26px 0 12px}h2{font-size:21px;margin:28px 0 8px}
+a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:18px;margin:20px 0}
+.calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
+.out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
+ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
+footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+<body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
+<main><h1>Mortgage points break-even calculator</h1>
+<p>Discount points let you pay money at closing for a lower interest rate. One point usually costs 1% of the loan amount. The question is how long it takes the lower payment to repay that cost.</p>
+<div class="calc"><label for="p">Loan amount ($)</label><input id="p" type="number" value="400000">
+<label for="r1">Rate without points (%)</label><input id="r1" type="number" step="0.01" value="6.75">
+<label for="r2">Rate with points (%)</label><input id="r2" type="number" step="0.01" value="6.50">
+<label for="pt">Number of points</label><input id="pt" type="number" step="0.125" value="1">
+<label for="n">Loan term (years)</label><input id="n" type="number" value="30">
+<div class="out" id="o"></div></div>
+<h2>The formula</h2><pre>payment = P × r ÷ (1 − (1 + r)^−n)   (r = monthly rate, n = number of payments)
+break-even months = cost of points ÷ (payment without points − payment with points)</pre>
+<p>Example: a $400,000 loan, 6.75% vs. 6.50%, one point ($4,000). The payments are about $2,594.39 and $2,528.27, a difference of $66.12 a month, so break-even is about 60.5 months.</p>
+<h2>Things that change the answer</h2>
+<ul><li>Selling or refinancing before the break-even means the points cost more than they saved.</li>
+<li>The cash could have been invested instead; counting that pushes the break-even later.</li>
+<li>Points may be tax-deductible for some borrowers who itemize. Check IRS guidance for your situation.</li></ul>
+<p>A plain-English guide with a chart of break-even months by rate reduction is here: <a href="https://vistacover.com/guides/mortgage-points-break-even/">mortgage points break-even</a>.</p></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function pay(P,a,y){const r=a/1200,n=y*12;return r===0?P/n:P*r/(1-Math.pow(1+r,-n))}function c(){const P=$('p'),a=pay(P,$('r1'),$('n')),b=pay(P,$('r2'),$('n')),cost=P*$('pt')/100,d=a-b;document.getElementById('o').textContent=d<=0?'The rate with points should be lower than the rate without.':`Payments: $${a.toFixed(2)} vs $${b.toFixed(2)} (saves $${d.toFixed(2)}/month). Points cost ${fmt(cost)}. Break-even: ${(cost/d).toFixed(1)} months.`}document.querySelectorAll('input').forEach(i=>i.oninput=c);c();</script></body></html>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jd221182-hue.github.io/sitemap.xml
