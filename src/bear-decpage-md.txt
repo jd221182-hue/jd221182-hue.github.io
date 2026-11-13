@@ -1,0 +1,144 @@
+The declarations page, usually the first page or two of your homeowners policy, is the summary of what you actually bought. New homeowners often file it away unread after closing. It's worth twenty minutes, because almost every claim question starts there, and mistakes on it are much easier to fix before you need the coverage.
+
+This guide walks through a hypothetical first-year homeowner's declarations page line by line, shows how the coverage amounts relate to each other, and ends with a checklist to run before your first renewal.
+
+![Home Interior](https://jd221182-hue.github.io/media/f/bear-decpage-hero.jpg)
+
+*The declarations page is the summary of your homeowners policy: who's covered, for what, for how much, and with which deductibles.*
+
+## The top section: who, where, and when
+
+| Line | What to check |
+|---|---|
+| Named insured | Everyone on the title should be listed. A co-owner who isn't named may not be protected. |
+| Mailing and property address | Typos can delay claims or create confusion with the mortgage lender. |
+| Policy period | Usually 12 months. Note the renewal date. |
+| Mortgagee / lienholder | Your lender should be listed with the correct loan number, so claim checks for the house include them and escrow payments arrive. |
+| Policy form | Most owner-occupied homes use a form commonly called HO-3. Condos often use HO-6. |
+
+## The coverage letters
+
+Most standard homeowners policies use the same lettered sections. Here's a hypothetical first home:
+
+| Coverage | What it pays for | Limit | How it's often set |
+|---|---|---|---|
+| A: Dwelling | Rebuilding the house | $350,000 | Insurer's rebuild-cost estimate |
+| B: Other structures | Detached garage, fence, shed | $35,000 | Often 10% of A |
+| C: Personal property | Your belongings | $175,000 | Often 50% to 70% of A |
+| D: Loss of use | Extra living costs while the home is unlivable | $70,000 | Often 20% to 30% of A |
+| E: Personal liability | Injuries or damage you cause to others | $300,000 | You choose |
+| F: Medical payments | Small medical bills for injured guests | $5,000 | You choose |
+
+![Horizontal bar chart showing a homeowners policy's coverage limits from Coverage A dwelling through Coverage F medical payments](https://jd221182-hue.github.io/media/f/bear-decpage-coverages.png)
+
+*How the coverage letters relate. Several limits are percentages of the dwelling limit by default, so changing Coverage A moves them too. Hypothetical policy.*
+
+### Coverage A should equal rebuild cost, not price
+
+Coverage A should reflect what it would cost to **rebuild** the house, not what you paid. Your purchase price includes land, which doesn't need rebuilding, and market conditions. Rebuild cost depends on square footage, construction quality, materials, and local labor.
+
+![Stacked bar chart showing a home's purchase price split into land value and rebuild cost, compared with the dwelling coverage limit](https://jd221182-hue.github.io/media/f/bear-decpage-price.png)
+
+*Purchase price vs. what Coverage A actually needs to cover. The land doesn't burn down. Hypothetical.*
+
+If Coverage A looks much lower than the rebuild cost of a home like yours, ask for the insurer's replacement-cost estimate and correct any wrong details (square footage, number of bathrooms, finished basement, roof type). Being underinsured can reduce what you collect on a partial loss, not just a total one, because of the coinsurance-like "insurance to value" conditions in many policies.
+
+## Deductibles: look for more than one
+
+| Deductible | Applies to | Example |
+|---|---|---|
+| All-perils | Most claims | $1,500 |
+| Wind/hail | Wind and hail claims, in many states | 1% of Coverage A = $3,500 |
+| Hurricane | Named storms, in coastal states | 2% of Coverage A = $7,000 |
+| Earthquake | Separate policy or endorsement | Often 10% to 20% |
+
+A percentage deductible can be much larger than the all-perils deductible. Make sure your emergency fund covers the largest one you could face.
+
+## Endorsements: where the details hide
+
+The endorsement list shows what was added to or changed in the base policy. Common ones on a first homeowners policy:
+
+- **Replacement cost on personal property:** pays to replace belongings new instead of depreciated value.
+- **Water backup / sump overflow:** covers sewer or drain backups, which the base form usually excludes.
+- **Ordinance or law:** pays the extra cost of rebuilding to current building codes.
+- **Extended or guaranteed replacement cost:** adds a cushion (for example 25%) above Coverage A if rebuild costs exceed the limit.
+- **Scheduled personal property:** lists valuables like jewelry with their own coverage.
+- **Roof payment schedule or ACV roof:** reduces what's paid for roof damage as the roof ages. This one reduces coverage, so know if you have it.
+
+![Flatlay Feminine](https://jd221182-hue.github.io/media/f/bear-decpage-inline.jpg)
+
+*Before your first renewal, compare the declarations page against your home's real details.*
+
+## Discounts and the premium
+
+The bottom of the page lists the total premium and often the discounts applied. Common ones include protective devices, new-home or new-purchase discounts, bundling with auto, claims-free, paperless, and pay-in-full. Discounts can expire. A new-purchase discount that steps down each year is a common reason first homeowners see a premium jump at the first renewal.
+
+![Bar chart comparing a first-year homeowners premium with second-year renewal pricing, showing the effect of an expiring new-purchase discount and an inflation guard increase](https://jd221182-hue.github.io/media/f/bear-decpage-renewal.png)
+
+*Why a second-year premium often rises: an expiring new-purchase discount plus an automatic inflation increase to Coverage A. Hypothetical.*
+
+## First-year checklist
+
+1. **Confirm everyone on the title is a named insured.**
+2. **Check the lender and loan number** under mortgagee.
+3. **Compare Coverage A to a realistic rebuild estimate.**
+4. **Note every deductible**, including percentage ones, and keep that amount in savings.
+5. **Check whether personal property is replacement cost or actual cash value.**
+6. **Look for water backup coverage** if you have a basement or below-grade rooms.
+7. **Look for roof limitations** such as an ACV roof endorsement.
+8. **Consider raising liability** to $300,000 or more, and ask about an umbrella.
+9. **Save a digital copy** somewhere you can reach if the house is damaged.
+10. **Set a reminder 45 days before renewal** to review changes and shop if the price jumps.
+
+## How the coverage letters work together after a loss
+
+Hypothetical: a fire damages the kitchen and living room. The adjuster's figures:
+
+| Item | Coverage | Amount |
+|---|---|---|
+| Rebuilding kitchen and living room | A: Dwelling | $68,000 |
+| Fence damaged by fire crews | B: Other structures | $2,400 |
+| Furniture, electronics, clothes | C: Personal property | $21,500 |
+| Four months in a rental | D: Loss of use | $14,000 |
+| **Total before deductible** | | **$105,900** |
+| All-perils deductible | | ($1,500) |
+| **Total claim** | | **$104,400** |
+
+Notice that the deductible usually applies once per occurrence, not once per coverage letter. Each coverage letter also has its own limit, so a large personal property loss can't borrow from an unused dwelling limit.
+
+## What changes at renewal, and why to read the new declarations page
+
+Insurers commonly adjust Coverage A automatically each year (an "inflation guard"), and Coverages B, C, and D often move with it. Discounts can expire, and endorsements can be added or removed when the insurer updates its forms. Compare the new page with the old one line by line:
+
+- Did Coverage A rise, and does it still match a realistic rebuild cost?
+- Did any deductible change, especially a percentage deductible?
+- Did any endorsement appear or disappear?
+- Did a discount drop off?
+
+If anything changed that you didn't expect, call your agent or the insurer before the renewal date. Changes are easier to make before the new term begins.
+
+## Condo owners: the HO-6 declarations page looks different
+
+If you bought a condo, your declarations page likely shows a much smaller Coverage A, sometimes called "building property" or "unit improvements." That's because the condo association's master policy covers the building's structure. Your Coverage A typically covers interior walls, fixtures, and improvements, depending on what the association's bylaws and master policy require owners to insure. Ask the association for the master policy summary and match your coverage to it. **Loss assessment coverage**, which helps pay your share of a special assessment after a covered loss to common property, is also worth checking on a condo policy.
+
+## Frequently asked questions
+
+**Is the declarations page the whole policy?**
+No. It's the summary. The full policy form and endorsements contain the definitions, exclusions, and conditions that decide claims.
+
+**Can I change coverage mid-term?**
+Usually yes. Most changes take effect quickly, with the premium adjusted for the rest of the term.
+
+**Why does my escrow statement show a different premium?**
+Escrow statements reflect what the lender paid or expects to pay. If your premium changed at renewal, your escrow payment may adjust at the next escrow analysis.
+
+### Sources and further reading
+
+- National Association of Insurance Commissioners: [A consumer's guide to home insurance (PDF)](https://content.naic.org/sites/default/files/publication-hoi-pp-consumer-homeowners.pdf)
+- Insurance Information Institute: [What is covered by standard homeowners policies?](https://www.iii.org/article/what-covered-standard-homeowners-policy)
+- Consumer Financial Protection Bureau: [What is an escrow account?](https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/)
+
+*Hypothetical figures. General information only, not insurance advice.*
+
+
+Photos (CC0): [Home Interior](https://stocksnap.io/photo/home-interior-TDNJ1H4VYN) by Dahl House Design; [Flatlay Feminine](https://stocksnap.io/photo/flatlay-feminine-XMSSRRSGCA) by Chimene Gaspar. Charts by the author.

@@ -1,0 +1,140 @@
+After almost every doctor visit, lab test, or hospital stay, your health plan sends an **explanation of benefits (EOB)**. It looks like a bill. It isn't one. It's the insurer's record of what the provider charged, what the plan agreed to pay, and what you may owe. Reading it carefully is the single best way to catch billing errors before you pay them, and the EOB is the document you'll need if you ever appeal a denial.
+
+This guide walks through a hypothetical EOB line by line, shows how the numbers relate, and explains what to do when the EOB and the provider's bill don't match.
+
+![Business Man](https://jd221182-hue.github.io/media/f/mat-eob-hero.jpg)
+
+*An explanation of benefits is a statement, not a bill. It shows what the plan paid and what you may owe.*
+
+## The columns on a typical EOB
+
+Most EOBs, whatever the insurer, include the same columns in some order:
+
+| Column | What it means |
+|---|---|
+| Date of service | When you received the care |
+| Provider | Who billed for it (a doctor, lab, facility) |
+| Service or code | A description and often a CPT or HCPCS procedure code |
+| Amount billed | The provider's full charge (their "list price") |
+| Allowed amount | The maximum the plan pays for that service under its contract with in-network providers |
+| Discount or not covered | The difference between billed and allowed for in-network care, or amounts the plan doesn't cover |
+| Plan paid | What the insurer paid the provider |
+| Deductible | The part of the allowed amount applied to your deductible |
+| Copay / coinsurance | Your share after the deductible |
+| **What you may owe** | Deductible + copay + coinsurance + any non-covered amounts |
+| Remark or reason codes | Short codes explaining adjustments or denials |
+
+## A worked example: one MRI
+
+You get a knee MRI at an in-network imaging center. You've met $600 of your $1,500 deductible so far this year, and your plan has 20% coinsurance after the deductible.
+
+| | Amount |
+|---|---|
+| Amount billed | $2,400 |
+| Allowed amount (in-network rate) | $1,150 |
+| Network discount | $1,250 |
+| Applied to deductible (remaining $900) | $900 |
+| Coinsurance: 20% of the remaining $250 | $50 |
+| Plan paid: 80% of $250 | $200 |
+| **You may owe** | **$950** |
+
+![Waterfall chart breaking down a 2,400 dollar billed MRI into network discount, deductible, coinsurance, and plan payment](https://jd221182-hue.github.io/media/f/mat-eob-mri.png)
+
+*How one bill is split. The network discount disappears entirely, the deductible takes the next chunk, and coinsurance splits the rest. Hypothetical.*
+
+The provider's bill should match the "you may owe" line: **$950**. If the imaging center sends a bill for $2,400 or for any amount above $950, that's a problem to raise with the provider, because in-network providers have generally agreed not to bill you for the discount.
+
+## How a year of EOBs adds up
+
+Each EOB moves you along toward your deductible and then your out-of-pocket maximum. Here's a hypothetical year:
+
+![Step chart of a patient's cumulative out-of-pocket costs over a year of claims, showing the deductible being met and then the out-of-pocket maximum being reached](https://jd221182-hue.github.io/media/f/mat-eob-year.png)
+
+*A year of claims: you pay the deductible first, then coinsurance, until the out-of-pocket maximum caps your costs. Hypothetical plan with a $1,500 deductible and $5,000 maximum.*
+
+Once you reach the out-of-pocket maximum, in-network covered care is generally paid at 100% for the rest of the plan year. EOBs after that point should show $0 owed for covered in-network services, which is worth checking.
+
+## Remark codes: the short explanations
+
+The remark or reason codes, often listed at the bottom with a key, explain why a line was adjusted or denied. Common categories include:
+
+| What the code says (in plain English) | What to do |
+|---|---|
+| Processed as out-of-network | Check whether the provider is actually in network; ask for reprocessing if so |
+| Not medically necessary | Request the medical policy used; consider an appeal with records from your doctor |
+| Prior authorization required and not obtained | Ask the provider whether they requested it; they may be responsible |
+| Duplicate claim | Usually fine if the original was paid; confirm you're not billed twice |
+| Service not covered by plan | Check your plan's coverage documents; some exclusions can be appealed |
+| Coordination of benefits needed | The plan needs information about other coverage you may have |
+
+## Comparing the EOB with the provider's bill
+
+Always compare before you pay. Common mismatches:
+
+1. **The bill arrives before the EOB.** Wait for the EOB, or call the provider and ask them to hold the bill until insurance processes.
+2. **The bill shows the full billed amount.** In-network providers generally can't bill you for the network discount. Ask for a corrected bill.
+3. **The bill includes services you didn't receive.** Ask for an itemized bill and compare service by service.
+4. **The EOB shows a denial you expected to be covered.** Call the insurer first; many denials are coding errors that can be fixed with a corrected claim from the provider.
+
+![Business Man](https://jd221182-hue.github.io/media/f/mat-eob-inline.jpg)
+
+*Match each provider bill to its EOB before paying anything.*
+
+## Surprise bills from out-of-network providers
+
+Federal rules provide protections against many surprise bills, for example from out-of-network providers at in-network hospitals or for most emergency care. In those situations, your cost sharing is generally limited to what you'd pay in network. If an EOB shows out-of-network processing for care that should be protected, ask the insurer to reprocess and contact the federal No Surprises Help Desk if needed.
+
+## Keeping track
+
+A simple tracker turns a stack of EOBs into a clear picture:
+
+| Date | Provider | Billed | Allowed | Plan paid | You owe (EOB) | Billed to you | Paid? | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 3/04 | Imaging center | $2,400 | $1,150 | $200 | $950 | $950 | Yes | Matches |
+| 3/11 | Orthopedist | $410 | $185 | $148 | $37 | $185 | No | Bill too high; called 3/20 |
+
+## Three EOBs, three different stories
+
+The same structure tells very different stories depending on where you are in your plan year:
+
+| Situation | Allowed amount | Deductible remaining | Plan pays | You owe |
+|---|---|---|---|---|
+| January office visit, $30 copay plan | $185 | $1,500 (copay applies instead) | $155 | $30 |
+| March MRI (the example above) | $1,150 | $900 | $200 | $950 |
+| October physical therapy after reaching the out-of-pocket maximum | $240 | $0 (max reached) | $240 | $0 |
+
+![Grouped bar chart comparing plan payment and patient cost for three EOBs at different points in the plan year](https://jd221182-hue.github.io/media/f/mat-eob-three.png)
+
+*What you owe depends as much on where you are in the plan year as on the service itself. Hypothetical plan.*
+
+This is why the same MRI can cost you $950 in March and $0 in November. If you have a planned procedure and have already met most of your out-of-pocket maximum, scheduling it before the plan year resets can save a lot.
+
+## Preventive care on an EOB
+
+Many preventive services, such as annual checkups, recommended screenings, and vaccines, are covered with no cost sharing when you use an in-network provider. On an EOB they should show **$0 owed**. A common problem: if you raise a new concern during a preventive visit, the provider may bill part of it as a diagnostic visit, which does have cost sharing. That's not necessarily an error, but if you see an unexpected charge for a checkup, ask the provider's billing office how it was coded.
+
+## Using EOBs with an HSA or FSA
+
+If you pay medical bills from a health savings account or flexible spending account, the EOB is your proof that the expense was eligible and how much you owed. Save each EOB alongside the receipt for the payment. For an HSA in particular, many people pay bills out of pocket and reimburse themselves years later; the EOB and receipt together document that the reimbursement is for a qualified medical expense.
+
+## Frequently asked questions
+
+**Do I need to keep EOBs?**
+Keep them at least until the claims are settled and paid, and longer if you track medical expenses for taxes, an HSA, or an FSA. Most insurers also make EOBs available online.
+
+**Why is the allowed amount so much lower than the billed amount?**
+Billed amounts are list prices. Insurers negotiate allowed amounts with in-network providers, and that's what the claim is based on.
+
+**What if I get an EOB for care I never received?**
+Contact your insurer right away. It could be a billing error or medical identity theft.
+
+### Sources and further reading
+
+- HealthCare.gov: [Explanation of benefits (EOB)](https://www.healthcare.gov/glossary/explanation-of-benefits-eob/)
+- CMS: [No Surprises: understand your rights against surprise medical bills](https://www.cms.gov/nosurprises)
+- Consumer Financial Protection Bureau: [Medical billing and collections](https://www.consumerfinance.gov/consumer-tools/medical-debt/)
+
+*Hypothetical figures. General information only, not medical, legal, or insurance advice.*
+
+
+Photos (CC0): [Business Man](https://stocksnap.io/photo/business-man-TNKLX6MUWC) by Direct Media; [Business Man](https://stocksnap.io/photo/business-man-PPCJBQW2PL) by Direct Media. Charts by the author.

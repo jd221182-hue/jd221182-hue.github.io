@@ -1,0 +1,139 @@
+**Prior authorization** is your health plan's approval, before you get a service or prescription, that it will cover it. Plans commonly require it for advanced imaging (MRI, CT, PET), many specialty drugs, some surgeries, durable medical equipment, home health care, and inpatient stays. If the authorization isn't in place, the plan can deny the claim, even for care that would otherwise be covered.
+
+Usually your provider handles the request. But knowing how the process works, how long it takes, and what to do when it stalls or gets denied can save weeks of delay and a large bill. This guide covers all three, with a timeline chart and a checklist.
+
+![Male Doctor](https://jd221182-hue.github.io/media/f/mat-priorauth-hero.jpg)
+
+*Prior authorization happens between your provider and your plan, but you can track it and push it along.*
+
+## What typically needs prior authorization
+
+Every plan publishes its own list, often on the member website or in the plan documents. Common categories:
+
+| Category | Examples |
+|---|---|
+| Advanced imaging | MRI, CT, PET scans |
+| Specialty and high-cost drugs | Biologics, some injectables, newer brand-name drugs |
+| Planned surgeries and procedures | Joint replacements, spinal surgery, bariatric surgery |
+| Durable medical equipment | Power wheelchairs, CPAP machines, home oxygen |
+| Inpatient and facility care | Planned hospital admissions, skilled nursing, inpatient rehab |
+| Outpatient therapies | Physical, occupational, or speech therapy beyond a set number of visits |
+| Behavioral health | Some intensive outpatient and residential programs |
+| Genetic testing | Many specialized tests |
+
+Emergency care generally doesn't require prior authorization.
+
+## How the process works
+
+1. **Your provider submits a request** to the plan with your diagnosis, the planned service, and supporting clinical information.
+2. **The plan reviews it** against its medical policy or clinical criteria. Some requests are approved automatically; others go to a nurse or physician reviewer.
+3. **The plan approves, denies, or asks for more information.**
+4. **If approved,** you get an authorization number, often with a date range and a number of visits or units.
+5. **If denied,** you and the provider get a notice explaining why, with appeal rights.
+
+![Flow chart of the prior authorization process from provider request to plan review to approval, request for more information, or denial and appeal](https://jd221182-hue.github.io/media/f/mat-priorauth-flow.png)
+
+*The prior authorization path. Most delays happen at "more information requested." Illustrative.*
+
+## How long it takes
+
+Timeframes depend on the plan type and whether the request is urgent. Federal rules have set decision deadlines for many plans, and recent federal rulemaking has tightened timeframes for certain plan types, including Medicare Advantage, Medicaid, and marketplace plans. As a general pattern:
+
+- **Urgent (expedited) requests:** decisions often within 72 hours or less.
+- **Standard requests:** decisions often within about a week to two weeks, depending on plan type and rules.
+
+![Bar chart showing how a hypothetical prior authorization's total time breaks down across provider preparation, plan review, a request for more information, and resubmission](https://jd221182-hue.github.io/media/f/mat-priorauth-delays.png)
+
+*Where the days go in a delayed authorization. A request for more information can double the timeline. Hypothetical.*
+
+In practice, the biggest delays come from incomplete requests: missing notes, wrong codes, or no documentation of treatments already tried. That's where you can help.
+
+## What you can do to speed it up
+
+- **Ask at the visit:** "Does this need prior authorization, and who will submit it?"
+- **Get the timeline:** "When will it be submitted, and when should I expect a decision?"
+- **Check the plan's criteria:** many plans publish their medical policies. If a drug requires that you try two other medications first ("step therapy"), make sure your records show that.
+- **Follow up after a few business days** with both the provider's office and the plan's member services line. Ask for the reference number.
+- **Ask whether the request can be expedited** if waiting could seriously jeopardize your health.
+- **Confirm the details of the approval:** dates, the exact service code, the facility, and the number of units or visits approved. A mismatch (an MRI with contrast approved as without, a different facility) can trigger a denial later.
+
+![Tablets Pills](https://jd221182-hue.github.io/media/f/mat-priorauth-inline.jpg)
+
+*Write down the authorization number, the dates it covers, and exactly what was approved.*
+
+## When prior authorization is denied
+
+A denial isn't the end. Options, roughly in order:
+
+1. **Peer-to-peer review:** your doctor asks to speak with the plan's physician reviewer. Many denials are reversed at this step.
+2. **Resubmission** with the missing information.
+3. **A formal internal appeal,** followed by **external review** if needed. The steps and deadlines are in the denial notice.
+4. **An exception request** for drugs, if a medication isn't on the formulary or step therapy doesn't make sense for you.
+5. **Ask about alternatives** the plan does approve, if they're medically appropriate.
+
+## If you already got the care without authorization
+
+Sometimes care happens before authorization was obtained, or the authorization didn't match the service delivered. Steps:
+
+- **Ask the provider** whether they were responsible for obtaining authorization. In-network providers often can't bill the patient when they failed to get a required authorization, depending on their contract.
+- **Ask for retroactive authorization.** Some plans allow it in certain circumstances.
+- **Appeal the claim denial** with medical records showing the care was necessary.
+
+## A quick prior authorization checklist
+
+| Before the service | ✓ |
+|---|---|
+| Asked whether prior authorization is required | |
+| Know who is submitting it, and when | |
+| Have the reference number for the request | |
+| Confirmed approval, dates, service code, facility, and units | |
+| Scheduled the service within the approved dates | |
+| Saved the approval letter or a screenshot from the portal | |
+
+## Step therapy and formulary exceptions
+
+For prescriptions, prior authorization often comes with **step therapy**: the plan requires you to try one or more lower-cost drugs before it covers the one your doctor prescribed. If you've already tried those drugs (with another plan, for example), or they'd be inappropriate for medical reasons, your doctor can request an exception.
+
+| Situation | What to ask for |
+|---|---|
+| Drug isn't on the plan's formulary | Formulary exception |
+| Plan requires trying another drug first | Step therapy exception, with records of prior trials |
+| Drug is covered but at a high cost tier | Tiering exception (on some plans) |
+| Plan limits the quantity | Quantity limit exception |
+
+![Diagram of a step therapy sequence showing first-line, second-line, and the prescribed drug, with an exception path that skips steps based on medical history](https://jd221182-hue.github.io/media/f/mat-priorauth-step.png)
+
+*Step therapy and the exception path. Documentation of prior trials is what usually unlocks the exception. Illustrative.*
+
+Many states have laws that set rules for step therapy exceptions in state-regulated plans, including timeframes for decisions. Ask your plan, or your state insurance department, what applies to you.
+
+## Prior authorization when you switch plans
+
+Changing jobs, plans, or insurers mid-treatment is one of the most common sources of authorization trouble. Before the switch:
+
+1. **List ongoing treatments and medications** that required authorization under your old plan.
+2. **Ask the new plan** whether it has a transition-of-care process and whether it will honor existing authorizations for a period of time.
+3. **Ask your providers** to submit new authorization requests as soon as the new coverage is active, or before if the plan allows.
+4. **Request a transition supply** of medications if there's a gap.
+
+## Frequently asked questions
+
+**Does prior authorization guarantee payment?**
+Not entirely. It confirms the service is medically necessary under the plan's criteria, but the claim can still be affected by eligibility, network status, deductibles, and whether the service delivered matches what was approved.
+
+**Do I need new authorization if I switch plans?**
+Usually yes. Authorizations generally don't transfer between insurers, though some rules require new plans to honor existing authorizations for a transition period. Ask the new plan.
+
+**Can a plan require authorization for a drug I've taken for years?**
+Yes, and some plans require periodic reauthorization. Ask your pharmacy or doctor to start the renewal early.
+
+### Sources and further reading
+
+- HealthCare.gov: [Preauthorization](https://www.healthcare.gov/glossary/preauthorization/)
+- CMS: [Interoperability and prior authorization final rule](https://www.cms.gov/priorities/key-initiatives/burden-reduction/interoperability/policies-and-regulations/cms-interoperability-and-prior-authorization-final-rule-cms-0057-f)
+- Medicare.gov: [Your Medicare coverage: prior authorization](https://www.medicare.gov/coverage)
+
+*General information only, not medical, legal, or insurance advice. Rules and timelines vary by plan type and state.*
+
+
+Photos (CC0): [Male Doctor](https://stocksnap.io/photo/male-doctor-SM1VMTYTTQ) by Direct Media; [Tablets Pills](https://stocksnap.io/photo/tablets-pills-LT8Q65T7MA) by khunkorn laowisit. Charts by the author.

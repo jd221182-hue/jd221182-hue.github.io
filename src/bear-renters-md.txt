@@ -1,0 +1,166 @@
+Renters insurance is one of the cheapest policies most people can buy, and one of the most misunderstood. Many renters assume the landlord's insurance covers their belongings (it doesn't), or that renters insurance is only about stuff (liability is often the more valuable part). This guide walks through what a standard renters policy (often called an HO-4) actually covers, prices out a realistic apartment's worth of belongings, and shows where the gaps are.
+
+![Apartments Condos](https://jd221182-hue.github.io/media/f/bear-renters-hero.jpg)
+
+*Your landlord's policy covers the building. Your belongings and your liability are yours to insure.*
+
+## The four parts of a renters policy
+
+| Coverage | What it pays for | Typical starting limits |
+|---|---|---|
+| Personal property (Coverage C) | Your belongings after covered events like fire, smoke, theft, vandalism, and certain water damage | $15,000 to $50,000 |
+| Loss of use (Coverage D) | Extra living costs if a covered loss makes your home unlivable | Often a percentage of Coverage C |
+| Personal liability (Coverage E) | Injuries or damage you accidentally cause to others, plus legal defense | $100,000 to $500,000 |
+| Medical payments to others (Coverage F) | Small medical bills for guests injured at your place, regardless of fault | $1,000 to $5,000 |
+
+## How much stuff do you actually have?
+
+Most people underestimate this badly. Here's a hypothetical one-bedroom apartment, priced at what it would cost to **replace** everything today:
+
+| Room or category | Replacement cost |
+|---|---|
+| Living room: sofa, chair, coffee table, TV, rug, lamps, shelves | $5,200 |
+| Bedroom: bed, mattress, dresser, nightstands, linens | $3,800 |
+| Clothes and shoes | $6,500 |
+| Kitchen: cookware, dishes, small appliances, pantry | $2,400 |
+| Electronics: laptop, tablet, headphones, monitor | $3,100 |
+| Bathroom, cleaning supplies, toiletries | $700 |
+| Desk, chair, office supplies | $1,200 |
+| Bikes, sports and outdoor gear | $1,600 |
+| Books, decor, art, miscellaneous | $1,500 |
+| **Total** | **$26,000** |
+
+![Horizontal bar chart of replacement cost by category for a hypothetical one-bedroom apartment, totaling 26,000 dollars](https://jd221182-hue.github.io/media/f/bear-renters-inventory.png)
+
+*A typical one-bedroom adds up faster than people expect. Clothes and furniture are usually the biggest categories. Hypothetical.*
+
+A quick phone video walking through every room, closet, and drawer takes 15 minutes and is the single best thing you can do before you ever need to file a claim.
+
+## Replacement cost vs. actual cash value
+
+This is the most important choice on a renters policy. **Actual cash value (ACV)** pays what your belongings were worth after depreciation. **Replacement cost** pays what it costs to buy new equivalents.
+
+Using the $26,000 apartment above, with belongings that average five years old:
+
+![Bar chart comparing what a total loss would pay under actual cash value and replacement cost settlement for the same apartment of belongings](https://jd221182-hue.github.io/media/f/bear-renters-rcvacv.png)
+
+*A total loss of the same apartment under each settlement method. The difference is often more than the policy costs over many years. Hypothetical depreciation.*
+
+The replacement cost upgrade usually adds a modest amount to the premium. On a total loss, it can be the difference between refurnishing your home and sleeping on an air mattress for a year.
+
+## Liability: the part people forget
+
+Personal liability covers you if you accidentally injure someone or damage someone else's property, at home or often away from it:
+
+- A guest trips on your rug and breaks a wrist.
+- Your bathtub overflows and damages the apartment below.
+- Your dog bites someone at the park (subject to breed exclusions on some policies).
+- You accidentally start a kitchen fire that damages other units.
+
+A water leak into the unit below can easily cost tens of thousands of dollars. A $100,000 liability limit is a common minimum; $300,000 is often only slightly more expensive. If you have savings or a good income to protect, consider an umbrella policy on top.
+
+## Three things it usually doesn't cover
+
+1. **The building itself.** Walls, floors, and built-in fixtures are the landlord's to insure.
+2. **Floods and earthquakes.** Rising water from outside and earthquake damage are typically excluded. Separate flood and earthquake policies exist for renters.
+3. **Your roommate's things.** Unless your roommate is named on the policy, their belongings generally aren't covered by yours.
+
+## Special limits worth knowing
+
+Most renters policies cap payouts for certain categories, especially for theft:
+
+| Category | Common special limit for theft |
+|---|---|
+| Jewelry and watches | $1,000 to $2,500 total |
+| Firearms | $2,500 |
+| Silverware | $2,500 |
+| Cash | $200 to $500 |
+| Business property at home | $2,500 |
+| Collectibles, stamps, coins | $1,000 to $2,500 |
+
+If you own an engagement ring, an expensive camera, or collectibles worth more than these limits, ask about **scheduling** them: listing each item with its appraised value for broader coverage.
+
+![Couple Food](https://jd221182-hue.github.io/media/f/bear-renters-inline.jpg)
+
+*A 15-minute video inventory of every room is the best claim insurance you can buy.*
+
+## What it costs, and what moves the price
+
+Premiums are usually modest compared with other insurance. What moves them:
+
+- **Coverage amount** for personal property
+- **Deductible:** $500 vs. $1,000 can change the price noticeably
+- **Location:** crime and weather patterns in your area
+- **Liability limit**
+- **Replacement cost endorsement**
+- **Bundling** with an auto policy, which often earns a discount on both
+- **Claims history** and, in many states, a credit-based insurance score
+
+![Bar chart of hypothetical annual renters premiums at 250, 500, and 1,000 dollar deductibles with the break-even years for each step](https://jd221182-hue.github.io/media/f/bear-renters-deductible.png)
+
+*Raising the deductible lowers the premium, but on small policies the savings can be modest. Hypothetical premiums.*
+
+## A quick buying checklist
+
+- [ ] Add up your belongings at replacement cost; round up.
+- [ ] Choose replacement cost settlement.
+- [ ] Pick a deductible you could pay tomorrow.
+- [ ] Choose at least $100,000 of liability; price $300,000.
+- [ ] Ask about water backup and earthquake or flood if relevant where you live.
+- [ ] Schedule jewelry or other valuables above the special limits.
+- [ ] Make a video inventory and store it in the cloud.
+- [ ] Give your landlord the proof of insurance they request.
+
+For a deeper explanation of each coverage and how claims are paid, see this guide to [renters insurance](https://vistacover.com/guides/renters-insurance-explained/).
+
+## Three claims, worked through
+
+Here's how a renters policy with $26,000 of replacement cost personal property, $300,000 of liability, and a $500 deductible would handle three hypothetical claims:
+
+| Claim | What happened | Covered amount | Deductible | Paid |
+|---|---|---|---|---|
+| Burglary | Laptop, TV, and a bike stolen | $3,100 | $500 | $2,600 |
+| Kitchen fire | Smoke damage to belongings; three weeks in a hotel | $6,800 property + $2,900 loss of use | $500 | $9,200 |
+| Overflowing tub | Water leaks into the unit below; the neighbor's ceiling and belongings are damaged | $14,500 liability | None (liability usually has no deductible) | $14,500 |
+
+The third claim is the one many renters don't expect. Liability claims usually don't have a deductible, and a single accident can cost far more than everything you own.
+
+## Roommates and renters insurance
+
+If you share an apartment, each roommate's belongings generally need to be covered by their own policy. Some insurers allow roommates to be added to one policy, but that creates complications: a claim by one roommate affects the shared policy's history, liability limits are shared, and if one roommate moves out, coverage gets messy. Separate policies are usually simpler.
+
+## Renters insurance and your landlord
+
+Many leases require renters insurance with a minimum liability limit, often $100,000, and ask you to list the landlord as an "interested party" so they're notified if the policy lapses. That doesn't give the landlord any coverage under your policy; it's just a notification. Some landlords offer their own program; compare its price and coverage with a policy you buy yourself.
+
+## How to file a renters claim
+
+1. **For theft, file a police report** right away and get the report number.
+2. **Prevent further damage** if it's safe: cover broken windows, move belongings away from water.
+3. **Document everything** with photos and video before cleaning up.
+4. **Call your insurer or file online** promptly.
+5. **Make a list of damaged or stolen items** with descriptions, ages, and replacement prices; your video inventory helps here.
+6. **Keep receipts** for any hotel, meals, or emergency purchases.
+7. **For replacement cost claims,** replace items and send receipts to collect the full amount if the insurer paid actual cash value first.
+
+## Frequently asked questions
+
+**Does renters insurance cover my stuff in my car?**
+Often yes, under personal property coverage, subject to the deductible. Your car insurance generally covers the car, not belongings inside it.
+
+**Does it cover my laptop if it's stolen at a coffee shop?**
+Personal property coverage usually follows you anywhere in the world, though some policies limit off-premises coverage to a percentage of the total.
+
+**Does my landlord's insurance cover my damage if a pipe bursts?**
+The landlord's policy covers the building. Your belongings are covered by your own renters policy.
+
+### Sources and further reading
+
+- National Association of Insurance Commissioners: [A consumer's guide to home insurance (PDF)](https://content.naic.org/sites/default/files/publication-hoi-pp-consumer-homeowners.pdf)
+- Insurance Information Institute: [Renters insurance](https://www.iii.org/article/renters-insurance)
+- FEMA: [Flood insurance for renters](https://www.floodsmart.gov/renters)
+
+*Hypothetical figures. General information only, not insurance advice. Policies vary; read yours.*
+
+
+Photos (CC0): [Apartments Condos](https://stocksnap.io/photo/apartments-condos-DVE0MEACPS) by Martin Vorel; [Couple Food](https://stocksnap.io/photo/couple-food-IHQGVIHK7L) by Living Together. Charts by the author.

@@ -1,0 +1,134 @@
+A denied health insurance claim feels final. It usually isn't. Federal rules give people in most private health plans the right to an **internal appeal** with the insurer and, if that fails, an **external review** by an independent reviewer. Many denials are reversed, especially when they come from paperwork problems or missing medical records rather than a true exclusion.
+
+This guide walks through the appeal process step by step, with a timeline, a decision chart for what kind of denial you're facing, and a template for the appeal letter itself.
+
+![Doctor Patient](https://jd221182-hue.github.io/media/f/mat-appeal-hero.jpg)
+
+*Most health plans must explain a denial in writing and give you a way to challenge it.*
+
+## First: figure out what kind of denial it is
+
+The denial letter or explanation of benefits should say why the claim was denied. The reason determines the fix.
+
+| Type of denial | Common wording | Best first move |
+|---|---|---|
+| Administrative or coding | "Invalid code," "missing information," "duplicate," "provider not credentialed" | Call the provider's billing office; ask for a corrected claim. Often no formal appeal needed. |
+| Eligibility | "Coverage not in effect," "member not found" | Call the insurer and confirm enrollment dates and ID numbers. |
+| Out of network | "Processed as out-of-network" | Confirm the provider's network status on the date of service; ask for reprocessing. Check surprise billing protections. |
+| Prior authorization | "Authorization required," "no authorization on file" | Ask the provider whether they requested it; a retroactive authorization may be possible. |
+| Medical necessity | "Not medically necessary," "experimental or investigational" | File a formal appeal with medical records and a letter from your doctor. |
+| Exclusion | "Not a covered benefit" | Check plan documents; appeal if the service fits a covered category. |
+
+![Horizontal bar chart grouping common health claim denial types by how they are typically resolved, from a phone call to a formal appeal](https://jd221182-hue.github.io/media/f/mat-appeal-types.png)
+
+*Many denials are fixed with a corrected claim or a phone call. Medical necessity denials usually need a formal appeal with records. Illustrative.*
+
+## The timeline
+
+For most private health plans subject to federal rules, the general framework looks like this:
+
+- **You have 180 days** from receiving a denial notice to file an internal appeal.
+- **The plan must decide** an internal appeal within about **30 days** for services you haven't received yet and **60 days** for services you've already received, with faster timelines for urgent care.
+- **If the internal appeal is denied,** you can usually request an **external review** within **four months**.
+- **External reviews** are decided by an independent reviewer, typically within about **45 days**, or much faster for urgent situations. If the reviewer overturns the denial, the plan generally must pay.
+
+Plan types differ: employer self-funded plans, state-regulated plans, Medicare, and Medicaid each have their own procedures. The denial letter must explain the process for your plan.
+
+![Timeline chart showing the appeal windows: 180 days to file an internal appeal, 30 or 60 days for the plan to decide, 4 months to request external review, and about 45 days for an external decision](https://jd221182-hue.github.io/media/f/mat-appeal-timeline.png)
+
+*The general federal timeline for appeals in most private plans. Urgent cases move much faster. Check your denial letter for your plan's exact deadlines.*
+
+## Step-by-step: filing an internal appeal
+
+1. **Get the documents.** Request the denial letter, the EOB, and a copy of the **claim file**, including any clinical criteria or medical policy the plan used. Plans must provide these on request, free of charge.
+2. **Read the plan's coverage language** for the service. Your summary of benefits and the full plan document or certificate of coverage are the sources.
+3. **Ask your doctor for a letter of medical necessity.** It should explain your diagnosis, why the service is needed, what alternatives were tried or why they aren't appropriate, and cite clinical guidelines where possible.
+4. **Gather medical records** that support the letter: test results, notes, prior treatments.
+5. **Write a short appeal letter** (template below).
+6. **Submit by the method the plan specifies,** and keep proof of submission (a fax confirmation, certified mail receipt, or portal confirmation).
+7. **Calendar the deadline** for the plan's decision and follow up if you don't hear back.
+
+## A template appeal letter
+
+> **Re: Appeal of claim denial**
+> Member name: [name] · Member ID: [ID] · Claim number: [number] · Date of service: [date] · Provider: [name]
+>
+> I am requesting an internal appeal of the denial dated [date] for [service]. The denial states [reason as written].
+>
+> I believe the service should be covered because [one or two plain sentences: e.g., my physician determined it is medically necessary for my diagnosis of X after Y and Z were tried without success; the service is a covered benefit under section [__] of my plan].
+>
+> Enclosed: a letter of medical necessity from Dr. [name], relevant medical records, and the denial notice.
+>
+> Please send me copies of all documents, records, and criteria relied on in this decision. I request a decision within the time required by my plan and applicable law.
+>
+> [Signature, date, phone, email]
+
+![Business Man](https://jd221182-hue.github.io/media/f/mat-appeal-inline.jpg)
+
+*Keep copies of everything you send, with dates.*
+
+## External review: the independent second look
+
+If the internal appeal is denied, request an external review. The independent reviewer isn't employed by your plan, and in most cases the plan must follow the decision. Your denial letter will explain how to request it, often through your state insurance department or a federal process. External review is usually free for the consumer.
+
+## Getting help
+
+- **Your state insurance department** or consumer assistance program can help with appeals for state-regulated plans.
+- **For employer self-funded plans,** the U.S. Department of Labor's Employee Benefits Security Administration has benefits advisors.
+- **Your doctor's office** often has staff who handle appeals and peer-to-peer reviews with the insurer's medical director.
+- **Patient advocacy organizations** for specific conditions often have appeal templates and guidance.
+
+For a broader look at disputing denials across insurance types, including home and auto, see this guide on [how to dispute an insurance claim denial](https://vistacover.com/guides/how-to-dispute-insurance-claim-denial/).
+
+## What makes an appeal strong
+
+Insurers decide appeals against their written criteria. The strongest appeals answer those criteria directly:
+
+| Element | Why it matters |
+|---|---|
+| The plan's own medical policy, quoted | Shows exactly which criterion you meet |
+| Letter of medical necessity from your doctor | Expert explanation tied to your history |
+| Records of treatments already tried | Many denials are for "try a cheaper option first" |
+| Clinical guidelines from specialty societies | Shows the service is standard care |
+| Timeline of symptoms and impact | Explains urgency and real-world effect |
+| Prior approvals for the same service | Shows inconsistency if a plan approved it before |
+
+![Bar chart showing the elements of a strong health insurance appeal grouped by how much each typically adds to the case](https://jd221182-hue.github.io/media/f/mat-appeal-strength.png)
+
+*What to include in an appeal, roughly in order of importance. Illustrative.*
+
+## Keep a log
+
+Appeals stretch across weeks or months and involve calls with several people. A simple log keeps it organized and gives you evidence if deadlines are missed:
+
+| Date | Who you talked to | Reference number | What they said | Next step |
+|---|---|---|---|---|
+| 4/02 | Member services (name) | 12345 | Denied: no authorization on file | Asked provider to check |
+| 4/05 | Provider billing (name) | n/a | Authorization was submitted 3/20 | Requested copy of submission |
+| 4/09 | Member services (name) | 12398 | Will reprocess with authorization | Follow up 4/23 |
+
+## Urgent situations
+
+If waiting the standard time could seriously jeopardize your life, health, or ability to regain maximum function, ask for an **expedited (urgent) appeal**. Your doctor can certify urgency. Expedited internal appeals are generally decided within 72 hours, and in many cases you can request an expedited external review at the same time as the internal appeal.
+
+## Frequently asked questions
+
+**Should I pay the bill while appealing?**
+Ask the provider to put the account on hold during the appeal. Many will, especially if you keep them informed.
+
+**Can my doctor appeal for me?**
+Yes, providers often file appeals on a patient's behalf, and a "peer-to-peer" call between your doctor and the plan's reviewer can resolve medical necessity denials quickly.
+
+**What if the deadline already passed?**
+Ask anyway. Some plans allow late appeals for good cause, and a corrected claim from the provider may not require an appeal at all.
+
+### Sources and further reading
+
+- HealthCare.gov: [Appealing a health plan decision](https://www.healthcare.gov/appeal-insurance-company-decision/)
+- HealthCare.gov: [External review](https://www.healthcare.gov/appeal-insurance-company-decision/external-review/)
+- U.S. Department of Labor, EBSA: [Filing a claim for your health benefits (PDF)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/filing-a-claim-for-your-health-benefits.pdf)
+
+*General information only, not legal or insurance advice. Deadlines and procedures vary by plan type; your denial notice controls.*
+
+
+Photos (CC0): [Doctor Patient](https://stocksnap.io/photo/doctor-patient-QK9POJNL5Z) by Direct Media; [Business Man](https://stocksnap.io/photo/business-man-LLINRLUPA4) by Direct Media. Charts by the author.

@@ -1,0 +1,131 @@
+If a fire, burst pipe, or storm makes your home unlivable, you suddenly have costs you never planned for: a hotel or short-term rental, restaurant meals, extra driving, laundromats, pet boarding. **Loss of use** coverage, called Coverage D on most homeowners policies and included in most renters policies, is what pays for them. It's one of the most valuable parts of a policy, and one of the least understood, because it pays only the *extra* cost of living elsewhere.
+
+This guide explains what loss of use pays, works through a three-month displacement claim with real numbers, and lists the records that make the claim go smoothly.
+
+![Hotel Sign](https://jd221182-hue.github.io/media/f/bear-lossofuse-hero.jpg)
+
+*After a major loss, living expenses can run for months. Loss of use pays the extra cost compared with your normal budget.*
+
+## What it pays for
+
+Loss of use usually covers **additional living expenses (ALE)**: the increase over your normal costs while you can't live at home. Typical examples:
+
+- Hotel, short-term rental, or apartment while repairs are made
+- The extra cost of eating out compared with your normal grocery bill
+- Extra mileage or a longer commute
+- Laundry, pet boarding, and storage for belongings
+- Utility hookups or furniture rental at temporary housing
+
+The word that matters is **additional**. If you normally spend $700 a month on groceries and now spend $1,600 on restaurant and takeout meals, the covered amount is the $900 difference, not the full $1,600.
+
+## A 12-week example
+
+A kitchen fire makes a family's house unlivable for 12 weeks. Their normal monthly costs and their costs while displaced:
+
+| Expense | Normal month | Displaced month | Additional (covered) |
+|---|---|---|---|
+| Housing | $2,100 mortgage | $2,100 mortgage + $3,400 furnished rental | $3,400 |
+| Food | $900 groceries | $1,750 groceries and restaurants | $850 |
+| Transportation | $250 | $430 (longer commute) | $180 |
+| Laundry | $0 (own machine) | $90 | $90 |
+| Pet boarding | $0 | $300 (rental doesn't allow dogs, first month only) | $300 in month 1 |
+| Storage unit | $0 | $160 | $160 |
+| Utilities at home | $280 | $120 (reduced) | ($160 saved, deducted) |
+| **Monthly additional** | | | **≈ $4,820 in month 1, $4,520 after** |
+
+![Stacked bar chart comparing a family's normal monthly costs with their costs while displaced, highlighting the additional living expenses that loss of use pays](https://jd221182-hue.github.io/media/f/bear-lossofuse-monthly.png)
+
+*Normal costs vs. costs while displaced. Only the increase is covered. Hypothetical family.*
+
+Over the 12 weeks (just under three months), the additional living expenses come to about **$12,800**. The mortgage keeps going the whole time, and loss of use doesn't pay it, because you'd owe it anyway.
+
+![Line chart of cumulative additional living expenses over 12 weeks compared with a policy's loss of use limit](https://jd221182-hue.github.io/media/f/bear-lossofuse-cumulative.png)
+
+*Cumulative extra costs over a 12-week displacement compared with a hypothetical $70,000 loss of use limit.*
+
+## Renters are in a different position
+
+For renters, the math is similar but rent is the key difference. If your lease lets you stop paying rent on an unlivable unit (many leases and state laws provide for this), you're not paying double housing costs, so the "additional" housing cost is the difference between temporary housing and your normal rent. If you keep paying rent while displaced, the full temporary housing cost is typically additional.
+
+## Limits and time
+
+Policies cap loss of use in one of three ways:
+
+| Type of limit | Example |
+|---|---|
+| A dollar amount | $20,000 on a renters policy |
+| A percentage of the dwelling limit | 20% or 30% of Coverage A |
+| A time limit | Up to 12 or 24 months, sometimes "the shortest time reasonably required" |
+
+Big rebuilds take longer than people expect, especially after regional disasters when contractors, permits, and materials are backlogged for months. A whole-house rebuild can take a year or more. Check whether your limit is generous enough for a long displacement.
+
+![Bar chart showing how many months of displacement different loss of use limits would cover at 4,500 dollars of additional monthly expense](https://jd221182-hue.github.io/media/f/bear-lossofuse-limit.png)
+
+*How long different limits last at about $4,500 a month of additional costs. Hypothetical.*
+
+## Civil authority coverage
+
+If authorities order an evacuation because of a covered danger nearby, such as a wildfire, many policies pay living expenses for a limited period even if your own home isn't damaged, often up to two weeks. Check the "civil authority" provision in your policy.
+
+## Fair rental value
+
+If part of your home is rented to others (a basement apartment, for example) and the loss makes it unlivable, loss of use often pays the **fair rental value** you lose, minus expenses that stop while it's empty.
+
+![Bed Bedroom](https://jd221182-hue.github.io/media/f/bear-lossofuse-inline.jpg)
+
+*Keep every receipt, and write down your normal monthly spending before you need to prove the difference.*
+
+## How to make the claim go smoothly
+
+1. **Write down your normal monthly spending first,** for housing, food, transportation, and utilities. The "additional" part is easier to prove with a baseline.
+2. **Keep every receipt** and a simple spreadsheet of costs by week.
+3. **Ask for an advance.** Many insurers will advance loss of use funds for a deposit on temporary housing.
+4. **Get approval for big items** like a furnished rental lease before signing, so there's no dispute later.
+5. **Ask how long benefits can last** and what happens if repairs run long.
+6. **Choose comparable housing.** Policies typically pay for housing similar to your normal standard of living, not an upgrade.
+7. **Submit regularly,** for example every two weeks, rather than one large claim at the end.
+
+## What adjusters commonly question
+
+Most loss of use disputes come down to a few predictable issues:
+
+| Issue | What the adjuster may say | How to handle it |
+|---|---|---|
+| Temporary housing is nicer than your home | Only comparable housing is covered | Document availability; in a tight market, the only option may cost more |
+| Restaurant costs seem high | Only the increase over normal food costs is covered | Show your normal grocery spending from bank statements |
+| Repairs are taking longer than expected | Benefits end at a reasonable repair period | Keep a timeline of contractor delays, permit waits, and supply problems |
+| Items bought for temporary housing | Some may be considered personal property, not loss of use | Ask before buying furniture or appliances |
+
+## Long displacements: plan for the second and third month
+
+The first week after a loss is usually hotel stays and takeout food. If repairs will take more than a month, shift to a furnished rental with a kitchen as soon as possible. It's usually cheaper per month than a hotel, which stretches your loss of use limit, and cooking at home brings the food difference down.
+
+![Bar chart comparing the monthly cost of staying in a hotel versus a furnished rental during a long displacement](https://jd221182-hue.github.io/media/f/bear-lossofuse-hotelvsrental.png)
+
+*A furnished rental with a kitchen often costs less than a hotel and stretches the loss of use limit. Hypothetical.*
+
+## Taxes and timing
+
+Insurance payments for additional living expenses that reimburse your actual extra costs are generally not taxable income. Payments that exceed your actual increased costs may be treated differently. IRS Publication 547 covers casualty losses and insurance reimbursements in detail; ask a tax professional if a large claim is involved.
+
+## Frequently asked questions
+
+**Does loss of use pay my mortgage?**
+No. Your mortgage continues regardless, so it isn't an additional cost.
+
+**What if I stay with family?**
+If you stay with family for free, your additional housing cost is zero, but you can typically still claim extra food, mileage, and similar increases. Some families pay relatives rent; ask your adjuster how that will be treated before you do.
+
+**Does it cover hotel stays during repairs that aren't caused by a covered loss?**
+No. Loss of use applies when the home is unlivable because of a covered loss.
+
+### Sources and further reading
+
+- National Association of Insurance Commissioners: [A consumer's guide to home insurance (PDF)](https://content.naic.org/sites/default/files/publication-hoi-pp-consumer-homeowners.pdf)
+- United Policyholders: [Additional living expenses (ALE) tips](https://uphelp.org/claim-guidance-publications/)
+- Insurance Information Institute: [What is covered by standard homeowners policies?](https://www.iii.org/article/what-covered-standard-homeowners-policy)
+
+*Hypothetical figures. General information only, not insurance advice. Coverage depends on your policy.*
+
+
+Photos (CC0): [Hotel Sign](https://stocksnap.io/photo/hotel-sign-1FDAA51CC0) by Ryan McGuire; [Bed Bedroom](https://stocksnap.io/photo/bed-bedroom-U8QOG5XQA4) by Kristin Hardwick. Charts by the author.
