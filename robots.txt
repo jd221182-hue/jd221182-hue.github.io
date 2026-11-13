@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /src/
 Sitemap: https://jd221182-hue.github.io/sitemap.xml
