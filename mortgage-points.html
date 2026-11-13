@@ -6,7 +6,7 @@ a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10p
 .calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
 .out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
 ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
-footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+footer{color:#6b7482;font-size:13px;padding:36px 18px}figure{margin:24px 0}figure img{width:100%;height:auto;border:1px solid #dbe2ec;border-radius:8px;background:#fff}figcaption{font-size:14px;color:#5b6575;margin-top:6px}.tbl{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:15px;background:#fff;margin:16px 0}th{background:#1f3a5f;color:#fff;text-align:left}td,th{border:1px solid #dbe2ec;padding:7px 9px}tr:nth-child(even) td{background:#f5f7fa}.guide{border-top:2px solid #dbe2ec;margin-top:36px;padding-top:8px}</style></head>
 <body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
 <main><h1>Mortgage points break-even calculator</h1>
 <p>Discount points let you pay money at closing for a lower interest rate. One point usually costs 1% of the loan amount. The question is how long it takes the lower payment to repay that cost.</p>
@@ -23,5 +23,66 @@ break-even months = cost of points ÷ (payment without points − payment with p
 <ul><li>Selling or refinancing before the break-even means the points cost more than they saved.</li>
 <li>The cash could have been invested instead; counting that pushes the break-even later.</li>
 <li>Points may be tax-deductible for some borrowers who itemize. Check IRS guidance for your situation.</li></ul>
-<p>A plain-English guide with a chart of break-even months by rate reduction is here: <a href="https://vistacover.com/guides/mortgage-points-break-even/">mortgage points break-even</a>.</p></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<p>A plain-English guide with a chart of break-even months by rate reduction is here: <a href="https://vistacover.com/guides/mortgage-points-break-even/">mortgage points break-even</a>.</p><div class="guide"><h2>How long will you keep the loan?</h2>
+<p>Points only pay off if you keep the loan past the break-even month. Many mortgages end early, through a sale or a refinance, long before 30 years. Be honest about your plans: a move for work, a growing family, or a possible refinance if rates fall all shorten the time you'll actually benefit.</p>
+<figure><img src="/media/calc/points-breakeven.png" alt="Line chart of break-even months for one point at different rate reductions on a 400,000 dollar loan" width="1200" height="672" loading="lazy"><figcaption>Break-even months for one point (1% of the loan) by how much it lowers the rate. Bigger rate cuts pay off faster. Hypothetical 30-year loan.</figcaption></figure>
+
+<h2>Net savings by how long you keep the loan</h2>
+<p>Using the calculator's example ($400,000, 6.75% vs. 6.50%, one point for $4,000, saving $66.12 a month):</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Years until sale or refinance</th>
+<th>Payment savings</th>
+<th>Cost of points</th>
+<th>Net result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td>$2,380</td>
+<td>$4,000</td>
+<td>−$1,620</td>
+</tr>
+<tr>
+<td>5</td>
+<td>$3,967</td>
+<td>$4,000</td>
+<td>−$33</td>
+</tr>
+<tr>
+<td>7</td>
+<td>$5,554</td>
+<td>$4,000</td>
+<td>+$1,554</td>
+</tr>
+<tr>
+<td>10</td>
+<td>$7,934</td>
+<td>$4,000</td>
+<td>+$3,934</td>
+</tr>
+<tr>
+<td>30</td>
+<td>$23,803</td>
+<td>$4,000</td>
+<td>+$19,803</td>
+</tr>
+</tbody>
+</table></div>
+<figure><img src="/media/calc/points-net.png" alt="Line chart of cumulative net savings from buying one mortgage point over 30 years, crossing zero at about five years" width="1200" height="672" loading="lazy"><figcaption>Cumulative payment savings minus the cost of the point. The line crosses zero at about month 60.</figcaption></figure>
+
+<p>These figures ignore two more subtle effects. First, with a lower rate, a little more of each payment goes to principal, so the balance falls slightly faster, which helps a bit if you sell. Second, the $4,000 could have been invested or kept as savings instead. If it would have earned 4% a year, the break-even moves later, to about 68 months (roughly five and a half years) in this example.</p>
+<h2>Points vs. a bigger down payment</h2>
+<p>The same cash could go toward a larger down payment instead of points. A bigger down payment lowers the loan amount (and the payment) and may help avoid private mortgage insurance if it gets you to 20% down. Compare the monthly savings of each option for the same dollars.</p>
+<h2>Lender credits: points in reverse</h2>
+<p>Lenders also offer "negative points," or lender credits: a higher rate in exchange for money toward closing costs. That can make sense if you expect to sell or refinance within a few years, the mirror image of the logic for buying points.</p>
+<h2>What to ask the lender</h2>
+<ul>
+<li>The exact rate with zero points, one point, and two points, on the same day and the same loan</li>
+<li>Whether points are quoted as a percentage of the loan amount</li>
+<li>The annual percentage rate (APR) for each option, which includes points and some fees</li>
+<li>Whether any of the cost is an origination fee rather than true discount points</li>
+</ul></div></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
 <script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function pay(P,a,y){const r=a/1200,n=y*12;return r===0?P/n:P*r/(1-Math.pow(1+r,-n))}function c(){const P=$('p'),a=pay(P,$('r1'),$('n')),b=pay(P,$('r2'),$('n')),cost=P*$('pt')/100,d=a-b;document.getElementById('o').textContent=d<=0?'The rate with points should be lower than the rate without.':`Payments: $${a.toFixed(2)} vs $${b.toFixed(2)} (saves $${d.toFixed(2)}/month). Points cost ${fmt(cost)}. Break-even: ${(cost/d).toFixed(1)} months.`}document.querySelectorAll('input').forEach(i=>i.oninput=c);c();</script></body></html>

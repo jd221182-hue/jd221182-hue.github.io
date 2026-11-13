@@ -6,7 +6,7 @@ a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10p
 .calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
 .out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
 ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
-footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+footer{color:#6b7482;font-size:13px;padding:36px 18px}figure{margin:24px 0}figure img{width:100%;height:auto;border:1px solid #dbe2ec;border-radius:8px;background:#fff}figcaption{font-size:14px;color:#5b6575;margin-top:6px}.tbl{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:15px;background:#fff;margin:16px 0}th{background:#1f3a5f;color:#fff;text-align:left}td,th{border:1px solid #dbe2ec;padding:7px 9px}tr:nth-child(even) td{background:#f5f7fa}.guide{border-top:2px solid #dbe2ec;margin-top:36px;padding-top:8px}</style></head>
 <body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
 <main><h1>Money-weighted return (XIRR) calculator</h1>
 <p>If you add money to an account at different times, dividing your gain by your deposits understates or overstates your real return. The money-weighted return (what spreadsheets call XIRR) accounts for when each dollar went in.</p>
@@ -19,5 +19,63 @@ footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
 <p>The calculator solves for r by bisection. With the example flows, $10,000 deposited during the year grows to $10,900. The simple gain is 9%, but the money-weighted annual return is about 13%, because much of the money was invested for only part of the year.</p>
 <h2>When to use it</h2>
 <ul><li>Checking how your own contributions actually performed.</li><li>Comparing against a fund's published (time-weighted) return. If you tend to buy after prices rise, your XIRR may be lower.</li></ul>
-<p>Very short periods give misleading annual numbers, so use at least several months of data.</p></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<p>Very short periods give misleading annual numbers, so use at least several months of data.</p><div class="guide"><h2>Why timing changes the answer</h2>
+<p>Two investors can deposit the same total and end with the same balance, yet have different money-weighted returns, because the return depends on how long each dollar was invested.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th>Investor 1</th>
+<th>Investor 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jan 1 deposit</td>
+<td>$8,000</td>
+<td>$2,000</td>
+</tr>
+<tr>
+<td>Oct 1 deposit</td>
+<td>$2,000</td>
+<td>$8,000</td>
+</tr>
+<tr>
+<td>Dec 31 value</td>
+<td>$10,900</td>
+<td>$10,900</td>
+</tr>
+<tr>
+<td>Simple gain</td>
+<td>9%</td>
+<td>9%</td>
+</tr>
+<tr>
+<td>Money-weighted return</td>
+<td>about 10.6%</td>
+<td>about 23.5%</td>
+</tr>
+</tbody>
+</table></div>
+<figure><img src="/media/calc/xirr-timing.png" alt="Bar chart comparing the money-weighted return of two investors who deposited the same total at different times and ended with the same balance" width="1200" height="672" loading="lazy"><figcaption>Same deposits, same ending value, different timing. The investor whose money arrived later earned the gain in less time.</figcaption></figure>
+
+<p>Investor 2 earned the same $900 with most of the money invested for only three months, so the annualized rate is much higher.</p>
+<h2>Common data mistakes</h2>
+<ul>
+<li><strong>Counting dividends as deposits.</strong> Reinvested dividends are part of the return, not new money. Only include money you added from outside the account.</li>
+<li><strong>Leaving out withdrawals.</strong> Money you took out goes in as a positive cash flow on the date you took it.</li>
+<li><strong>Using the wrong end value.</strong> Use the account's market value on the end date, after fees.</li>
+<li><strong>Mixing accounts.</strong> You can compute XIRR across several accounts, but include every deposit and withdrawal from all of them.</li>
+</ul>
+<h2>Money-weighted vs. time-weighted</h2>
+<p>A fund's published return is <strong>time-weighted</strong>: it ignores when investors add or remove money, which makes it fair for judging the fund manager. Your XIRR is <strong>money-weighted</strong>: it reflects your own timing. If your XIRR is consistently below the funds you own, your deposit and withdrawal timing may be costing you. If it's above, you may have added money at good times.</p>
+<figure><img src="/media/calc/xirr-annualize.png" alt="Line chart showing how a fixed 2 percent gain annualizes to very different rates depending on the length of the holding period" width="1200" height="672" loading="lazy"><figcaption>Why short periods mislead: the same 2% gain becomes a huge annual rate when it happens over a few weeks.</figcaption></figure>
+
+<h2>Checking the calculator</h2>
+<p>Two quick tests anyone can run:</p>
+<ul>
+<li>One deposit of −1,000 and one value of 1,070 exactly one year later should return <strong>7.00%</strong>.</li>
+<li>The same pattern over two years with a final value of 1,144.90 should also return <strong>7.00%</strong>.</li>
+</ul>
+<p>The full calculation runs in your browser; view the page source to see every line of code.</p></div></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
 <script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function npv(r,f){const d0=f[0][0];return f.reduce((s,[d,c])=>s+c/Math.pow(1+r,(d-d0)/864e5/365),0)}function c(){const o=document.getElementById('o');try{const f=document.getElementById('f').value.trim().split(/\n+/).map(l=>{const[a,b]=l.split(',');return[new Date(a.trim()),parseFloat(b)]});let lo=-0.99,hi=10,flo=npv(lo,f),fhi=npv(hi,f);if(f.some(x=>isNaN(x[0])||isNaN(x[1])))throw 0;if(flo*fhi>0){o.textContent='No solution: check that deposits are negative and the final value is positive.';return}let m;for(let i=0;i<200;i++){m=(lo+hi)/2;const fm=npv(m,f);if(Math.abs(fm)<1e-9)break;if(flo*fm<0){hi=m}else{lo=m;flo=fm}}o.textContent=`Money-weighted annual return: ${(m*100).toFixed(2)}%`}catch(e){o.textContent='Use one line per cash flow: YYYY-MM-DD, amount'}}document.getElementById('f').oninput=c;c();</script></body></html>

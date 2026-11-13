@@ -6,7 +6,7 @@ a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10p
 .calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
 .out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
 ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
-footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+footer{color:#6b7482;font-size:13px;padding:36px 18px}figure{margin:24px 0}figure img{width:100%;height:auto;border:1px solid #dbe2ec;border-radius:8px;background:#fff}figcaption{font-size:14px;color:#5b6575;margin-top:6px}.tbl{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:15px;background:#fff;margin:16px 0}th{background:#1f3a5f;color:#fff;text-align:left}td,th{border:1px solid #dbe2ec;padding:7px 9px}tr:nth-child(even) td{background:#f5f7fa}.guide{border-top:2px solid #dbe2ec;margin-top:36px;padding-top:8px}</style></head>
 <body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
 <main><h1>Deductible break-even calculator</h1>
 <p>A higher deductible lowers your premium. This calculator shows how many claim-free years it takes for the premium savings to cover the extra amount you'd pay if you file a claim.</p>
@@ -20,5 +20,94 @@ footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
 <ul><li><strong>Cash on hand.</strong> Only choose a deductible you could pay tomorrow without borrowing.</li>
 <li><strong>Small claims.</strong> Many people avoid filing small claims anyway because claims can affect future premiums. That makes a higher deductible look better.</li>
 <li><strong>Percentage deductibles.</strong> Some home policies set wind or hurricane deductibles as a percentage of the dwelling limit. A 2% deductible on a $400,000 limit is $8,000. Enter that dollar amount above.</li></ul>
-<p>For a longer walkthrough of choosing deductibles on home, auto, and health plans, see <a href="https://vistacover.com/guides/how-to-choose-a-deductible/">how to choose a deductible</a>.</p></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<p>For a longer walkthrough of choosing deductibles on home, auto, and health plans, see <a href="https://vistacover.com/guides/how-to-choose-a-deductible/">how to choose a deductible</a>.</p><div class="guide"><h2>How to use the result</h2>
+<p>The break-even number answers one question: <strong>how many years in a row would you need to go without a claim</strong> for the higher deductible to pay for itself? Compare it with how often you actually file claims.</p>
+<ul>
+<li><strong>Car insurance:</strong> many drivers go years between at-fault collision claims. If your break-even is 3 to 4 years and you've had no claims in the last 5, the higher deductible usually wins.</li>
+<li><strong>Homeowners insurance:</strong> homeowners file claims less often than drivers, which tends to favor higher deductibles, as long as you can cover the deductible from savings.</li>
+<li><strong>Health insurance:</strong> use a total-cost comparison instead, because premiums, deductibles, coinsurance, and out-of-pocket maximums all interact.</li>
+</ul>
+<figure><img src="/media/calc/deductible-grid.png" alt="Heatmap of break-even years for combinations of deductible increase and annual premium savings" width="1200" height="672" loading="lazy"><figcaption>Break-even years for common combinations. Green cells pay off quickly; red cells take a long time to come out ahead.</figcaption></figure>
+
+<h2>A 10-year view</h2>
+<p>Break-even assumes at most one claim. Over a longer period, what matters is the expected number of claims. Here's a hypothetical comparison over 10 years for a car policy where raising the deductible from $500 to $1,000 saves $150 a year:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Claims in 10 years</th>
+<th>Extra paid in deductibles</th>
+<th>Premium saved</th>
+<th>Net result of the higher deductible</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>$0</td>
+<td>$1,500</td>
+<td>+$1,500</td>
+</tr>
+<tr>
+<td>1</td>
+<td>$500</td>
+<td>$1,500</td>
+<td>+$1,000</td>
+</tr>
+<tr>
+<td>2</td>
+<td>$1,000</td>
+<td>$1,500</td>
+<td>+$500</td>
+</tr>
+<tr>
+<td>3</td>
+<td>$1,500</td>
+<td>$1,500</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>$2,000</td>
+<td>$1,500</td>
+<td>−$500</td>
+</tr>
+</tbody>
+</table></div>
+<figure><img src="/media/calc/deductible-tenyear.png" alt="Bar chart of the net 10-year gain or loss from a higher deductible by number of claims filed" width="1200" height="672" loading="lazy"><figcaption>Over 10 years, the higher deductible comes out ahead unless you file three or more claims. Hypothetical.</figcaption></figure>
+
+<h2>Choosing a deductible you can actually pay</h2>
+<p>The math only works if the deductible is affordable. A practical rule: <strong>your emergency fund should cover your largest deductible, or the two largest if they could plausibly happen in the same year</strong> (for example, a storm that damages both your home and your car). If it doesn't yet, start with a lower deductible and raise it as savings grow.</p>
+<h2>Percentage deductibles</h2>
+<p>Some home policies, especially in hurricane and hail regions, have deductibles set as a percentage of the dwelling limit:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Dwelling limit</th>
+<th>1% deductible</th>
+<th>2% deductible</th>
+<th>5% deductible</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$250,000</td>
+<td>$2,500</td>
+<td>$5,000</td>
+<td>$12,500</td>
+</tr>
+<tr>
+<td>$400,000</td>
+<td>$4,000</td>
+<td>$8,000</td>
+<td>$20,000</td>
+</tr>
+<tr>
+<td>$600,000</td>
+<td>$6,000</td>
+<td>$12,000</td>
+<td>$30,000</td>
+</tr>
+</tbody>
+</table></div>
+<p>Enter the dollar amount in the calculator. A percentage deductible can be the largest single number in your household's emergency planning.</p></div></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
 <script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function c(){const gap=$('d2')-$('d1'),s=$('s');document.getElementById('o').textContent=(gap<=0||s<=0)?'Enter a higher deductible and a positive savings amount.':`Extra out of pocket per claim: ${fmt(gap)}. Break-even: ${(gap/s).toFixed(1)} claim-free years.`}document.querySelectorAll('input').forEach(i=>i.oninput=c);c();</script></body></html>

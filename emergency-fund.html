@@ -6,7 +6,7 @@ a{color:#1d5fd1}.calc{background:#fff;border:1px solid #dbe2ec;border-radius:10p
 .calc label{display:block;font-size:14px;font-weight:600;margin:10px 0 4px}.calc input{width:100%;padding:9px 10px;font-size:16px;border:1px solid #c8d1de;border-radius:6px}
 .out{margin-top:14px;padding:12px;background:#eef4ff;border-radius:8px;font-weight:600}code,pre{background:#eef1f5;border-radius:4px}pre{padding:10px;overflow:auto}
 ul.list{list-style:none;padding:0}ul.list li{background:#fff;border:1px solid #dbe2ec;border-radius:10px;padding:14px;margin:0 0 12px}ul.list a{font-weight:700;font-size:18px;text-decoration:none}
-footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
+footer{color:#6b7482;font-size:13px;padding:36px 18px}figure{margin:24px 0}figure img{width:100%;height:auto;border:1px solid #dbe2ec;border-radius:8px;background:#fff}figcaption{font-size:14px;color:#5b6575;margin-top:6px}.tbl{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:15px;background:#fff;margin:16px 0}th{background:#1f3a5f;color:#fff;text-align:left}td,th{border:1px solid #dbe2ec;padding:7px 9px}tr:nth-child(even) td{background:#f5f7fa}.guide{border-top:2px solid #dbe2ec;margin-top:36px;padding-top:8px}</style></head>
 <body><header><a href="/">Open Money Calculators</a><p>Small, transparent calculators for insurance and money decisions. The formula is always shown.</p></header>
 <main><h1>Emergency fund calculator</h1>
 <p>The usual advice is three to six months of expenses. The more useful number is your bare-bones month: only what you'd still have to pay if your income stopped.</p>
@@ -21,5 +21,54 @@ footer{color:#6b7482;font-size:13px;padding:36px 18px}</style></head>
 <h2>How to choose the number of months</h2>
 <ul><li>Lean higher with irregular or commission income, a single earner, or a long job search in your field.</li>
 <li>Make sure the fund also covers your largest insurance deductible or health plan out-of-pocket maximum.</li>
-<li>Keep it somewhere safe and quick to reach, like a high-yield savings account, not in stocks.</li></ul></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
+<li>Keep it somewhere safe and quick to reach, like a high-yield savings account, not in stocks.</li></ul><div class="guide"><h2>Why the bare-bones month, not normal spending</h2>
+<p>Normal spending includes things you'd cut quickly in an emergency: dining out, travel, subscriptions, new clothes, and retirement contributions. Basing the fund on normal spending can make the target feel unreachable. Basing it on the bare-bones month gives a smaller, more honest number.</p>
+<figure><img src="/media/calc/ef-compare.png" alt="Bar chart comparing an emergency fund target based on normal monthly spending with one based on a bare-bones month for three to nine months of coverage" width="1200" height="672" loading="lazy"><figcaption>Six months of normal spending vs. six months of bare-bones costs. The bare-bones target is smaller and just as protective. Hypothetical.</figcaption></figure>
+
+<p>Do add costs that would appear only in an emergency. The most important is <strong>health insurance</strong>: if you'd lose employer coverage with your job, the cost of continuation coverage or a marketplace plan can be several hundred dollars a month or more.</p>
+<h2>Picking the number of months</h2>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Your situation</th>
+<th>A reasonable starting point</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Two stable incomes</td>
+<td>3 months</td>
+</tr>
+<tr>
+<td>One stable income</td>
+<td>4 to 6 months</td>
+</tr>
+<tr>
+<td>Variable or commission income</td>
+<td>6 to 9 months</td>
+</tr>
+<tr>
+<td>Self-employed</td>
+<td>6 to 12 months</td>
+</tr>
+<tr>
+<td>Single earner with dependents</td>
+<td>6+ months</td>
+</tr>
+</tbody>
+</table></div>
+<h2>Building it without stalling</h2>
+<p>Most people don't fund the full amount at once. A staged approach keeps progress visible:</p>
+<ol>
+<li><strong>Starter fund:</strong> enough for your largest insurance deductible.</li>
+<li><strong>One bare-bones month.</strong></li>
+<li><strong>Three bare-bones months.</strong></li>
+<li><strong>Your full target.</strong></li>
+</ol>
+<figure><img src="/media/calc/ef-stages.png" alt="Line chart of an emergency fund growing at 500 dollars a month with horizontal lines for each milestone" width="1200" height="672" loading="lazy"><figcaption>How long each milestone takes at $500 a month with 4% interest. Hypothetical bare-bones month of $3,800.</figcaption></figure>
+
+<h2>Where to keep it</h2>
+<p>A high-yield savings account or money market account at a federally insured institution is the usual choice: safe, liquid, and separate from everyday checking. Avoid keeping an emergency fund in stocks, where it could be down sharply right when you need it.</p>
+<h2>Using it, then refilling it</h2>
+<p>The fund exists to be used. When you draw on it, set up an automatic transfer to rebuild it, and treat the refill like any other monthly bill until the balance is back to target.</p></div></main><footer>General information and math only, not financial, insurance, or tax advice. Source code for every calculator is on this page; view source to check it.</footer>
 <script>const $=id=>parseFloat(document.getElementById(id).value)||0;const fmt=n=>n.toLocaleString('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0});function c(){const t=['h','u','g','i','dm','t'].reduce((s,k)=>s+$(k),0);document.getElementById('o').textContent=`Bare-bones month: ${fmt(t)}. ${$('m')} months: ${fmt(t*$('m'))}.`}document.querySelectorAll('input').forEach(i=>i.oninput=c);c();</script></body></html>
