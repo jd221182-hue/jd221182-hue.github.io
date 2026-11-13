@@ -1,0 +1,82 @@
+<p>One percent sounds like nothing. It's a rounding error on a restaurant bill. But a 1% annual fee on an investment account doesn't take 1% of your money. Over a few decades, it can take something closer to a quarter of what you would have had.</p>
+<p>This post shows exactly how that happens, with the math, a set of charts, and a list of the places fees hide in a typical retirement or brokerage account. It ends with a way to calculate your own total fee in about ten minutes.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-hero.jpg" alt="Money Currency" width="1200" height="675" loading="lazy"><figcaption>Fees are charged on your whole balance every year, including on the growth that previous years' fees would have produced.</figcaption></figure>
+
+<h2>Why a small percentage becomes a large number</h2>
+<p>A 1% fee isn't charged once. It's charged every year, on the <em>entire</em> balance, including every dollar of growth from earlier years. And every dollar taken as a fee stops compounding for you forever.</p>
+<p>Here's a simple case: $100,000 invested for 30 years, earning 7% a year before fees, with nothing added.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-table1.png" alt="Table 1" loading="lazy"></figure>
+<p>A 1% fee costs about <strong>$187,000</strong> in this example, roughly <strong>a quarter</strong> of what the account would have been worth.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-growth.png" alt="Line chart of $100,000 growing over 30 years at net returns of 7 percent, 6.75 percent, 6 percent, and 5 percent, with the gaps between the lines widening over time" width="1200" height="672" loading="lazy"><figcaption>$100,000 over 30 years at different fee levels. The lines start together and separate more every year.</figcaption></figure>
+
+<h2>The gap grows faster than you'd expect</h2>
+<p>Look at how the cost of a 1% fee accumulates over time. In the first few years it looks harmless. By year 20 it's large. By year 30 it's enormous, because the fee is compounding against you the same way returns compound for you.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-drag.png" alt="Area chart showing the cumulative dollars lost to a 1 percent fee growing each year over 30 years on a $100,000 investment" width="1200" height="672" loading="lazy"><figcaption>Cumulative cost of a 1% fee, in dollars. Most of the damage happens in the second half, which is why fees matter most for long-term money.</figcaption></figure>
+
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-table2.png" alt="Table 2" loading="lazy"></figure>
+<p>At 40 years, a horizon that's realistic for someone starting a retirement account in their twenties, the 1% fee costs nearly half a million dollars on a single $100,000 investment.</p>
+<h2>It's worse with regular contributions</h2>
+<p>Most people don't invest a lump sum once. They add money every month. Fees apply to every one of those contributions and all their growth. A 30-year-old investing $500 a month for 35 years at 7% before fees:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-monthly.png" alt="Bar chart comparing final balances after 35 years of $500 monthly contributions at fee levels of 0.05 percent, 0.25 percent, 1 percent, and 1.5 percent" width="1200" height="672" loading="lazy"><figcaption>Same contributions, same market, different fees. The difference is money that never reaches the investor.</figcaption></figure>
+
+<p>The investor paying 0.05% ends up with about <strong>$889,900</strong>. At 1%, the same contributions grow to about <strong>$712,400</strong>, and at 1.5% to about <strong>$635,500</strong>. That's a difference of more than $250,000 between the cheapest and most expensive options, without saving a single extra dollar.</p>
+<h2>Where fees hide</h2>
+<p>Fees aren't always labeled "fee." In a typical account, look for:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-table3.png" alt="Table 3" loading="lazy"></figure>
+<p>The important number is the <strong>total</strong>. A 0.75% advisory fee on top of funds with 0.50% expense ratios is a 1.25% total, not 0.75%.</p>
+<p>The full breakdown of how expense ratios are calculated, and why they're so easy to overlook, is in this explainer on <a href="https://vistacover.com/articles/expense-ratios-explained/">expense ratios</a>.</p>
+<h2>Calculating your own total fee in ten minutes</h2>
+<ol>
+<li><strong>List each account and its balance.</strong></li>
+<li><strong>For each fund, find the expense ratio.</strong> It's on the fund's fact sheet or your brokerage's fund page.</li>
+<li><strong>Find any advisory or management fee</strong> on your advisory agreement or quarterly statement.</li>
+<li><strong>For a 401(k), find the plan's fee disclosure</strong>, which plans are required to provide to participants. Look for administrative and individual fees.</li>
+<li><strong>Compute a weighted average:</strong> for each holding, multiply its balance by its total fee, add them up, and divide by the total balance.</li>
+</ol>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-table4.png" alt="Table 4" loading="lazy"></figure>
+<p>That <strong>$1,438 a year</strong> is the real dollar cost this year, and it grows as the balance grows.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-inline.jpg" alt="Gadget Modern" width="1200" height="675" loading="lazy"><figcaption>A quarter-hour with your statements and a calculator tells you what you're actually paying.</figcaption></figure>
+
+<h2>Fees don't stop at retirement</h2>
+<p>Fees keep compounding against you after you stop working, and they matter just as much. During retirement, every dollar of fees is a dollar you can't spend, and it comes out of a balance you're no longer adding to.</p>
+<p>Here's a hypothetical $1,000,000 portfolio that needs to last 30 years, earning 5% a year before fees. The table shows the level annual withdrawal that would spend the balance to zero over exactly 30 years:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-table5.png" alt="Table 5" loading="lazy"></figure>
+<figure><img src="https://jd221182-hue.github.io/media/f/one-percent-fee-retirement.png" alt="Bar chart of sustainable annual withdrawals from a 1 million dollar portfolio over 30 years at fee levels of 0, 0.25, 1, and 1.5 percent" width="1200" height="672" loading="lazy"><figcaption>How fees shrink the income a retirement portfolio can safely produce. Hypothetical constant returns.</figcaption></figure>
+
+<p>A 1% fee in retirement cuts annual spending by about <strong>$7,200</strong> in this example, roughly 11% of the income the portfolio could otherwise support. Over a 30-year retirement, that's more than $200,000 of spending that never happens.</p>
+<h2>Questions to ask any advisor about fees</h2>
+<p>If you work with a financial advisor or are considering one, these questions get to the real cost quickly:</p>
+<ol>
+<li><strong>"What's my total annual cost, in dollars, including your fee and every fund's expense ratio?"</strong> A good advisor can answer this directly.</li>
+<li><strong>"Are you a fiduciary at all times for all my accounts?"</strong> Fiduciaries must act in your best interest.</li>
+<li><strong>"Do you receive commissions, revenue sharing, or 12b-1 fees from any product you recommend?"</strong> These create conflicts of interest.</li>
+<li><strong>"Would you consider a flat fee or hourly arrangement?"</strong> Many advisors offer alternatives to a percentage-of-assets fee.</li>
+<li><strong>"What do I get for the fee beyond portfolio management?"</strong> Tax planning, estate coordination, insurance reviews, and retirement income planning all have real value.</li>
+</ol>
+<p>You can look up an advisor's registration, disciplinary history, and fee disclosures (Form ADV) for free on the SEC's Investment Adviser Public Disclosure website and FINRA BrokerCheck.</p>
+<h2>Is a higher fee ever worth it?</h2>
+<p>Sometimes. Fees pay for something, and the question is whether that something is worth more than its compounding cost.</p>
+<ul>
+<li><strong>Advice that changes behavior</strong> can be worth a lot. An advisor who keeps you from selling in a panic, helps you save more, or sets up tax-efficient withdrawals may add more than they cost.</li>
+<li><strong>Planning services</strong> such as tax, estate, and retirement income planning have value beyond investment returns.</li>
+<li><strong>Convenience</strong> has value too, but put a price on it.</li>
+</ul>
+<p>What's rarely worth it is paying high fees for investment selection alone. Research summarized by regulators and academics has repeatedly found that most actively managed funds underperform comparable low-cost index funds over long periods after fees. Comparing a flat-fee or hourly advisor with a percentage-of-assets advisor is also worth doing; on large balances, a percentage fee can cost far more for the same advice.</p>
+<h2>A quick way to lower fees without changing your strategy</h2>
+<ul>
+<li>Swap high-expense funds for low-cost index funds tracking the same market segment, watching for taxes in taxable accounts.</li>
+<li>Ask a 401(k) plan administrator whether lower-cost share classes or index options are available.</li>
+<li>Consolidate old 401(k)s into a low-cost IRA or your current plan if it's cheaper.</li>
+<li>Ask your advisor for a breakdown of every fee you pay, in dollars, for the last year.</li>
+<li>Compare advisory pricing models: percentage of assets, flat annual, or hourly.</li>
+</ul>
+<p>For more examples of fee compounding, including how fees interact with contribution timing, see this guide on <a href="https://vistacover.com/guides/investment-fees-compounding/">how investment fees compound</a>.</p>
+<h2>The math, if you want to check it</h2>
+<p>The future value of a lump sum is <strong>FV = PV × (1 + r − f)^n</strong>, where <em>r</em> is the gross return, <em>f</em> is the annual fee, and <em>n</em> is the number of years. (This treats the fee as reducing the return each year, which is close to how expense ratios work in practice.) For monthly contributions, the standard future-value-of-an-annuity formula applies with the net monthly rate.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>U.S. Securities and Exchange Commission, Investor.gov: <a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-3">Updated investor bulletin: how fees and expenses affect your investment portfolio</a></li>
+<li>U.S. Department of Labor: <a href="https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/a-look-at-401k-plan-fees">A look at 401(k) plan fees</a></li>
+<li>FINRA: <a href="https://tools.finra.org/fund_analyzer/">Fund analyzer</a> for comparing mutual fund and ETF costs</li>
+</ul>
+<p><em>All returns are hypothetical and constant for illustration. Real returns vary year to year. This is general information, not investment advice.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/money-currency-WTER880LH2">Money Currency</a> by Skitter Photo (CC0); photo: <a href="https://stocksnap.io/photo/gadget-modern-RM676MH2KP">Gadget Modern</a> by Burak Kebapci (CC0). Charts by the author.</small></p>

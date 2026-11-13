@@ -1,0 +1,71 @@
+<p>Most people think of a dependent care FSA as a child care benefit. It can also cover care for an adult, including an aging parent, if the situation fits the rules. For working caregivers paying for an adult day program or in-home care while they're at work, that can mean paying for care with pre-tax dollars and saving a meaningful share of the cost.</p>
+<p>This guide explains who qualifies, which expenses count, how much the FSA can save compared with the tax credit, and the step-by-step process from enrollment to reimbursement, with a worked example.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-hero.jpg" alt="Caregiver Nurse" width="1200" height="675" loading="lazy"><figcaption>Adult day programs let many caregivers keep working. A dependent care FSA can pay for them with pre-tax money.</figcaption></figure>
+
+<h2>The basic idea</h2>
+<p>A dependent care FSA (sometimes called a dependent care assistance program, or DCAP) lets you set aside part of your paycheck <strong>before</strong> income and payroll taxes to pay for care that allows you to work. Starting in 2026, the household limit rose to <strong>$7,500</strong> a year ($3,750 if married filing separately), up from the $5,000 limit that applied for decades. Your employer has to offer the plan, and some employers set lower limits.</p>
+<h2>When a parent counts as a qualifying person</h2>
+<p>The care has to be for a <strong>qualifying person</strong>. For an adult such as a parent, that means someone who:</p>
+<ol>
+<li>Is <strong>physically or mentally unable to care for themselves</strong>, and</li>
+<li><strong>Lives with you for more than half the year</strong>, and</li>
+<li>Is your dependent, or would be except that their gross income is too high, they filed a joint return, or you could be claimed as a dependent yourself.</li>
+</ol>
+<p>"Unable to care for themselves" generally means they can't dress, clean, or feed themselves, or need constant attention to avoid harming themselves or others, because of a physical or mental condition.</p>
+<p>The <strong>living-with-you requirement</strong> is the one that rules out many families. If your parent lives in their own home or in assisted living, this benefit generally won't apply, even if you pay for their care. That's different from claiming them as a dependent for other purposes, where a parent doesn't have to live with you. (The companion post on <a href="https://financeinsurance.substack.com/p/can-you-claim-your-mom-or-dad-as">claiming a parent as a dependent</a> walks through those tests.)</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-eligibility.png" alt="Flowchart-style chart showing the questions that decide whether care for a parent qualifies for a dependent care FSA" width="1200" height="672" loading="lazy"><figcaption>The four questions that decide eligibility. A "no" at any step generally means the FSA can't be used for this care.</figcaption></figure>
+
+<h2>What expenses count</h2>
+<p>The care has to be so that you (and your spouse, if married) can work or look for work. Commonly eligible:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-table1.png" alt="Table 1" loading="lazy"></figure>
+<h2>How much it saves: FSA vs. credit</h2>
+<p>There's also a federal <strong>child and dependent care credit</strong> that can apply to the same kinds of expenses. You can't use the same dollars for both. The FSA saves income tax <strong>and</strong> payroll taxes (Social Security and Medicare, 7.65%) on the money you set aside, and often state income tax too. The credit is a percentage of eligible expenses that depends on your income, and the credit rules were updated for 2026, so run the numbers fresh rather than relying on older advice.</p>
+<p>Here's a hypothetical comparison for a caregiver paying $9,000 a year for adult day care, using the full $7,500 FSA:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-table2.png" alt="Table 2" loading="lazy"></figure>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-compare.png" alt="Bar chart comparing estimated savings from a $7,500 dependent care FSA with an estimated dependent care credit at three income levels" width="1200" height="672" loading="lazy"><figcaption>Estimated FSA savings vs. an estimated dependent care credit at three income levels. Hypothetical; your result depends on income, state, and the current credit rules.</figcaption></figure>
+
+<p>Two general patterns:</p>
+<ul>
+<li><strong>Higher earners usually come out ahead with the FSA,</strong> because their tax rates are higher and the credit percentage shrinks as income rises.</li>
+<li><strong>Lower earners may do better with the credit,</strong> especially if the 2026 credit percentage for their income is high. Some can use both: the FSA for the first $7,500 and the credit for additional expenses up to the credit's own limit, minus the FSA amount.</li>
+</ul>
+<h2>A worked example from start to finish</h2>
+<p>Maria works full time and her father, who has advanced Parkinson's, lives with her. He attends an adult day program five days a week while she works, at $750 a month ($9,000 a year).</p>
+<ol>
+<li><strong>Open enrollment (November):</strong> Maria elects $7,500 for the year. Her employer deducts $288.46 from each of 26 paychecks before taxes.</li>
+<li><strong>January to December:</strong> she pays the adult day program and submits a claim each month with the invoice, showing dates of care and the provider's tax ID.</li>
+<li><strong>Reimbursement:</strong> the FSA reimburses her as money accumulates in her account. Dependent care FSAs only reimburse up to the amount deducted so far, unlike health FSAs, which front-load the full annual amount.</li>
+<li><strong>Tax filing:</strong> she reports the FSA and the care provider on Form 2441. Because her expenses ($9,000) exceed the FSA amount, she checks whether the remaining $1,500 qualifies for the credit.</li>
+</ol>
+<p>At a 22% federal bracket with a 5% state tax, the FSA saves her roughly <strong>$2,600</strong> for the year.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-cashflow.png" alt="Line chart of Maria's dependent care FSA balance over the year as payroll contributions arrive and monthly reimbursements are paid out" width="1200" height="672" loading="lazy"><figcaption>How a dependent care FSA balance moves through the year. Reimbursements can't exceed what's been contributed so far.</figcaption></figure>
+
+<h2>Practical steps</h2>
+<ol>
+<li><strong>Check the living arrangement first.</strong> If your parent doesn't live with you more than half the year, look at other options.</li>
+<li><strong>Get documentation</strong> that your parent can't care for themselves. A note from their doctor is useful to keep with your records.</li>
+<li><strong>Choose a care provider and get their tax ID</strong> (or Social Security number for an individual caregiver). You'll need it to file claims and to report the care on Form 2441.</li>
+<li><strong>Estimate the year's cost carefully.</strong> FSAs are generally use-it-or-lose-it, though some plans offer a grace period or let you submit claims for a short time after year-end.</li>
+<li><strong>Enroll during open enrollment,</strong> or within your plan's window after a qualifying change, such as your parent moving in with you or a change in care costs.</li>
+</ol>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-inline.jpg" alt="Ball People" width="1200" height="675" loading="lazy"><figcaption>Keep every invoice with the dates of care and the provider's tax ID.</figcaption></figure>
+
+<h2>If you hire an in-home caregiver</h2>
+<p>Paying an individual caregiver directly can make you a <strong>household employer</strong>. If you pay a household employee above an annual threshold, you may owe Social Security and Medicare taxes on their wages and need to file Schedule H with your return and provide a Form W-2. Using an agency avoids most of this, because the agency is the employer. IRS Publication 926 explains the rules.</p>
+<h2>Common mistakes</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/dependent-care-fsa-parent-table3.png" alt="Table 3" loading="lazy"></figure>
+<h2>Frequently asked questions</h2>
+<p><strong>Can I use the FSA if my spouse doesn't work?</strong>
+Generally no. Both spouses must work, look for work, be full-time students, or be unable to care for themselves.</p>
+<p><strong>Does the care have to be in my home?</strong>
+No. Adult day care outside the home qualifies, as long as the parent lives with you and returns home at night.</p>
+<p><strong>Can I change my election mid-year?</strong>
+Only with a qualifying change, such as a change in care costs, your parent moving in or out, or a change in employment. Plans set the specific rules.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>IRS: <a href="https://www.irs.gov/publications/p503">Publication 503, Child and Dependent Care Expenses</a></li>
+<li>IRS: <a href="https://www.irs.gov/forms-pubs/about-form-2441">Form 2441 and instructions</a></li>
+<li>IRS: <a href="https://www.irs.gov/publications/p926">Publication 926, Household Employer's Tax Guide</a></li>
+<li>Administration for Community Living: <a href="https://eldercare.acl.gov/">Eldercare Locator</a> to find adult day services</li>
+</ul>
+<p><em>All figures are hypothetical. Tax rules and limits change; confirm current-year details with IRS guidance and your plan administrator. This is general information, not tax advice.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/caregiver-nurse-TBEMNLXLVQ">Caregiver Nurse</a> by Direct Media (CC0); photo: <a href="https://stocksnap.io/photo/ball-people-XGA8T6UUH6">Ball People</a> by Matthias Zomer (CC0). Charts by the author.</small></p>

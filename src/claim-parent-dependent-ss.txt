@@ -1,0 +1,88 @@
+<p>If you help support a parent, whether by paying part of their rent, buying groceries, covering medical bills, or having them live with you, you may be able to claim them as a dependent on your federal tax return. It can unlock a tax credit, deductions for their medical bills, and sometimes a better filing status. The rules are specific, though, and the one that trips people up most isn't the one they expect.</p>
+<p>This guide walks through the IRS tests in plain English, then runs three family scenarios through them with the support math worked out, and finishes with the paperwork to keep in case the IRS asks.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-hero.jpg" alt="Mother Generation" width="1200" height="675" loading="lazy"><figcaption>Many adult children help support a parent. Whether that support makes the parent a tax dependent depends on a few specific tests.</figcaption></figure>
+
+<h2>The short version</h2>
+<p>A parent can be your dependent as a <strong>qualifying relative</strong> if all of these are true for the tax year:</p>
+<ol>
+<li><strong>Relationship:</strong> they're your parent, stepparent, or parent-in-law (grandparents also qualify). Unlike most other relatives, a parent <strong>doesn't have to live with you.</strong></li>
+<li><strong>Gross income test:</strong> their gross income is below an annual limit set by the IRS. The limit is adjusted for inflation each year; it was $5,200 for 2025. Check IRS Publication 501 for the current year.</li>
+<li><strong>Support test:</strong> you provide <strong>more than half</strong> of their total support for the year.</li>
+<li><strong>Not someone else's qualifying child,</strong> and not filing a joint return with a spouse (with a narrow exception for returns filed only to claim a refund).</li>
+<li><strong>Citizenship or residency:</strong> they're a U.S. citizen, U.S. national, or resident of the U.S., Canada, or Mexico.</li>
+</ol>
+<h2>The gross income test: what counts and what doesn't</h2>
+<p>This is where many families assume they don't qualify when they actually do. <strong>Gross income</strong> for this test means income that isn't exempt from tax. That has a big consequence:</p>
+<ul>
+<li><strong>Social Security benefits generally don't count</strong> toward the gross income test if they're not taxable, which is usually the case when Social Security is a parent's main income.</li>
+<li><strong>Taxable pensions, IRA withdrawals, interest, dividends, wages, and rental income do count.</strong></li>
+<li><strong>Gifts from you</strong> don't count as their income.</li>
+</ul>
+<p>So a parent who receives $22,000 a year in Social Security and $3,000 in taxable interest has gross income of $3,000 for this test, and may pass easily.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-table1.png" alt="Table 1" loading="lazy"></figure>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-income.png" alt="Stacked bar chart comparing two parents with similar total income where one passes the gross income test because most income is non-taxable Social Security and the other fails because most is pension income" width="1200" height="672" loading="lazy"><figcaption>Similar total income, different results. What matters is how much of the income is taxable, not the total.</figcaption></figure>
+
+<h2>The support test: where the math happens</h2>
+<p><strong>Total support</strong> is everything spent on the parent's living costs during the year, by anyone, including the parent themselves:</p>
+<ul>
+<li>Housing (fair rental value if they live with you, or actual rent and utilities if they live on their own)</li>
+<li>Food</li>
+<li>Medical and dental care, health insurance premiums (including Medicare premiums)</li>
+<li>Clothing, transportation, and other necessities</li>
+<li>Recreation and personal items</li>
+</ul>
+<p>You must provide <strong>more than 50%</strong> of that total. Here's the key detail: <strong>money the parent receives but doesn't spend on their own support doesn't count as their contribution.</strong> If a parent's Social Security goes into savings, that money isn't support.</p>
+<h2>Three scenarios, worked out</h2>
+<h3>Scenario 1: Mom lives with you</h3>
+<p>Mom lives in your home. Her only income is $19,000 in Social Security, of which she spends $7,000 on her own support (medical, clothing, personal items) and saves the rest.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-table2.png" alt="Table 2" loading="lazy"></figure>
+<p>Total support is $24,400. You provided <strong>71%</strong>. She has no taxable income. She qualifies as your dependent.</p>
+<h3>Scenario 2: Dad lives in his own apartment</h3>
+<p>Dad rents an apartment for $1,100 a month. He gets $16,800 in Social Security and spends all of it on his own support. You pay $600 a month toward his rent and cover $2,400 of medical bills.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-table3.png" alt="Table 3" loading="lazy"></figure>
+<p>Total support is $26,400. You provided <strong>36%</strong>. Dad <strong>doesn't</strong> qualify as your dependent, even though you're helping significantly.</p>
+<h3>Scenario 3: Three siblings share the cost</h3>
+<p>Three siblings each pay about a quarter of their mother's support, and she pays the rest. No single person provides more than half.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-table4.png" alt="Table 4" loading="lazy"></figure>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-scenarios.png" alt="Stacked horizontal bars showing who paid each share of a parent's total support in three scenarios, with a line at 50 percent marking the support test threshold" width="1200" height="672" loading="lazy"><figcaption>Who paid each share of a parent's support in three scenarios. The dashed line marks the 50% threshold.</figcaption></figure>
+
+<p>Here, a <strong>multiple support agreement</strong> can help. If the group of people who could otherwise claim her together provide more than half her support, any one of them who provided <strong>more than 10%</strong> can claim her, as long as the others agree in writing. The others sign IRS Form 2120 (or a similar statement), and the person claiming her attaches it to their return. Siblings often rotate who claims the parent each year.</p>
+<h2>What claiming a parent can get you</h2>
+<ul>
+<li><strong>Credit for other dependents:</strong> a nonrefundable credit, currently $500 per qualifying dependent, subject to income phaseouts.</li>
+<li><strong>Head of household filing status</strong> if you're unmarried and pay more than half the cost of maintaining a home for the parent. Importantly, <strong>the parent doesn't have to live with you</strong> for this, as long as you pay more than half the cost of keeping up <em>their</em> main home (including a care facility). Head of household has a larger standard deduction and wider tax brackets than single.</li>
+<li><strong>Medical expense deduction:</strong> if you itemize, medical expenses you pay for a dependent parent count toward your own medical expense deduction (subject to the threshold of 7.5% of adjusted gross income).</li>
+<li><strong>Dependent care benefits:</strong> if the parent lives with you, can't care for themselves, and you pay for their care so you can work, you may be able to use the child and dependent care credit or a dependent care FSA. This is covered in the companion post on <a href="https://financeinsurance.substack.com/p/using-a-dependent-care-fsa-for-a">using a dependent care FSA for a parent</a>.</li>
+</ul>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-benefits.png" alt="Bar chart estimating the federal tax benefit of claiming a parent in three situations: the credit alone, the credit plus head of household status, and the credit plus head of household plus a medical deduction" width="1200" height="672" loading="lazy"><figcaption>Rough federal tax savings from claiming a parent in three situations. Hypothetical; the actual amount depends on your income, bracket, and deductions.</figcaption></figure>
+
+<h2>A medical expense twist</h2>
+<p>Even if a parent fails the <strong>gross income test</strong>, you may still be able to deduct medical expenses you paid for them, as long as they would have qualified as your dependent except for the gross income test (or because they filed a joint return). This is a useful exception for families paying large care bills for a parent whose pension income is above the limit.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-inline.jpg" alt="Business Reports" width="1200" height="675" loading="lazy"><figcaption>A simple folder of receipts makes the support test easy to prove if the IRS ever asks.</figcaption></figure>
+
+<h2>Records to keep</h2>
+<p>The IRS can ask you to prove the support test. Keep:</p>
+<ul>
+<li>A simple worksheet of total support and who paid what (IRS Publication 501 includes one)</li>
+<li>Receipts, bank statements, or canceled checks for what you paid</li>
+<li>The parent's Social Security statement (Form SSA-1099) and any 1099-R forms for pensions or IRA withdrawals</li>
+<li>A reasonable estimate of fair rental value if the parent lives with you (for example, local rents for a similar room)</li>
+<li>Any signed multiple support agreements</li>
+</ul>
+<h2>Common mistakes</h2>
+<figure><img src="https://jd221182-hue.github.io/media/f/claim-parent-dependent-table5.png" alt="Table 5" loading="lazy"></figure>
+<h2>Frequently asked questions</h2>
+<p><strong>Can I claim my parent if they live in a nursing home?</strong>
+Yes, if they meet the tests. Payments to the facility count as support. And if you pay more than half the cost, it can also support head of household status.</p>
+<p><strong>Does my parent have to file a tax return?</strong>
+Not necessarily. It depends on their own income. Being your dependent doesn't, by itself, require them to file.</p>
+<p><strong>Can my spouse's parents qualify?</strong>
+Yes. Parents-in-law are qualifying relatives, and the relationship continues even after divorce or death of a spouse.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>IRS: <a href="https://www.irs.gov/publications/p501">Publication 501, Dependents, Standard Deduction, and Filing Information</a></li>
+<li>IRS: <a href="https://www.irs.gov/publications/p502">Publication 502, Medical and Dental Expenses</a></li>
+<li>IRS: <a href="https://www.irs.gov/forms-pubs/about-form-2120">Form 2120, Multiple Support Declaration</a></li>
+<li>IRS: <a href="https://www.irs.gov/help/ita/whom-may-i-claim-as-a-dependent">Interactive Tax Assistant: Whom may I claim as a dependent?</a></li>
+</ul>
+<p><em>All figures are hypothetical. Tax limits are adjusted annually and laws change. This is general information, not tax advice; confirm details with IRS guidance or a tax professional.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/mother-generation-PEFKCYN1NY">Mother Generation</a> by Candace McDaniel (CC0); photo: <a href="https://stocksnap.io/photo/business-reports-LABXT2BYKU">Business Reports</a> by Wilfred Iven (CC0). Charts by the author.</small></p>
