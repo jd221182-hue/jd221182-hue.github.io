@@ -1,0 +1,255 @@
+<p>It's one of the most common complaints in homeowner forums: the renewal notice arrives, the premium is up by a few hundred dollars, and the homeowner hasn't called the insurance company once in years. It feels like being punished for being careful.</p>
+<p>It almost never is. A homeowners premium is built from a stack of factors, and only one small layer of that stack is <em>your</em> claim history. The rest moves with construction costs, your neighborhood, the age of your roof, the price the insurer pays for its own protection, and sometimes your credit. This guide breaks the renewal into its parts, shows the arithmetic with a worked example, and ends with a checklist for figuring out which part moved on <em>your</em> bill.</p>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/hero.jpg" alt="House Home" width="1200" height="675" loading="lazy"><figcaption>A renewal increase usually has more to do with the house, the neighborhood, and construction prices than with anything the owner did.</figcaption></figure>
+
+<h2>How a homeowners premium is actually built</h2>
+<p>Insurers don't pick a number out of the air. In most states they file a rating plan with the state insurance department, and your premium comes out of that plan as a chain of multiplications. Simplified, it looks like this:</p>
+<p><strong>Premium = base rate × territory factor × amount-of-insurance factor × construction and roof factors × deductible factor × insurance score factor × (1 − discounts) + policy fees</strong></p>
+<p>Every factor in that chain can change at renewal, and most of them have nothing to do with you. Here's a hypothetical renewal for a 2,000-square-foot house to make it concrete:</p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Last year</th>
+<th>This year</th>
+<th>Why it moved</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Base rate (state filing)</td>
+<td>$1,000</td>
+<td>$1,060</td>
+<td>Insurer's approved statewide increase of 6%</td>
+</tr>
+<tr>
+<td>Territory factor</td>
+<td>1.20</td>
+<td>1.24</td>
+<td>Rising hail and water losses in the ZIP code</td>
+</tr>
+<tr>
+<td>Dwelling limit (Coverage A)</td>
+<td>$380,000</td>
+<td>$402,800</td>
+<td>6% inflation guard on rebuild cost</td>
+</tr>
+<tr>
+<td>Amount-of-insurance factor</td>
+<td>1.40</td>
+<td>1.46</td>
+<td>Follows the higher dwelling limit</td>
+</tr>
+<tr>
+<td>Roof age factor</td>
+<td>1.00 (age 9)</td>
+<td>1.05 (age 10)</td>
+<td>Crossed a roof-age band</td>
+</tr>
+<tr>
+<td>Deductible factor ($1,000)</td>
+<td>0.92</td>
+<td>0.92</td>
+<td>No change</td>
+</tr>
+<tr>
+<td>Discounts</td>
+<td>−12%</td>
+<td>−10%</td>
+<td>New-home discount stepped down</td>
+</tr>
+<tr>
+<td><strong>Premium</strong></td>
+<td><strong>≈ $1,360</strong></td>
+<td><strong>≈ $1,668</strong></td>
+<td><strong>+23%, with zero claims</strong></td>
+</tr>
+</tbody>
+</table>
+<p>None of those changes is dramatic on its own. Stacked on top of each other, they turn into a 23% jump. That stacking is the single biggest reason a no-claims renewal can still sting.</p>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/waterfall.png" alt="Waterfall chart showing a hypothetical premium rising from $1,360 to $1,668 through base rate, territory, rebuild cost, roof age, and discount changes" width="1200" height="672" loading="lazy"><figcaption>Hypothetical renewal broken into its parts. Each bar is the dollar effect of one factor, applied in order.</figcaption></figure>
+
+<p>The rest of this guide takes those layers one at a time.</p>
+<h2>1. Rebuilding your house costs more every year</h2>
+<p>Your dwelling limit (Coverage A on the declarations page) is meant to pay to rebuild the house from the foundation up after a total loss. It is not your purchase price and it is not the market value. Land doesn't burn, so a $600,000 house on an expensive lot might only need a $350,000 rebuild limit, while an older house in a cheap market might cost more to rebuild than it would sell for.</p>
+<p>Rebuild estimates track lumber, roofing, drywall, labor, and permit costs. When those rise, the insurer's replacement-cost estimate rises too, and so does the limit. Many policies include an <strong>inflation guard</strong> endorsement that raises Coverage A automatically every year by a set percentage, often somewhere between 2% and 8%.</p>
+<p>That's genuinely useful protection. Underinsuring a house is how people end up short after a fire. But it compounds quietly:</p>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/inflation.png" alt="Line chart of a $380,000 dwelling limit growing over ten years at 3%, 5%, and 7% annual inflation guard" width="1200" height="672" loading="lazy"><figcaption>How a $380,000 dwelling limit grows under different inflation-guard settings. The premium grows roughly in step.</figcaption></figure>
+
+<p>At 5% a year, a $380,000 limit becomes about $619,000 in ten years. The premium follows. If your limit went up and you never noticed, that alone can explain a large share of the increase.</p>
+<p><strong>What to check:</strong> compare Coverage A on this year's and last year's declarations pages. If it rose by more than local construction costs seem to justify, ask the insurer to re-run the replacement-cost estimate with your actual square footage, finishes, and features. Errors like a finished basement that isn't finished or an extra bathroom that doesn't exist are common and fixable. Don't cut the limit below a realistic rebuild cost just to save money, though. That trade-off rarely ends well.</p>
+<p>For more worked examples of each rating factor, see the guide on <a href="https://vistacover.com/articles/why-home-insurance-premiums-rise-without-claims/">why home insurance premiums rise without claims</a>, which goes factor by factor with more examples.</p>
+<h2>2. Your neighbors' claims count too</h2>
+<p>Insurers price by <strong>territory</strong>, usually a group of ZIP codes or a smaller rating zone. Every house in a territory shares the expected cost of the claims in it. If your area had a few years of hail, wind, wildfire smoke, or burst-pipe claims, the territory factor goes up at the next rate filing, and it goes up for everyone.</p>
+<p>That's the part people find most frustrating: you didn't file a claim, but the street did. It's also why two identical houses a few miles apart can have very different premiums.</p>
+<p>You can actually see this. Insurers in most states have to file rate changes with the state insurance department, and many of those filings are public through the state's online filing system (often through a portal called SERFF Filing Access). A filing will usually say the average statewide change and, sometimes, the range of changes by territory. It's dry reading, but it's the closest thing to an official explanation of your increase.</p>
+<h2>3. The roof keeps getting older</h2>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/roof.jpg" alt="Tile Roof" width="1200" height="675" loading="lazy"><figcaption>Roofs generate more claims than any other part of a house, so insurers price their age carefully.</figcaption></figure>
+
+<p>The roof is the part of a house most likely to generate a claim, and insurers price it carefully. Two things happen as it ages.</p>
+<p>First, the <strong>rate goes up</strong> in steps. Many rating plans group roofs into bands, for example 0–9 years, 10–14, 15–19, and 20+. Crossing into a new band can add several percent to the premium even though nothing about the roof changed overnight.</p>
+<p>Second, some insurers change <strong>how roof damage is paid</strong>. Instead of full replacement cost, an older roof may be paid on a depreciated basis or on a fixed <strong>roof payment schedule</strong> that pays a shrinking percentage of the replacement cost as the roof ages. Here's what a hypothetical schedule looks like for an asphalt shingle roof:</p>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/roof.png" alt="Bar chart showing the share of roof replacement cost paid by roof age under a hypothetical payment schedule, falling from 100% at age 10 or less to 30% at age 20 and older" width="1200" height="672" loading="lazy"><figcaption>A hypothetical roof payment schedule. Real schedules vary by insurer, state, and roofing material.</figcaption></figure>
+
+<p>On an $18,000 roof replacement, that difference is real money. At age 8 the policy above pays the full $18,000 minus your deductible. At age 16 it pays 58%, or $10,440, minus the deductible. The premium may go up and the payout may go down at the same time.</p>
+<p><strong>What to check:</strong> look for an endorsement titled something like "roof surfacing payment schedule" or "actual cash value loss settlement for roofs" in your policy's endorsement list. If you replaced the roof recently and the insurer still shows the old age, send them the invoice or permit. That correction alone can lower the premium. The guide on <a href="https://vistacover.com/guides/roof-age-and-home-insurance/">how roof age changes home insurance coverage</a> walks through the schedules and the questions to ask.</p>
+<h2>4. Reinsurance and catastrophe costs</h2>
+<p>Insurance companies buy insurance too. <strong>Reinsurance</strong> protects an insurer from a single catastrophic year, like a major hurricane or a wildfire season, that could wipe out its capital. When reinsurance gets more expensive, which tends to happen after a string of costly disaster years, the insurer passes that cost through in its next rate filing.</p>
+<p>This is the most invisible layer of your premium. It shows up mostly in states exposed to hurricanes, severe convective storms (hail and tornadoes), and wildfire, and it's a big part of why premiums in some states have climbed far faster than inflation. There's nothing an individual homeowner can do about it directly, but it's useful to know it exists so you don't spend effort chasing the wrong cause.</p>
+<h2>5. Your credit-based insurance score</h2>
+<p>In most states, insurers may use a <strong>credit-based insurance score</strong> as one rating factor. It's not the same as a lending credit score, but it's built from the same credit report: payment history, debt levels, length of credit history, and recent applications. Insurers use it because, statistically, it correlates with claim frequency.</p>
+<p>The practical effect: if your credit dipped, your premium can rise even with a spotless claims record. If your credit improved, you may be entitled to a lower rate, but many insurers only re-check at renewal or on request.</p>
+<p>A few states, including California, Maryland, and Massachusetts, ban or sharply limit the use of credit in homeowners pricing. Elsewhere, you can usually ask the insurer to re-run your insurance score, and federal law requires an adverse action notice if credit information was used to charge you more.</p>
+<h2>6. Discounts that quietly expire</h2>
+<p>Discounts often have expiration dates nobody mentions. Common ones:</p>
+<ul>
+<li><strong>New-home or new-purchase discounts</strong> that step down each year until they disappear.</li>
+<li><strong>Claims-free tiers</strong> that reset after any claim, including a small one you may have forgotten, like a glass or water claim several years ago.</li>
+<li><strong>Multi-policy (bundle) discounts</strong> that drop if you moved the car policy elsewhere.</li>
+<li><strong>Protective device discounts</strong> that require proof the alarm is still monitored.</li>
+<li><strong>Paperless, pay-in-full, and autopay discounts</strong> that disappear when billing details change.</li>
+</ul>
+<p>Compare the discount section line by line against last year's. A discount that went from 12% to 10% is worth roughly 2% of the premium on its own.</p>
+<h2>7. Coverage changes you didn't notice</h2>
+<p>Sometimes the premium went up because the policy changed. Look for:</p>
+<ul>
+<li>A new <strong>water backup</strong> or <strong>service line</strong> endorsement added automatically.</li>
+<li>A higher <strong>personal property</strong> limit that follows a higher dwelling limit, since Coverage C is often set as a percentage of Coverage A.</li>
+<li>A change from a flat wind/hail deductible to a <strong>percentage deductible</strong>. A 2% deductible on a $400,000 dwelling limit is $8,000. The premium might actually go <em>down</em> in that case, but your out-of-pocket risk went up sharply.</li>
+</ul>
+<h2>Diagnosing your own increase in 20 minutes</h2>
+<p>Put last year's and this year's declarations pages side by side and fill in this table:</p>
+<table>
+<thead>
+<tr>
+<th>Line on the declarations page</th>
+<th>Last year</th>
+<th>This year</th>
+<th>Changed?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Coverage A (dwelling)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Coverage C (personal property)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>All-perils deductible</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Wind/hail or hurricane deductible</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Endorsements listed</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Discounts listed</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Total premium</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>If the coverage lines and discounts didn't change, the increase came from rate factors: the base rate, the territory, the roof band, or your insurance score. That's the moment to call the insurer (or your agent) and ask a specific question: <em>"Which rating factors changed on my policy at this renewal, and by how much?"</em> A specific question gets a far better answer than "why did my premium go up?"</p>
+<h2>The levers you actually control</h2>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/house2.jpg" alt="House Home" width="1200" height="675" loading="lazy"><figcaption>Most of the levers below take one phone call and a few documents.</figcaption></figure>
+
+<h3>Raise the deductible, but only to an amount you can actually pay</h3>
+<p>A higher deductible lowers the premium because you take on the small claims. The math that matters is the <strong>break-even period</strong>: how many claim-free years it takes for the premium savings to cover the extra out-of-pocket cost of one claim.</p>
+<figure><img src="https://jd221182-hue.github.io/media/premium-up-no-claims/deductible.png" alt="Bar chart comparing annual premium savings and break-even years for raising a deductible from $1,000 to $2,500, $5,000, and $10,000" width="1200" height="672" loading="lazy"><figcaption>Hypothetical savings from raising a $1,000 deductible. Break-even = extra out-of-pocket per claim ÷ annual savings.</figcaption></figure>
+
+<p>In this example, going from $1,000 to $2,500 saves $170 a year and costs $1,500 more per claim, so it breaks even after about 8.8 claim-free years. Going to $5,000 saves $330 a year but costs $4,000 more per claim: about 12 years to break even. The first step up is usually the better deal, and the money for the higher deductible should be sitting in savings before you make the change.</p>
+<h3>Ask about mitigation credits</h3>
+<p>Many states require or encourage discounts for features that reduce losses. Depending on where you live:</p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Typical reason for the credit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Impact-resistant (Class 4) roof shingles</td>
+<td>Fewer hail claims</td>
+</tr>
+<tr>
+<td>Roof-to-wall straps or a fortified roof certification</td>
+<td>Less wind damage</td>
+</tr>
+<tr>
+<td>Storm shutters or impact-rated windows</td>
+<td>Hurricane protection</td>
+</tr>
+<tr>
+<td>Automatic water shutoff valve or leak sensors</td>
+<td>Smaller water claims</td>
+</tr>
+<tr>
+<td>Monitored burglar and fire alarm</td>
+<td>Faster response, less theft and fire loss</td>
+</tr>
+<tr>
+<td>Updated electrical, plumbing, or heating</td>
+<td>Lower fire and water risk in older houses</td>
+</tr>
+<tr>
+<td>Defensible space or ember-resistant vents</td>
+<td>Wildfire mitigation</td>
+</tr>
+</tbody>
+</table>
+<p>Ask what documentation the insurer needs. A wind mitigation inspection report or a roofing invoice often has to be on file before the credit applies.</p>
+<h3>Correct the facts on file</h3>
+<p>Wrong square footage, the wrong roof age, a missing alarm, or a "frame" house that's actually brick all change the rate. Ask for the property details the insurer has on file and correct anything that's off.</p>
+<h3>Shop at renewal, the right way</h3>
+<p>Because each insurer weighs territory, roof age, and credit differently, the same house can be priced very differently by different companies. When you compare quotes, match the coverage exactly: the same dwelling limit, the same loss settlement (replacement cost vs. actual cash value, especially for the roof), the same deductibles, and the same endorsements. A cheaper quote that pays the roof on a depreciated basis isn't really cheaper.</p>
+<h2>What not to cut</h2>
+<p>Some savings aren't worth it:</p>
+<ul>
+<li><strong>Dropping the dwelling limit below rebuild cost.</strong> You'd save a little each year and could be short by six figures after a total loss.</li>
+<li><strong>Removing liability coverage or lowering it to the minimum.</strong> Liability is cheap to increase and protects everything you own.</li>
+<li><strong>Skipping water backup coverage</strong> if you have a finished basement. Sewer and drain backups are a common, expensive, and often excluded loss.</li>
+</ul>
+<h2>Frequently asked questions</h2>
+<p><strong>Can my insurer raise my rate just because the whole state's rates went up?</strong>
+Yes. Rate changes are generally filed and approved (or filed and used) at the state level, and they apply to every policy at renewal, regardless of individual claim history.</p>
+<p><strong>Will one small claim make it much worse?</strong>
+It can. Many insurers apply a surcharge or remove a claims-free discount for three to five years after a claim. That's one reason not to file claims barely above your deductible.</p>
+<p><strong>Is it worth hiring an independent agent?</strong>
+For many people, yes. An independent agent can quote several companies at once and often knows which insurers are friendlier to older roofs or particular neighborhoods.</p>
+<p><strong>Can I see why my rate changed?</strong>
+You can ask the insurer which factors changed, and in many states you can read the insurer's public rate filing on the state insurance department's website.</p>
+<h2>The short version</h2>
+<p>A higher premium after a quiet year usually reflects rising rebuild costs, regional losses, roof age, and catastrophe costs rather than anything you did. Compare your declarations pages, find the line that moved, and pull the lever that actually matches it: correct the facts, ask for mitigation credits, adjust the deductible to an amount you can truly afford, and shop with coverage matched line for line.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/article/why-are-my-insurance-premiums-increasing">Why are my insurance premiums increasing?</a></li>
+<li>NAIC: <a href="https://content.naic.org/article/consumer-insight-searching-homeowners-insurance-policy-tips-get-most-value">Searching for a homeowners insurance policy? Tips to get the most value</a></li>
+<li>Colorado Division of Insurance: <a href="https://doi.colorado.gov/sites/doi/files/documents/Buyers%20Guide%20Homeowners%20Insurance.pdf">Buyer's guide to homeowners insurance (PDF)</a></li>
+<li>Your state's insurance department, which publishes consumer guides and, in most states, public rate filings.</li>
+</ul>
+<p><em>All dollar figures and factors above are hypothetical and simplified for illustration. This is general information, not insurance advice. Coverage, rating rules, and discounts vary by state and by insurer; your policy documents control.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/house-home-LJ515CPAKI">House Home</a> by Binyamin Mellish (CC0); photo: <a href="https://stocksnap.io/photo/tile-roof-JKPSQFD1JX">Tile Roof</a> by Bob Richards (CC0); photo: <a href="https://stocksnap.io/photo/house-home-L9VZ6SOGBB">House Home</a> by Binyamin Mellish (CC0). Charts by the author.</small></p>
