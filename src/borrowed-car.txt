@@ -1,0 +1,171 @@
+<p>You borrow a friend's car to run an errand, and you rear-end someone at a stoplight. Whose insurance pays? The short answer that holds in most of the U.S.: <strong>insurance generally follows the car first, and the driver second.</strong> The car owner's policy is usually primary, and your own policy (if you have one) can kick in as secondary coverage when the owner's limits run out.</p>
+<p>The long answer has several exceptions that matter a lot: excluded drivers, regular use, business use, and what happens when the damage is bigger than the owner's limits. This guide walks through each one with a worked example of who pays what.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/borrowed-car-hero.jpg" alt="Keys Padlocks" width="1200" height="675" loading="lazy"><figcaption>When you borrow a car, you're usually borrowing its insurance too, but only up to its limits and only if you're allowed to drive it.</figcaption></figure>
+
+<h2>The basic rule: car first, driver second</h2>
+<p>Most personal auto policies cover the listed cars when driven by the named insured, household members, and <strong>anyone else using the car with permission</strong> (often called permissive use). So when you borrow a friend's car with their OK:</p>
+<ol>
+<li><strong>The owner's policy is primary.</strong> Their liability coverage pays for damage and injuries you cause to others, up to their limits. Their collision coverage (if they have it) pays for damage to their own car, minus their deductible.</li>
+<li><strong>Your policy is secondary (excess).</strong> If you own a car and have insurance, your liability coverage may pay for amounts above the owner's liability limits. Your collision coverage usually does <em>not</em> pay for the borrowed car itself, although some policies extend it.</li>
+</ol>
+<figure><img src="https://jd221182-hue.github.io/media/f/borrowed-car-layers.png" alt="Layered bar chart showing a crash's costs paid first by the car owner's policy, then by the borrower's own policy, and any remainder owed by the driver personally" width="1200" height="672" loading="lazy"><figcaption>How the layers stack: the owner's policy pays first, the borrower's policy may pay the excess, and anything left is personal.</figcaption></figure>
+
+<h2>A worked example</h2>
+<p>You borrow your friend's car and cause a crash. The other driver's injuries cost $65,000, and their car needs $18,000 in repairs. Your friend's car needs $7,500 in repairs.</p>
+<p><strong>Friend's policy:</strong> liability 25/50/25, collision with a $1,000 deductible.
+<strong>Your own policy:</strong> liability 100/300/100.</p>
+<table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Amount</th>
+<th>Friend's policy pays</th>
+<th>Your policy pays (excess)</th>
+<th>Unpaid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Other driver's injuries</td>
+<td>$65,000</td>
+<td>$25,000</td>
+<td>$40,000</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Other driver's car</td>
+<td>$18,000</td>
+<td>$18,000</td>
+<td>$0</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Friend's car repair</td>
+<td>$7,500</td>
+<td>$6,500</td>
+<td>Usually $0</td>
+<td>$1,000 deductible</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$90,500</strong></td>
+<td><strong>$49,500</strong></td>
+<td><strong>$40,000</strong></td>
+<td><strong>$1,000</strong></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/borrowed-car-example.png" alt="Stacked horizontal bars showing how each cost in a hypothetical crash is split between the owner's policy, the borrower's policy, and the deductible" width="1200" height="672" loading="lazy"><figcaption>The same crash, split by who pays. Without the borrower's own policy, the $40,000 excess would fall on the driver personally.</figcaption></figure>
+
+<p>Two things to notice:</p>
+<ul>
+<li><strong>The friend's deductible.</strong> Someone has to pay it. Legally, the owner's policy treats it as the owner's deductible. Socially, most people expect the borrower to cover it. Settle that conversation before you take the keys.</li>
+<li><strong>The friend's claim history.</strong> The claim goes on the owner's record and can raise their premium at renewal, even though you were driving. That's a real cost to them.</li>
+</ul>
+<h2>If you don't have your own insurance</h2>
+<p>If you don't own a car and don't have a policy, there's no secondary layer. Anything beyond the owner's limits can be pursued against you personally. In the example above, that's $40,000.</p>
+<p>If you borrow cars or rent regularly and don't own one, a <strong>non-owner car insurance policy</strong> provides liability coverage that follows you as a driver. It's usually much cheaper than a standard policy because it doesn't cover a car.</p>
+<h2>The exceptions that change everything</h2>
+<h3>Excluded drivers</h3>
+<p>Some policies list specific people as <strong>excluded drivers</strong>, often a household member with a poor driving record. If an excluded driver crashes the car, the owner's policy may pay nothing at all, including liability. Always ask whether you're excluded before you borrow a car from someone in your own household or a family member's household.</p>
+<h3>Regular use, not occasional use</h3>
+<p>Permissive use generally covers occasional borrowing. If you drive someone's car <strong>regularly</strong>, for example every weekday commute, insurers may expect you to be listed on the policy. Some policies limit coverage for regular users who aren't listed, and an insurer can dispute a claim if the arrangement wasn't disclosed.</p>
+<h3>Household members</h3>
+<p>People who live in the same household usually need to be listed on the policy or formally excluded. A roommate or adult child who drives your car regularly and isn't listed can cause a coverage problem.</p>
+<h3>Business use and delivery apps</h3>
+<p>Personal auto policies typically exclude driving for pay: delivering food, carrying passengers for a rideshare app, or similar. Borrowing a friend's car to do a few delivery shifts can leave both of you with no coverage. Rideshare and delivery platforms carry their own coverage during certain periods, but the gaps are real.</p>
+<h3>No permission</h3>
+<p>If you take a car without permission, the owner's policy may not cover you, and the situation can become a legal matter beyond insurance.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/borrowed-car-checklist.png" alt="Matrix chart showing whether common borrowing scenarios are usually covered, depend on details, or are usually not covered" width="1200" height="672" loading="lazy"><figcaption>How common borrowing situations usually turn out. Policy wording decides each case.</figcaption></figure>
+
+<h2>Who pays when someone else hits you in a borrowed car?</h2>
+<p>If the other driver is at fault, their liability insurance should pay for the damage to your friend's car and for your injuries. If they're uninsured or underinsured, the friend's <strong>uninsured motorist</strong> coverage usually applies first to the car and occupants, and your own UM/UIM may apply after that.</p>
+<h2>Medical bills for you</h2>
+<p>Your own injuries in a borrowed car may be covered by the car owner's medical payments or personal injury protection (PIP), your own policy's medical payments or PIP, your health insurance, or the at-fault driver's liability coverage, depending on your state and who caused the crash. No-fault states have specific rules about which PIP pays first.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/borrowed-car-inline.jpg" alt="Drive Road" width="1200" height="675" loading="lazy"><figcaption>Before you take the keys, ask two quick questions: am I excluded, and what's the deductible?</figcaption></figure>
+
+<h2>A quick checklist before you borrow a car</h2>
+<ul>
+<li>[ ] Do I have the owner's permission? (Text it so there's a record.)</li>
+<li>[ ] Am I an excluded driver on their policy?</li>
+<li>[ ] Does their policy have collision, and what's the deductible?</li>
+<li>[ ] What are their liability limits?</li>
+<li>[ ] Do I have my own policy, or should I get a non-owner policy?</li>
+<li>[ ] Is this for personal use only, not delivery or rideshare?</li>
+<li>[ ] Who will pay the deductible if something happens?</li>
+</ul>
+<h2>And if you're the one lending the car</h2>
+<ul>
+<li>Check that your liability limits are high enough to protect you. You can be named in a lawsuit as the owner.</li>
+<li>Don't lend to someone excluded on your policy or unlicensed.</li>
+<li>Make sure regular drivers in your household are listed.</li>
+<li>Know that a claim will typically go on your policy and may affect your premium.</li>
+</ul>
+<p>For more on how liability limits work and what "full coverage" usually leaves out, see the companion post on <a href="https://insurancefinance4.wordpress.com/2026/11/12/full-coverage-car-insurance-isnt-a-real-thing-heres-what-people-mean-by-it/">what people mean by full coverage</a>.</p>
+<h2>The other direction: lending your car</h2>
+<p>If you're the owner, lending your car is lending your insurance policy, and your claim history. A few practical rules protect you:</p>
+<ul>
+<li><strong>Lend only to licensed drivers you trust</strong>, and never to someone excluded on your policy.</li>
+<li><strong>Know your limits.</strong> As the owner, you can be named in a lawsuit, and in some states owners can be held liable for damage caused by people driving their cars with permission. Higher liability limits and an umbrella policy protect you.</li>
+<li><strong>Write down the arrangement</strong> for longer loans: dates, who's driving, and who pays the deductible if there's a claim.</li>
+<li><strong>Tell your insurer about regular drivers.</strong> A roommate, partner, or adult child who drives your car regularly should usually be listed.</li>
+</ul>
+<h2>How a claim on a borrowed car affects each person</h2>
+<table>
+<thead>
+<tr>
+<th>Effect</th>
+<th>Car owner</th>
+<th>Borrower</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Claim recorded on policy</td>
+<td>Usually yes</td>
+<td>Only if their own policy pays excess</td>
+</tr>
+<tr>
+<td>Premium increase at renewal</td>
+<td>Possible, especially for an at-fault crash</td>
+<td>Possible, through their driving record</td>
+</tr>
+<tr>
+<td>Deductible</td>
+<td>Owner's policy applies it</td>
+<td>Often expected to reimburse the owner</td>
+</tr>
+<tr>
+<td>Liability above owner's limits</td>
+<td>Owner may be pursued</td>
+<td>Borrower's policy, then borrower personally</td>
+</tr>
+</tbody>
+</table>
+<h2>Renting vs. borrowing</h2>
+<p>Rental cars work differently. The rental company's own insurance usually provides only minimal liability, and your personal policy typically extends to rental cars in the U.S. Credit cards may offer secondary coverage for damage to the rental car. Before declining the rental counter's damage waiver, confirm that your own policy extends collision and comprehensive to rentals, and check the card's terms.</p>
+<h2>Car-sharing apps</h2>
+<p>Peer-to-peer car-sharing platforms, where you rent a stranger's car through an app, usually provide their own insurance plans that replace the owner's personal policy during the trip. Read the plan options carefully: the cheapest tiers can carry high deductibles or state-minimum liability. Your personal auto policy may or may not apply as excess, depending on its wording.</p>
+<h2>What to do right after a crash in a borrowed car</h2>
+<ol>
+<li>Make sure everyone is safe and call the police if anyone is hurt or the damage is significant.</li>
+<li>Exchange information with the other driver, including the <strong>owner's</strong> insurance details from the glovebox.</li>
+<li>Take photos of all vehicles, the scene, and any injuries.</li>
+<li>Call the car owner immediately; they'll usually need to report the claim to their insurer.</li>
+<li>Notify your own insurer too, especially if damages may exceed the owner's limits.</li>
+<li>Don't admit fault at the scene; describe the facts.</li>
+</ol>
+<h2>Frequently asked questions</h2>
+<p><strong>Does insurance follow the car or the driver?</strong>
+Generally the car first, with the driver's own policy as secondary coverage. Some states and policies vary.</p>
+<p><strong>Will my rates go up if I crash a friend's car?</strong>
+The claim usually goes on the owner's policy. Your own insurer may also learn of an at-fault accident through your driving record, which can affect your rate.</p>
+<p><strong>What if I borrow a car from a family member who lives elsewhere?</strong>
+The usual permissive-use rules apply. Household membership matters more than family relationship.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-aut-pp-consumer-auto.pdf">A consumer's guide to auto insurance (PDF)</a></li>
+<li>Insurance Information Institute: <a href="https://www.iii.org/article/does-my-auto-insurance-cover-someone-else-driving-my-car">Does my auto insurance cover someone else driving my car?</a></li>
+<li>Your state insurance department's auto insurance guide</li>
+</ul>
+<p><em>All figures are hypothetical. General information only, not insurance or legal advice. Coverage depends on the policy and state law.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/keys-padlocks-D5D3B74933">Keys Padlocks</a> by Leeroy (CC0); photo: <a href="https://stocksnap.io/photo/drive-road-FQRO5OYESR">Drive Road</a> by Oliur Rahman (CC0). Charts by the author.</small></p>

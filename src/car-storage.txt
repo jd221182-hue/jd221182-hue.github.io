@@ -1,0 +1,174 @@
+<p>If a car is going to sit for months, whether during a deployment, a long work assignment overseas, a winter in the garage, or a stretch of working from home, paying for full coverage can feel like paying for nothing. Many insurers let you cut coverage down to <strong>comprehensive only</strong> while the car is parked. Done right, it can cut the premium substantially without leaving the car exposed to theft, fire, or a falling tree.</p>
+<p>Done wrong, it can trigger a registration suspension, wipe out a continuous-coverage discount, or leave you driving with no liability coverage at all. This guide shows the savings math, the state rules that trip people up, and a step-by-step process for storing and un-storing the car safely.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/car-storage-hero.jpg" alt="Parkinggarage Cars" width="1200" height="675" loading="lazy"><figcaption>A stored car still faces theft, fire, flood, hail, and rodents. Comprehensive-only coverage keeps those risks covered while it sits.</figcaption></figure>
+
+<h2>What comprehensive-only covers</h2>
+<p>Comprehensive covers damage that doesn't come from driving:</p>
+<ul>
+<li>Theft and vandalism</li>
+<li>Fire</li>
+<li>Falling objects, such as a tree limb or a garage shelf</li>
+<li>Hail, wind, and flood</li>
+<li>Animal damage, such as rodents chewing wiring, depending on the policy</li>
+</ul>
+<p>What it doesn't cover: anything that happens while someone drives the car. With liability and collision removed, the car <strong>must not be driven at all</strong>, not even around the block, not even to move it for street cleaning.</p>
+<h2>How much it can save</h2>
+<p>Liability and collision usually make up most of a car insurance premium. Here's a hypothetical policy for a mid-size sedan:</p>
+<table>
+<thead>
+<tr>
+<th>Coverage</th>
+<th>Monthly premium (full)</th>
+<th>Monthly premium (stored)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bodily injury and property damage liability</td>
+<td>$68</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Uninsured/underinsured motorist</td>
+<td>$11</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Medical payments / PIP</td>
+<td>$9</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Collision</td>
+<td>$47</td>
+<td>$0</td>
+</tr>
+<tr>
+<td>Comprehensive</td>
+<td>$16</td>
+<td>$16</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$151</strong></td>
+<td><strong>$16</strong></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/car-storage-monthly.png" alt="Stacked bar chart comparing a full coverage monthly premium with a comprehensive-only monthly premium broken down by coverage type" width="1200" height="672" loading="lazy"><figcaption>What's left when you strip a policy down to comprehensive only. Hypothetical premiums.</figcaption></figure>
+
+<p>Over a six-month deployment, that's about <strong>$810</strong> saved in this example. Over a year, about $1,620. The actual numbers depend heavily on the car, your location, and the insurer, but the share that disappears is usually large.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/car-storage-savings.png" alt="Line chart of cumulative savings from comprehensive-only storage coverage compared with full coverage over 12 months" width="1200" height="672" loading="lazy"><figcaption>Cumulative savings from storing the car with comprehensive only, compared with keeping full coverage. Hypothetical.</figcaption></figure>
+
+<h2>Why not just cancel the policy?</h2>
+<p>Three reasons to keep comprehensive rather than canceling outright:</p>
+<ol>
+<li><strong>Theft and weather don't stop when you park.</strong> A stored car can still be stolen, flooded, burned, or crushed.</li>
+<li><strong>A loan or lease usually requires it.</strong> Lenders typically require physical damage coverage the entire time they hold the title.</li>
+<li><strong>Avoiding a lapse.</strong> Some insurers treat a canceled policy as a gap in coverage, which can mean higher rates when you return. Keeping a policy in force, even a reduced one, may preserve your continuous-coverage history. Ask your insurer how they treat it.</li>
+</ol>
+<figure><img src="https://jd221182-hue.github.io/media/f/car-storage-lapse.png" alt="Bar chart comparing the hypothetical cost of canceling a policy and paying a higher rate afterward versus keeping comprehensive-only coverage during storage" width="1200" height="672" loading="lazy"><figcaption>Canceling can look cheaper during storage, but a lapse surcharge afterward can erase the savings. Hypothetical figures.</figcaption></figure>
+
+<p>In this hypothetical, canceling saves an extra $96 during six months of storage, but a 10% surcharge for a coverage gap on the following year's premium costs about $180. Not every insurer applies a lapse surcharge, and some states have specific protections for deployed service members, so ask.</p>
+<h2>The registration catch</h2>
+<p>This is where people get into trouble. Many states require liability insurance on <strong>any registered vehicle</strong>, whether or not it's driven. If you drop liability, the state may:</p>
+<ul>
+<li>Send a notice and require proof of insurance,</li>
+<li>Suspend the registration, or</li>
+<li>Charge a reinstatement fee.</li>
+</ul>
+<p>Some states have a formal process for vehicles that won't be driven: a <strong>non-use affidavit</strong>, a <strong>storage</strong> or <strong>planned non-operation</strong> status, or surrendering the plates. Others don't, and expect liability on any registered car.</p>
+<p><strong>Before dropping liability, check your state's motor vehicle agency rules.</strong> Searching the agency's site for "non-operation," "storage," or "plate surrender" usually finds the right page.</p>
+<h2>Special rules for military deployment</h2>
+<p>Active-duty service members often have extra options. Many insurers offer reduced "storage" rates during deployment, and federal and state rules may provide protections. The Servicemembers Civil Relief Act, for instance, includes protections related to insurance and leases for eligible members. Ask your insurer specifically about deployment storage, and check with your installation's legal assistance office about protections that may apply.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/car-storage-inline.jpg" alt="Wrench Sockets" width="1200" height="675" loading="lazy"><figcaption>A few minutes of prep before storage protects both the car and your coverage.</figcaption></figure>
+
+<h2>Before you store the car: a checklist</h2>
+<ul>
+<li>[ ] Call the insurer and confirm exactly which coverage will remain and the effective date.</li>
+<li>[ ] Ask whether the change affects discounts (multi-car, bundling) or your continuous-coverage history.</li>
+<li>[ ] Check your state's rules for registered vehicles without liability coverage; file any non-use paperwork or surrender plates if needed.</li>
+<li>[ ] Notify your lender or leasing company if there's a loan or lease.</li>
+<li>[ ] Take dated photos of the car's condition, inside and out.</li>
+<li>[ ] Store keys somewhere secure, and make sure nobody else in the household will drive the car.</li>
+<li>[ ] Set a calendar reminder to restore full coverage <strong>before</strong> you drive again.</li>
+</ul>
+<h2>Prep the car itself</h2>
+<p>Insurance aside, a stored car needs some care:</p>
+<ul>
+<li><strong>Fill the tank</strong> and add a fuel stabilizer for storage longer than a month or two.</li>
+<li><strong>Use a battery maintainer</strong> or disconnect the battery.</li>
+<li><strong>Inflate the tires</strong> to the recommended pressure, or slightly higher, to reduce flat spots.</li>
+<li><strong>Clean the interior</strong> so food crumbs don't attract rodents. Some owners use deterrents around the car.</li>
+<li><strong>Cover it</strong> if it's stored outdoors, with a breathable cover.</li>
+</ul>
+<h2>When you take it out of storage</h2>
+<ol>
+<li><strong>Restore liability and collision first</strong> (and any other coverages you removed).</li>
+<li><strong>Wait for written confirmation</strong> that the new coverage is effective.</li>
+<li><strong>Restore the registration</strong> if you surrendered plates or filed non-use paperwork.</li>
+<li><strong>Then drive.</strong></li>
+</ol>
+<p>The order matters. Driving a car with comprehensive-only coverage means no liability protection if you injure someone, and in most states it's illegal.</p>
+<h2>How the numbers change by situation</h2>
+<p>Comprehensive-only coverage makes the most sense when the car will sit for long enough to justify the paperwork. A rough guide, using the hypothetical $135 a month saved above:</p>
+<table>
+<thead>
+<tr>
+<th>Storage length</th>
+<th>Approximate savings</th>
+<th>Worth the hassle?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Under 1 month</td>
+<td>Under $135</td>
+<td>Usually not; the risk of forgetting to restore coverage outweighs the savings</td>
+</tr>
+<tr>
+<td>1 to 3 months</td>
+<td>$135 to $405</td>
+<td>Maybe, if your state doesn't require liability on registered cars</td>
+</tr>
+<tr>
+<td>3 to 12 months</td>
+<td>$405 to $1,620</td>
+<td>Usually yes</td>
+</tr>
+<tr>
+<td>Over 12 months</td>
+<td>$1,620+</td>
+<td>Yes, and consider whether to keep the car at all</td>
+</tr>
+</tbody>
+</table>
+<p>Some insurers have a minimum period for storage status or charge a small fee for policy changes, so ask before you switch.</p>
+<h2>Who should be careful</h2>
+<ul>
+<li><strong>Households where others might drive the car.</strong> If a spouse, roommate, or teen might take the car "just once," keep liability on it.</li>
+<li><strong>Cars parked on public streets.</strong> Some cities require registration and insurance for any car parked on the street; a car with surrendered plates may be ticketed or towed.</li>
+<li><strong>People who might need the car on short notice.</strong> Restoring coverage is usually quick, but if you might need the car in an emergency at night, plan for how you'd reinstate coverage first.</li>
+</ul>
+<h2>Seasonal vehicles</h2>
+<p>Convertibles, classic cars, motorcycles, and RVs are often stored every winter. Many specialty and motorcycle policies have <strong>lay-up</strong> or seasonal provisions built in, which automatically reduce coverage during set months. That's often simpler than calling to change coverage twice a year. Collector car policies, if you have one, usually have their own rules about storage and limited use.</p>
+<h2>A sample request to your insurer</h2>
+<blockquote>
+<p>I'll be storing my [year, make, model] at [address] from [date] to approximately [date] and won't drive it during that time. I'd like to remove liability, collision, uninsured motorist, and medical payments coverage and keep comprehensive only. Please confirm the new premium, the effective date, whether this affects any discounts or my continuous-coverage history, and how to restore full coverage when I'm ready to drive again.</p>
+</blockquote>
+<p>Keep the written confirmation with your storage records, and set a reminder for the date you plan to reinstate coverage.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Can I drive it just once to keep the battery charged?</strong>
+Not with comprehensive-only coverage. Use a battery maintainer, or restore full coverage for the day you drive, if your insurer allows short changes.</p>
+<p><strong>Does storage coverage work on a motorcycle or RV?</strong>
+Many insurers offer seasonal or "lay-up" coverage for motorcycles, RVs, and boats, often built into the policy. Check the policy for lay-up periods.</p>
+<p><strong>Will my insurer require the car to be in a garage?</strong>
+Not always, but where it's stored can affect the comprehensive premium. Be accurate about the storage location.</p>
+<p>For broader context on what the different coverages do, including liability limits and uninsured motorist coverage, see the companion post on <a href="https://insurancefinance4.wordpress.com/2026/11/12/full-coverage-car-insurance-isnt-a-real-thing-heres-what-people-mean-by-it/">what people mean by "full coverage"</a>.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-aut-pp-consumer-auto.pdf">A consumer's guide to auto insurance (PDF)</a></li>
+<li>U.S. Department of Justice: <a href="https://www.justice.gov/servicemembers/servicemembers-civil-relief-act-scra">Servicemembers Civil Relief Act</a></li>
+<li>USA.gov: <a href="https://www.usa.gov/state-motor-vehicle-services">Motor vehicle services by state</a></li>
+</ul>
+<p><em>All premiums are hypothetical. General information only, not insurance or legal advice. Rules vary by state and insurer.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/parkinggarage-cars-62E584D784">Parkinggarage Cars</a> by Ryan McGuire (CC0); photo: <a href="https://stocksnap.io/photo/wrench-sockets-M07SV6AMBD">Wrench Sockets</a> by Jaroslaw%20Puszczy%u0144ski (CC0). Charts by the author.</small></p>

@@ -1,0 +1,251 @@
+<p>The moment you drive a new car off the lot, it's worth less than you paid. If you financed most of the price, there's a stretch, sometimes years long, where you owe more on the loan than the car is worth. If the car is totaled or stolen during that stretch, your insurer pays the car's value, not your loan balance. The difference is yours to pay, on a car you no longer have.</p>
+<p>Gap insurance covers that difference. This guide shows, with a full loan-versus-value model, how big the gap gets, how long it lasts, what gap coverage costs from different sellers, and when it's worth buying.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/gap-insurance-hero.jpg" alt="Guy Man" width="1200" height="675" loading="lazy"><figcaption>Most of a new car's depreciation happens in its first two to three years, which is exactly when a loan balance is highest.</figcaption></figure>
+
+<h2>How the gap opens up</h2>
+<p>Two lines move at different speeds:</p>
+<ul>
+<li><strong>The car's value</strong> falls fastest in the first year or two. Many new cars lose roughly 15% to 25% of their value in the first year and continue losing value more slowly after that.</li>
+<li><strong>The loan balance</strong> falls slowly at first, because early payments are mostly interest, especially on long loans.</li>
+</ul>
+<p>Add a small down payment, taxes and fees rolled into the loan, or negative equity carried over from a trade-in, and the loan can start well above the car's value.</p>
+<h2>A worked example</h2>
+<p>A $36,000 car, financed for 72 months at 7.5% APR, with $2,000 down and $2,800 of taxes and fees rolled into the loan. The amount financed is $36,800. The monthly payment is about $636.</p>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Loan balance</th>
+<th>Car value (estimate)</th>
+<th>Gap</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 (drive off)</td>
+<td>$36,800</td>
+<td>$31,000</td>
+<td>$5,800</td>
+</tr>
+<tr>
+<td>12</td>
+<td>$31,800</td>
+<td>$28,000</td>
+<td>$3,800</td>
+</tr>
+<tr>
+<td>24</td>
+<td>$26,300</td>
+<td>$24,400</td>
+<td>$1,900</td>
+</tr>
+<tr>
+<td>36</td>
+<td>$20,500</td>
+<td>$21,200</td>
+<td>None</td>
+</tr>
+<tr>
+<td>48</td>
+<td>$14,100</td>
+<td>$18,400</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/gap-insurance-gap.png" alt="Line chart of a 72-month loan balance versus estimated car value, with the shaded gap between them in the first three years" width="1200" height="672" loading="lazy"><figcaption>Loan balance vs. car value. The shaded area is what you'd owe out of pocket if the car were totaled. Hypothetical.</figcaption></figure>
+
+<p>In this example, the gap is largest the day you buy the car and closes around month 34. Every scenario is different: a bigger down payment closes it sooner, a longer loan or a trade-in with negative equity keeps it open longer.</p>
+<h2>What happens without gap coverage</h2>
+<p>Say the car is totaled at month 12:</p>
+<table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Car's actual cash value</td>
+<td>$28,000</td>
+</tr>
+<tr>
+<td>Less collision deductible</td>
+<td>($1,000)</td>
+</tr>
+<tr>
+<td>Insurance payment to lender</td>
+<td>$27,000</td>
+</tr>
+<tr>
+<td>Loan balance</td>
+<td>$31,800</td>
+</tr>
+<tr>
+<td><strong>You still owe</strong></td>
+<td><strong>$4,800</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Without gap coverage, you'd owe $4,800 on a car that's gone, and you'd need a down payment for the next car on top of that.</p>
+<h2>What gap pays (and doesn't)</h2>
+<p>Gap coverage pays the difference between the car's actual cash value and the loan or lease balance when the car is a total loss or stolen and not recovered. Depending on the product, it may also cover the deductible.</p>
+<p>It typically <strong>doesn't</strong> cover:</p>
+<ul>
+<li>Missed or late payments, and late fees</li>
+<li>Extended warranties, service contracts, or other add-ons rolled into the loan (some products exclude these from the payoff)</li>
+<li>Negative equity above a cap (many products limit coverage to a percentage of the car's value, for example 125% loan-to-value)</li>
+<li>Repairs, rental cars, or anything when the car isn't a total loss</li>
+</ul>
+<p>That loan-to-value cap matters most for people who rolled a lot of negative equity into the loan, the exact people who need gap most. Check the cap before you buy.</p>
+<h2>Where to buy it, and what it costs</h2>
+<table>
+<thead>
+<tr>
+<th>Seller</th>
+<th>Typical pricing structure</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Your auto insurer</td>
+<td>Small addition to the premium, often a few dollars a month</td>
+<td>Usually the cheapest; may need to be added within a set time after purchase; may require collision and comprehensive</td>
+</tr>
+<tr>
+<td>Your bank or credit union</td>
+<td>One-time fee, often a few hundred dollars</td>
+<td>Often priced below dealer products</td>
+</tr>
+<tr>
+<td>Car dealership (finance office)</td>
+<td>One-time fee rolled into the loan, often several hundred dollars or more</td>
+<td>Convenient, but you pay interest on it if financed; prices are frequently negotiable</td>
+</tr>
+<tr>
+<td>Lease</td>
+<td>Often already included</td>
+<td>Check the lease agreement before buying separately</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/gap-insurance-cost.png" alt="Bar chart comparing the hypothetical total cost of gap coverage over the life of a loan from an insurer, a credit union, and a dealer, including interest when financed" width="1200" height="672" loading="lazy"><figcaption>Same protection, very different totals. A dealer product rolled into a loan also accrues interest. Hypothetical prices.</figcaption></figure>
+
+<p>Always ask: if you pay off the loan early or sell the car, is the unused portion of a one-time gap fee refundable? Many dealer and lender products offer a prorated refund, but you usually have to request it.</p>
+<h2>When gap coverage is worth it</h2>
+<p>It's usually worth considering if:</p>
+<ul>
+<li>You put down less than about 20%.</li>
+<li>Your loan term is 60 months or longer.</li>
+<li>You rolled taxes, fees, add-ons, or negative equity into the loan.</li>
+<li>The car is a model that depreciates quickly.</li>
+<li>You couldn't comfortably pay a few thousand dollars out of pocket after a total loss.</li>
+</ul>
+<p>It's usually not needed if:</p>
+<ul>
+<li>You put down 20% or more on a shorter loan.</li>
+<li>You're paying cash.</li>
+<li>Your loan balance is already below the car's value (check by comparing your payoff amount with the car's current market value).</li>
+</ul>
+<h2>When to cancel it</h2>
+<p>Once your loan balance falls below the car's value, gap coverage has nothing left to pay. If you bought it from your insurer, you can remove it at that point and save the premium. If you paid a one-time fee, ask whether a refund applies if you pay off the loan early.</p>
+<p>Check once a year: compare your loan payoff amount with your car's current private-party value.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/gap-insurance-timeline.png" alt="Bar chart of the gap in dollars each six months over a 72-month loan, showing it close around month 34" width="1200" height="672" loading="lazy"><figcaption>The gap in six-month steps. Once it reaches zero, gap coverage has nothing left to pay. Hypothetical.</figcaption></figure>
+
+<figure><img src="https://jd221182-hue.github.io/media/f/gap-insurance-inline.jpg" alt="Parked Car" width="1200" height="675" loading="lazy"><figcaption>Compare your payoff letter with the car's current market value once a year.</figcaption></figure>
+
+<h2>How to reduce the gap in the first place</h2>
+<ul>
+<li><strong>Put more down.</strong> Every dollar of down payment is a dollar less of gap.</li>
+<li><strong>Pay taxes and fees up front</strong> rather than rolling them into the loan.</li>
+<li><strong>Choose a shorter loan.</strong> Payments are higher, but the balance falls faster.</li>
+<li><strong>Avoid rolling negative equity</strong> from a trade-in into a new loan if you can.</li>
+<li><strong>Skip add-ons</strong> that inflate the balance, or pay for them separately.</li>
+</ul>
+<p>The guide on <a href="https://vistacover.com/guides/gap-insurance-and-negative-equity/">gap insurance and negative equity</a> goes deeper into trade-ins, leases, and how loan-to-value caps work.</p>
+<h2>Leases vs. loans</h2>
+<p>Leases deserve a separate look, because the gap problem is built into how they work. A lease payment covers the car's expected depreciation plus a finance charge, so the payoff amount early in a lease is often well above the car's market value. That's why many leases <strong>include gap protection</strong> in the contract, sometimes called a gap waiver.</p>
+<p>Before you buy gap coverage on a leased car:</p>
+<ol>
+<li>Read the lease agreement for "gap," "gap waiver," or "total loss" provisions.</li>
+<li>Ask the leasing company whether the waiver covers the full payoff, or excludes items like past-due payments, excess mileage, or wear-and-tear charges.</li>
+<li>Only buy separate coverage if the lease doesn't include it.</li>
+</ol>
+<h2>Negative equity: the scenario where gap matters most</h2>
+<p>Rolling an old loan into a new one is common, and it's where the gap gets dangerous. Hypothetically:</p>
+<table>
+<thead>
+<tr>
+<th>Line</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New car price</td>
+<td>$36,000</td>
+</tr>
+<tr>
+<td>Taxes and fees</td>
+<td>$2,800</td>
+</tr>
+<tr>
+<td>Negative equity rolled in from trade-in</td>
+<td>$5,500</td>
+</tr>
+<tr>
+<td>Down payment</td>
+<td>($2,000)</td>
+</tr>
+<tr>
+<td><strong>Amount financed</strong></td>
+<td><strong>$42,300</strong></td>
+</tr>
+<tr>
+<td>Car value on drive-off</td>
+<td>$31,000</td>
+</tr>
+<tr>
+<td><strong>Day-one gap</strong></td>
+<td><strong>$11,300</strong></td>
+</tr>
+<tr>
+<td>Loan-to-value ratio</td>
+<td>136%</td>
+</tr>
+</tbody>
+</table>
+<p>If the gap product caps coverage at 125% loan-to-value, it pays only up to $38,750 (125% of $31,000) on day one. The remaining $3,550 would still be yours. This is why it's important to check the cap before buying gap on a loan with rolled-in negative equity.</p>
+<h2>What to ask before you sign</h2>
+<ul>
+<li>Is this gap coverage from an insurer, a lender, or the dealer?</li>
+<li>What's the total cost, and is it being added to the loan?</li>
+<li>Does it cover my insurance deductible?</li>
+<li>Is there a maximum loan-to-value or dollar cap?</li>
+<li>What's excluded: add-ons, missed payments, late fees?</li>
+<li>Is it refundable if I pay off the loan early, sell, or refinance? How do I request the refund?</li>
+<li>Do I need to keep collision and comprehensive for it to pay? (Almost always yes.)</li>
+</ul>
+<h2>A quick way to check whether you still need it</h2>
+<p>Once a year:</p>
+<ol>
+<li>Get your <strong>loan payoff amount</strong> from your lender's website or statement.</li>
+<li>Check your car's <strong>current market value</strong> using two pricing guides and local listings for the same model and mileage.</li>
+<li>If the payoff is below the value, minus your deductible, you no longer have a gap. Remove insurer-provided gap coverage, or note that a one-time product has done its job.</li>
+</ol>
+<h2>Frequently asked questions</h2>
+<p><strong>Does gap insurance cover my deductible?</strong>
+Some products do, some don't. Check the contract.</p>
+<p><strong>Is gap insurance required?</strong>
+It's not required by state law. Some leases include it, and some lenders require it as a condition of financing.</p>
+<p><strong>What if I refinance?</strong>
+Gap coverage tied to the original loan often ends when that loan is paid off by the refinance. Ask whether you need new coverage on the new loan, and request a refund on the old product.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>Consumer Financial Protection Bureau: <a href="https://www.consumerfinance.gov/ask-cfpb/what-is-guaranteed-auto-protection-gap-insurance-en-2125/">What is guaranteed asset protection (GAP) insurance?</a></li>
+<li>Federal Trade Commission: <a href="https://consumer.ftc.gov/articles/buying-or-leasing-car">Buying or leasing a car</a></li>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-aut-pp-consumer-auto.pdf">A consumer's guide to auto insurance (PDF)</a></li>
+</ul>
+<p><em>All numbers are hypothetical. General information only, not insurance or financial advice.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/guy-man-F2QIF4C8DI">Guy Man</a> by Negative Space (CC0); photo: <a href="https://stocksnap.io/photo/parked-car-SO9NFKOQ9W">Parked Car</a> by Bob Richards (CC0). Charts by the author.</small></p>

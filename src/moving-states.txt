@@ -1,0 +1,224 @@
+<p>Moving to a new state means a long list of paperwork, and car insurance tends to fall through the cracks. It shouldn't. Your current policy was priced and written for your old state's rules. Once you live somewhere else, you usually need a policy that meets the new state's requirements, a new registration, and a new driver's license, each on its own deadline. Get the order wrong and you can end up driving uninsured, paying for two policies, or tripping a registration problem in your old state.</p>
+<p>This guide lays out the sequence, the deadlines to watch, how premiums can change between states, and a week-by-week checklist.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/moving-states-hero.jpg" alt="Highway Road" width="1200" height="675" loading="lazy"><figcaption>A move across state lines changes the rules your car insurance has to meet, not just the address on the policy.</figcaption></figure>
+
+<h2>Why you can't just update the address</h2>
+<p>Auto insurance is regulated state by state. Each state sets its own:</p>
+<ul>
+<li><strong>Minimum liability limits</strong> (some much higher than others)</li>
+<li><strong>Required coverages,</strong> such as personal injury protection (PIP) in no-fault states or uninsured motorist coverage in others</li>
+<li><strong>Rating rules,</strong> such as whether insurers may use credit, gender, or other factors</li>
+<li><strong>Forms and filings,</strong> which means the policy document itself is state-specific</li>
+</ul>
+<p>Your insurer may be able to write a new policy in your new state, but it's usually a new policy, not an address change. Some insurers don't operate in every state at all.</p>
+<h2>The three deadlines</h2>
+<p>After you establish residency, states typically give new residents a set window to:</p>
+<ol>
+<li><strong>Get a driver's license</strong> in the new state, often somewhere from 10 to 90 days depending on the state.</li>
+<li><strong>Register the car,</strong> often within a similar window.</li>
+<li><strong>Carry insurance that meets the new state's requirements,</strong> which in practice you need <em>before</em> you can register.</li>
+</ol>
+<p>Check your new state's motor vehicle agency website for exact deadlines. They vary widely, and some start counting from the day you move, start a job, or enroll children in school.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/moving-states-timeline.png" alt="Timeline showing the order of steps when moving states: quote new policy, start new policy, register car and get license, cancel old policy and old registration" width="1200" height="672" loading="lazy"><figcaption>The order that avoids gaps and overlaps. Start the new policy before you register, and cancel the old one only after the new one is active.</figcaption></figure>
+
+<h2>The order that avoids gaps</h2>
+<ol>
+<li><strong>Before the move:</strong> get quotes for the new state. Ask your current insurer and at least two others. Note the new state's minimums and required coverages.</li>
+<li><strong>On or right after move day:</strong> start the new policy with an effective date that matches when you'll be living and garaging the car in the new state.</li>
+<li><strong>Within the deadlines:</strong> register the car and get your new license. The DMV will usually require proof of insurance from the new state.</li>
+<li><strong>After the new policy is active:</strong> cancel the old policy, effective the same day or the day after the new one starts. Ask about a prorated refund.</li>
+<li><strong>Return or surrender old plates</strong> if your old state requires it. Some states suspend a registration when insurance is cancelled, so canceling insurance before turning in plates can trigger a notice or fine.</li>
+</ol>
+<h2>How your premium might change</h2>
+<p>Premiums can move a lot between states, and even within a state between cities. A few reasons:</p>
+<ul>
+<li><strong>Required coverages differ.</strong> Moving into a no-fault state adds PIP. Moving into a state with high minimums raises the liability cost.</li>
+<li><strong>Claims costs differ.</strong> Medical costs, repair labor rates, litigation rates, theft rates, and weather all vary.</li>
+<li><strong>Density matters.</strong> Urban ZIP codes usually cost more than rural ones.</li>
+</ul>
+<figure><img src="https://jd221182-hue.github.io/media/f/moving-states-minimums.png" alt="Bar chart comparing hypothetical state minimum bodily injury liability per person across several example states, ranging from low to high" width="1200" height="672" loading="lazy"><figcaption>State minimum liability limits vary widely. Example figures for illustration; check your new state's current requirements.</figcaption></figure>
+
+<p>A hypothetical driver moving from a low-cost rural ZIP code to a dense metro area in a no-fault state might see a premium change like this:</p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Old state</th>
+<th>New state</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Liability (same 100/300/100 limits)</td>
+<td>$520</td>
+<td>$760</td>
+<td>Higher claim costs in the new metro area</td>
+</tr>
+<tr>
+<td>PIP (required in new state)</td>
+<td>$0</td>
+<td>$310</td>
+<td>New required coverage</td>
+</tr>
+<tr>
+<td>Collision</td>
+<td>$430</td>
+<td>$560</td>
+<td>Higher repair labor rates</td>
+</tr>
+<tr>
+<td>Comprehensive</td>
+<td>$140</td>
+<td>$190</td>
+<td>Higher theft rates</td>
+</tr>
+<tr>
+<td>Uninsured motorist</td>
+<td>$90</td>
+<td>$120</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Annual total</strong></td>
+<td><strong>$1,180</strong></td>
+<td><strong>$1,940</strong></td>
+<td><strong>+64%</strong></td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/moving-states-premium.png" alt="Grouped bar chart comparing annual premium components in an old state and a new state for the same driver and car" width="1200" height="672" loading="lazy"><figcaption>Same driver, same car, new state. Hypothetical figures showing how each coverage line can change.</figcaption></figure>
+
+<p>The reverse also happens: moving from a high-cost metro to a lower-cost area can cut premiums sharply.</p>
+<h2>Ways to keep the new premium down</h2>
+<ul>
+<li><strong>Shop at least three insurers</strong> in the new state. Rankings change from state to state.</li>
+<li><strong>Keep your continuous coverage.</strong> Avoid even a one-day lapse; a gap in coverage can raise rates for years.</li>
+<li><strong>Ask for your driving history</strong> (a loss-history report or proof of prior insurance) so the new insurer credits your claim-free years.</li>
+<li><strong>Bundle with renters or homeowners insurance</strong> in the new place.</li>
+<li><strong>Review your deductibles</strong> and whether older cars still need collision.</li>
+<li><strong>Update your annual mileage.</strong> A shorter commute can lower the rate.</li>
+</ul>
+<figure><img src="https://jd221182-hue.github.io/media/f/moving-states-inline.jpg" alt="Road Highway" width="1200" height="675" loading="lazy"><figcaption>Movers pack the boxes, but the paperwork on the car is yours.</figcaption></figure>
+
+<h2>Special situations</h2>
+<p><strong>Students and military members.</strong> College students who keep their permanent address in their home state, and active-duty service members stationed elsewhere, often don't have to change their insurance state the way other movers do. Rules vary; ask your insurer and check the state's rules for students or military personnel.</p>
+<p><strong>Two homes.</strong> If you split time between states, insurers generally want the policy written where the car is principally garaged. Be accurate. Misstating the garaging address to get a lower rate can void coverage for a claim.</p>
+<p><strong>Leased or financed cars.</strong> Tell the lender or leasing company about the move. They'll need the new registration and insurance information, and leased cars sometimes need the lessor's paperwork to register in a new state.</p>
+<p><strong>Moving the car on a truck or carrier.</strong> Your auto policy may or may not cover the car while it's being shipped. The carrier's insurance is usually primary during transport. Document the car's condition with photos before pickup.</p>
+<h2>Week-by-week checklist</h2>
+<table>
+<thead>
+<tr>
+<th>When</th>
+<th>Task</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4 weeks before</td>
+<td>Look up the new state's minimums, required coverages, and license/registration deadlines</td>
+</tr>
+<tr>
+<td>3 weeks before</td>
+<td>Get quotes from your current insurer and at least two others</td>
+</tr>
+<tr>
+<td>2 weeks before</td>
+<td>Choose a policy; set the start date for the day you'll garage the car in the new state</td>
+</tr>
+<tr>
+<td>Move week</td>
+<td>Confirm the new policy is active; keep proof of insurance in the car</td>
+</tr>
+<tr>
+<td>Weeks 1 to 4 after</td>
+<td>Get your new license and register the car</td>
+</tr>
+<tr>
+<td>After registration</td>
+<td>Cancel the old policy (effective after the new one starts); request a prorated refund</td>
+</tr>
+<tr>
+<td>After registration</td>
+<td>Surrender or return old plates if your old state requires it</td>
+</tr>
+</tbody>
+</table>
+<h2>What changes in the policy itself</h2>
+<p>When you get a new policy in a new state, compare these line by line against your old one:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>What to check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Liability limits</td>
+<td>Meet or exceed the new state's minimums; keep your previous limits if they were higher</td>
+</tr>
+<tr>
+<td>PIP or med pay</td>
+<td>Required in no-fault states; options differ</td>
+</tr>
+<tr>
+<td>UM/UIM</td>
+<td>Required in some states, optional (with written rejection) in others</td>
+</tr>
+<tr>
+<td>Stacking</td>
+<td>Some states allow UM/UIM limits to stack across multiple cars</td>
+</tr>
+<tr>
+<td>Rental and roadside</td>
+<td>Same as before?</td>
+</tr>
+<tr>
+<td>Discounts</td>
+<td>Re-apply for multi-policy, safe driver, telematics, good student, and paid-in-full</td>
+</tr>
+<tr>
+<td>Named drivers</td>
+<td>Everyone in the new household who drives</td>
+</tr>
+<tr>
+<td>Garaging address</td>
+<td>The new address where the car is kept overnight</td>
+</tr>
+</tbody>
+</table>
+<h2>No-fault vs. at-fault states</h2>
+<p>About a dozen states use some form of <strong>no-fault</strong> system, where your own personal injury protection pays your medical bills after a crash regardless of who caused it, and the right to sue the other driver is restricted unless injuries pass a threshold. Most other states are <strong>at-fault</strong> (tort) states, where the at-fault driver's liability coverage pays.</p>
+<p>Moving between these systems changes what you need:</p>
+<ul>
+<li><strong>Into a no-fault state:</strong> expect required PIP, which adds to the premium. Choose PIP limits carefully; in some states options affect how your health insurance coordinates.</li>
+<li><strong>Out of a no-fault state:</strong> PIP may no longer be required, but medical payments coverage and strong UM/UIM become more important.</li>
+</ul>
+<h2>Don't forget the other policies</h2>
+<p>A move affects more than car insurance:</p>
+<ul>
+<li><strong>Homeowners or renters insurance</strong> for the new home should start the day you take possession or sign the lease, and moving coverage for belongings in transit should be confirmed.</li>
+<li><strong>Umbrella policy:</strong> update the address and confirm your new auto limits still meet its requirements.</li>
+<li><strong>Health insurance:</strong> some plans are state- or network-specific; a move can be a qualifying life event for marketplace coverage.</li>
+</ul>
+<h2>A sample conversation with your current insurer</h2>
+<blockquote>
+<p>I'm moving from [old state] to [new state] on [date]. Can you write a policy in [new state]? If so, I'd like a quote with the same limits I have now, plus anything the new state requires. Please also tell me how cancellation and any refund work on my current policy, and whether my claim-free history and discounts carry over.</p>
+</blockquote>
+<p>If they can't write in your new state, ask for a <strong>letter of experience</strong> or proof of prior coverage showing how long you've been continuously insured and your claims history. New insurers often use it to rate you.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Can I keep my old policy for a while after moving?</strong>
+Briefly, often yes, while you set up the new one. But once you're a resident of the new state, a policy written for your old state may not meet the new state's requirements or may not cover you as expected. Don't wait past the registration deadline.</p>
+<p><strong>Will my old insurer refund the unused premium?</strong>
+Usually yes, on a prorated basis, though some insurers charge a small cancellation fee. Ask before you cancel.</p>
+<p><strong>What happens if I let my old registration lapse without canceling properly?</strong>
+Some states send notices or charge fees when insurance on a registered vehicle ends. Surrender the plates or follow the state's process for vehicles leaving the state.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>Insurance Information Institute: <a href="https://www.iii.org/automobile-financial-responsibility-laws-by-state">Automobile financial responsibility laws by state</a></li>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-aut-pp-consumer-auto.pdf">A consumer's guide to auto insurance (PDF)</a></li>
+<li>USA.gov: <a href="https://www.usa.gov/state-motor-vehicle-services">Motor vehicle services by state</a></li>
+</ul>
+<p><em>All figures are hypothetical. General information only, not insurance or legal advice. Requirements change; confirm with your new state's DMV and insurance department.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/highway-road-AOEI2XN99G">Highway Road</a> by Markus Spiske (CC0); photo: <a href="https://stocksnap.io/photo/road-highway-CEDC5278FB">Road Highway</a> by Alexandr Schwarz (CC0). Charts by the author.</small></p>

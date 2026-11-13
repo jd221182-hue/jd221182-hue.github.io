@@ -1,0 +1,277 @@
+<p>Collision coverage pays to repair your own car after a crash, no matter who's at fault. On a new car it's essential. On a 14-year-old sedan worth $3,500, it can quietly cost more over a few years than it could ever pay out. The trick is knowing where the crossover is for <em>your</em> car, because a rule of thumb that works for one driver can be wrong for another.</p>
+<p>This guide lays out the math in three steps, shows how the numbers change as a car ages, and covers the situations where you should keep collision even when the math says drop it.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/drop-collision-hero.jpg" alt="Things Items" width="1200" height="675" loading="lazy"><figcaption>Older cars lose value every year, but the cost of insuring them against collision doesn't fall as fast.</figcaption></figure>
+
+<h2>What collision actually pays</h2>
+<p>The most collision can ever pay is the car's <strong>actual cash value (ACV)</strong> minus your <strong>deductible</strong>. If your car is worth $3,500 and your deductible is $1,000, the maximum collision payout is $2,500, and that's only if the car is totaled. Smaller crashes pay less.</p>
+<p>That maximum shrinks every year as the car depreciates, while the premium for collision often falls much more slowly. That's where the crossover comes from.</p>
+<h2>Step 1: Find the maximum payout</h2>
+<p>Look up your car's private-party value on a pricing guide or by checking local listings for the same year, make, model, trim, and similar mileage. Subtract your collision deductible.</p>
+<p><strong>Maximum payout = car value − deductible</strong></p>
+<h2>Step 2: Compare it with what collision costs you</h2>
+<p>Ask your insurer (or check your declarations page) for the collision portion of your premium. It's usually listed separately. Then compare:</p>
+<table>
+<thead>
+<tr>
+<th>Car value</th>
+<th>Deductible</th>
+<th>Max payout</th>
+<th>Collision premium per year</th>
+<th>Premium as % of max payout</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$18,000</td>
+<td>$500</td>
+<td>$17,500</td>
+<td>$620</td>
+<td>3.5%</td>
+</tr>
+<tr>
+<td>$10,000</td>
+<td>$500</td>
+<td>$9,500</td>
+<td>$540</td>
+<td>5.7%</td>
+</tr>
+<tr>
+<td>$6,000</td>
+<td>$500</td>
+<td>$5,500</td>
+<td>$470</td>
+<td>8.5%</td>
+</tr>
+<tr>
+<td>$4,000</td>
+<td>$1,000</td>
+<td>$3,000</td>
+<td>$410</td>
+<td>13.7%</td>
+</tr>
+<tr>
+<td>$2,500</td>
+<td>$1,000</td>
+<td>$1,500</td>
+<td>$380</td>
+<td>25.3%</td>
+</tr>
+</tbody>
+</table>
+<p>A common rule of thumb says to consider dropping collision when the yearly premium exceeds about <strong>10% of the car's value</strong>. That's a reasonable starting point, but the next step is what actually decides it.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/drop-collision-crossover.png" alt="Line chart showing a car's value falling over 15 years while the annual collision premium falls slowly, with the crossover point where premium exceeds 10 percent of the maximum payout" width="1200" height="672" loading="lazy"><figcaption>Car value falls faster than the collision premium. The shaded zone is where collision is costing more than 10% of what it could pay.</figcaption></figure>
+
+<h2>Step 3: Ask how long until the premiums equal a total loss</h2>
+<p>The cleaner question is: <strong>how many years of collision premiums would it take to equal the most the coverage could ever pay?</strong></p>
+<p><strong>Years to break even = max payout ÷ annual collision premium</strong></p>
+<p>For the $4,000 car: $3,000 ÷ $410 ≈ <strong>7.3 years</strong>. If you'd go 7 years without a collision you caused, you'd have been better off putting that premium in savings. For the $2,500 car, it's about <strong>3.9 years</strong>, and the car will keep losing value during those years, so the true break-even is even shorter.</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/drop-collision-breakeven.png" alt="Bar chart of years of premiums needed to equal the maximum collision payout for cars worth $18,000, $10,000, $6,000, $4,000, and $2,500" width="1200" height="672" loading="lazy"><figcaption>Years of collision premiums that add up to the maximum the coverage could ever pay. The shorter the bar, the weaker the case for keeping collision.</figcaption></figure>
+
+<h2>What about the odds of a crash?</h2>
+<p>Break-even years assume a total loss. Most at-fault crashes on older cars are partial repairs, and many repair bills on older cars would exceed the car's value anyway, which turns them into total losses at ACV. A rough way to think about it:</p>
+<p><strong>Expected yearly collision benefit ≈ probability of an at-fault collision claim × average payout</strong></p>
+<p>If your chance of an at-fault collision claim in a year is, say, 5%, and the average payout on your old car would be $2,000 after the deductible, the expected benefit is about <strong>$100 a year</strong>. If you're paying $410 for that, the coverage is priced at about four times its expected value. Insurance is supposed to cost more than its expected value, since you're paying for protection against a big loss. The real question is whether losing the car would be a big loss <em>for you</em>.</p>
+<h2>The question that actually decides it</h2>
+<p><strong>Could you replace the car, or live without it for a while, if you totaled it tomorrow?</strong></p>
+<ul>
+<li>If you have savings that would cover a comparable replacement without hardship, dropping collision is usually reasonable once the math tilts.</li>
+<li>If losing the car would mean missing work and you have no cushion, keeping collision can still make sense, even on an older car, because you're paying to avoid a financial shock.</li>
+</ul>
+<p>A middle path is raising the collision deductible. Going from $500 to $1,000 or $1,500 lowers the premium and keeps protection against a total loss.</p>
+<h2>Don't drop comprehensive by accident</h2>
+<p>Collision and comprehensive are separate. <strong>Comprehensive</strong> covers theft, hail, flood, fire, vandalism, falling objects, and hitting an animal. It's often much cheaper than collision on an older car, and some risks it covers (theft of older models, hail, deer strikes) don't care how old the car is. Consider each one separately.</p>
+<table>
+<thead>
+<tr>
+<th>Coverage</th>
+<th>Covers</th>
+<th>Often worth keeping on an older car?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Collision</td>
+<td>Crashes with another car or object, rollovers</td>
+<td>Depends on the math above</td>
+</tr>
+<tr>
+<td>Comprehensive</td>
+<td>Theft, weather, fire, vandalism, animals, glass</td>
+<td>Often yes, if cheap relative to value</td>
+</tr>
+<tr>
+<td>Liability</td>
+<td>Damage and injuries you cause to others</td>
+<td>Always required, keep high limits</td>
+</tr>
+<tr>
+<td>Uninsured/underinsured motorist</td>
+<td>Your injuries (and in some states, car damage) caused by an uninsured driver</td>
+<td>Usually yes</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="https://jd221182-hue.github.io/media/f/drop-collision-inline.jpg" alt="Speedometer Car" width="1200" height="675" loading="lazy"><figcaption>Before you change coverage, check what your car is actually selling for in your area.</figcaption></figure>
+
+<h2>When to keep collision even on an older car</h2>
+<ul>
+<li><strong>You have a loan or lease.</strong> The lender almost certainly requires it.</li>
+<li><strong>The car is worth more than guides suggest.</strong> Low-mileage, well-kept cars, popular trucks, and models in short supply can be worth more than typical depreciation predicts.</li>
+<li><strong>You can't absorb the loss.</strong> See above.</li>
+<li><strong>You're a newer or higher-risk driver in the household.</strong> If someone in the house is more likely to have an at-fault crash, the expected value changes.</li>
+</ul>
+<h2>How to make the change</h2>
+<ol>
+<li>Get the collision and comprehensive premiums separately from your insurer.</li>
+<li>Price your car using at least two sources.</li>
+<li>Run steps 1 to 3 above.</li>
+<li>If you drop collision, consider putting the premium savings into a car-replacement fund. After a few years it becomes your own collision coverage.</li>
+<li>Re-check every year at renewal. The math changes as the car ages.</li>
+</ol>
+<p>For a longer walkthrough with more examples, including when to drop comprehensive too, see this guide on <a href="https://vistacover.com/guides/when-to-drop-collision-and-comprehensive/">when to drop collision and comprehensive coverage</a>.</p>
+<h2>The self-insurance fund, modeled</h2>
+<p>If you drop collision on the $4,000 car and save the $410 premium every year in a savings account, here's how the fund grows compared with the car's value:</p>
+<figure><img src="https://jd221182-hue.github.io/media/f/drop-collision-fund.png" alt="Line chart comparing a growing self-insurance savings fund with a car's declining value over six years" width="1200" height="672" loading="lazy"><figcaption>After a few years, the money you set aside is worth more than the car. At that point you're effectively insured against its loss by your own savings.</figcaption></figure>
+
+<p>By year 3, the fund roughly matches what collision could have paid on a total loss. By year 5, it's worth more than the car.</p>
+<h2>Three drivers, three different answers</h2>
+<p>The same car can deserve different decisions for different households. Here are three hypothetical owners of an identical 12-year-old sedan worth $5,000, each paying $440 a year for collision with a $500 deductible:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Driver 1</th>
+<th>Driver 2</th>
+<th>Driver 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Emergency savings</td>
+<td>$25,000</td>
+<td>$1,500</td>
+<td>$8,000</td>
+</tr>
+<tr>
+<td>Other car in household?</td>
+<td>Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Commute</td>
+<td>Works from home</td>
+<td>40 miles a day, no transit</td>
+<td>12 miles, bus available</td>
+</tr>
+<tr>
+<td>At-fault claims in the last 5 years</td>
+<td>None</td>
+<td>None</td>
+<td>One</td>
+</tr>
+<tr>
+<td><strong>Reasonable choice</strong></td>
+<td><strong>Drop collision</strong></td>
+<td><strong>Keep collision, raise deductible to $1,000</strong></td>
+<td><strong>Keep for one more year, then reassess</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Driver 1 could replace the car from savings and has a second car to use meanwhile, so a total loss would be an inconvenience, not a crisis. Driver 2 depends on the car to earn a living and couldn't replace it, so the "overpriced" coverage is doing real work. Driver 3 is in between: a recent claim suggests a higher chance of another, and modest savings would cover part of a replacement.</p>
+<h2>How to price your car accurately</h2>
+<p>The whole calculation hinges on the car's value, and people routinely misjudge it in both directions. A few ways to get it right:</p>
+<ul>
+<li><strong>Check two or three pricing guides</strong> using the exact trim, options, mileage, and condition. Use the <em>private party</em> value for planning, but remember an insurer pays actual cash value, which often lands near dealer retail for comparable cars in your area.</li>
+<li><strong>Search local listings</strong> for the same year, model, and trim within about 100 miles. Five comparable listings tell you more than any single guide.</li>
+<li><strong>Be honest about condition.</strong> Dents, worn interiors, and warning lights lower value; recent tires, brakes, and service records raise it.</li>
+<li><strong>Remember regional swings.</strong> Trucks, all-wheel-drive cars, and fuel-efficient models can be worth noticeably more in some markets.</li>
+</ul>
+<h2>Common mistakes</h2>
+<table>
+<thead>
+<tr>
+<th>Mistake</th>
+<th>Why it costs you</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dropping comprehensive along with collision</td>
+<td>Comprehensive is often cheap and covers theft, hail, and animal strikes that don't depend on your driving</td>
+</tr>
+<tr>
+<td>Using the purchase price instead of today's value</td>
+<td>Overstates what collision could pay</td>
+</tr>
+<tr>
+<td>Forgetting the deductible</td>
+<td>Max payout is value <strong>minus</strong> deductible</td>
+</tr>
+<tr>
+<td>Dropping collision with a loan still open</td>
+<td>Violates the loan agreement; the lender may buy expensive force-placed coverage and bill you</td>
+</tr>
+<tr>
+<td>Never revisiting the decision</td>
+<td>The math changes every year as the car ages and premiums shift</td>
+</tr>
+<tr>
+<td>Not saving the difference</td>
+<td>Without a fund, a total loss becomes a financial shock</td>
+</tr>
+</tbody>
+</table>
+<h2>Collision vs. the deductible: a middle path</h2>
+<p>If dropping collision feels too risky, raising the deductible captures part of the savings. Hypothetically, on the $5,000 car above:</p>
+<table>
+<thead>
+<tr>
+<th>Deductible</th>
+<th>Annual collision premium</th>
+<th>Max payout</th>
+<th>Years of premium to equal max payout</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$500</td>
+<td>$440</td>
+<td>$4,500</td>
+<td>10.2</td>
+</tr>
+<tr>
+<td>$1,000</td>
+<td>$360</td>
+<td>$4,000</td>
+<td>11.1</td>
+</tr>
+<tr>
+<td>$1,500</td>
+<td>$310</td>
+<td>$3,500</td>
+<td>11.3</td>
+</tr>
+<tr>
+<td>No collision</td>
+<td>$0</td>
+<td>$0</td>
+<td>n/a</td>
+</tr>
+</tbody>
+</table>
+<p>Raising the deductible doesn't change the break-even much, but it cuts the yearly cost while still protecting against a total loss. It's a sensible step for drivers who aren't ready to self-insure.</p>
+<h2>Frequently asked questions</h2>
+<p><strong>Will dropping collision raise my other premiums?</strong>
+Generally no. It removes one coverage. Some insurers have package discounts, so ask for a quote of the full policy before and after.</p>
+<p><strong>If someone else hits me, do I still get paid?</strong>
+Yes. The at-fault driver's liability insurance should pay for your car. If they're uninsured, uninsured motorist property damage coverage (available in some states) or collision would be the backup.</p>
+<p><strong>Can I add collision back later?</strong>
+Usually yes, though the insurer may want to inspect the car first.</p>
+<h3>Sources and further reading</h3>
+<ul>
+<li>National Association of Insurance Commissioners: <a href="https://content.naic.org/sites/default/files/publication-aut-pp-consumer-auto.pdf">A consumer's guide to auto insurance (PDF)</a></li>
+<li>Insurance Information Institute: <a href="https://www.iii.org/article/what-covered-basic-auto-insurance-policy">What is covered by a basic auto policy</a></li>
+<li>Your state insurance department's auto insurance consumer guide</li>
+</ul>
+<p><em>All premiums and values are hypothetical. General information only, not insurance advice.</em></p><p><small>Photo: <a href="https://stocksnap.io/photo/things-items-5RWAYTWT5F">Things Items</a> by Christopher Windus (CC0); photo: <a href="https://stocksnap.io/photo/speedometer-car-OOQKOP7VK2">Speedometer Car</a> by Travis Soule (CC0). Charts by the author.</small></p>
