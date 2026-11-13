@@ -1,0 +1,165 @@
+Brokerage apps show a return number, but if you've been adding money at random times, a simple "gain divided by deposits" figure is misleading. The right tool is the **money-weighted return**, the same thing spreadsheet users get from `XIRR`. This post explains what it measures, implements it from scratch in Python with no libraries, visualizes how the solver finds the answer, and covers the edge cases that break naive implementations.
+
+![Computer Desk](https://jd221182-hue.github.io/media/f/xirr-hero.jpg)
+*A money-weighted return answers one question: how did my money do, given when I actually put it in?*
+
+## The problem
+
+Say you deposited:
+
+- $5,000 on Jan 1
+- $3,000 on Jul 1
+- $2,000 on Oct 1
+
+and on Dec 31 the account is worth $10,900. You put in $10,000 and gained $900. Is that 9%? No. Most of the money wasn't invested for the whole year, so the annualized return is higher.
+
+![Timeline chart of three deposits during a year and the ending account value, drawn as bars below and above a zero line](https://jd221182-hue.github.io/media/f/xirr-flows.png)
+*The cash flows, from the investor's point of view: deposits are money out (negative), the ending value is money you could take back (positive).*
+
+## The definition
+
+XIRR finds the annual rate `r` that makes the net present value of all cash flows equal zero:
+
+```
+sum( CF_i / (1 + r) ^ ((d_i - d_0) / 365) ) = 0
+```
+
+Deposits are negative (money out of your pocket), and the ending value is positive (money you could take out). It's the same idea as an internal rate of return (IRR), except the cash flows happen on arbitrary dates instead of evenly spaced periods.
+
+## Visualizing the root
+
+Plot the net present value of the flows against the discount rate. The money-weighted return is where the curve crosses zero.
+
+![Curve of net present value against annual discount rate for the example cash flows, crossing zero at about 13 percent](https://jd221182-hue.github.io/media/f/xirr-npv.png)
+*NPV as a function of the rate. XIRR is the rate where the curve crosses zero: about 13.0% for this example.*
+
+Because NPV falls steadily as the rate rises for a "deposits first, value at the end" pattern, there's exactly one crossing, and a simple bracketing search will find it.
+
+## The code
+
+No libraries, just a bisection search:
+
+```python
+from datetime import date
+
+def xnpv(rate, flows):
+    d0 = flows[0][0]
+    return sum(cf / (1 + rate) ** ((d - d0).days / 365) for d, cf in flows)
+
+def xirr(flows, lo=-0.99, hi=10.0, tol=1e-10):
+    # bisection: robust, and fast enough for personal-finance sizes
+    f_lo, f_hi = xnpv(lo, flows), xnpv(hi, flows)
+    if f_lo * f_hi > 0:
+        raise ValueError("no sign change; check your cash flows")
+    for _ in range(200):
+        mid = (lo + hi) / 2
+        f_mid = xnpv(mid, flows)
+        if abs(f_mid) < tol:
+            return mid
+        if f_lo * f_mid < 0:
+            hi, f_hi = mid, f_mid
+        else:
+            lo, f_lo = mid, f_mid
+    return mid
+
+flows = [
+    (date(2025, 1, 1), -5000),
+    (date(2025, 7, 1), -3000),
+    (date(2025, 10, 1), -2000),
+    (date(2025, 12, 31), 10900),
+]
+print(f"{xirr(flows):.2%}")
+```
+
+## Output
+
+```
+13.01%
+```
+
+The annualized money-weighted return is about **13%**, not 9%. The later deposits had less time to earn, so the same $900 gain represents a higher rate.
+
+## How fast does bisection converge?
+
+Bisection halves the bracket every iteration, so the error shrinks by a factor of two each step. Starting from a bracket of about 11 (from −99% to +1000%), the example above stops after 48 iterations, when the NPV is within $0.0000000001 of zero.
+
+![Log-scale line chart showing the bracket width and absolute error of the bisection search shrinking with each iteration](https://jd221182-hue.github.io/media/f/xirr-converge.png)
+*Bisection convergence on a log scale: slow but guaranteed. Each step halves the uncertainty.*
+
+Newton's method converges faster (quadratically near the root), but it needs a derivative and can overshoot or diverge on unusual cash flows. A common production approach is to try Newton from a reasonable guess and fall back to bisection if it fails. For a personal script, bisection alone is fine.
+
+### Optional: a Newton step
+
+```python
+def dxnpv(rate, flows):
+    d0 = flows[0][0]
+    return sum(-((d - d0).days / 365) * cf / (1 + rate) ** ((d - d0).days / 365 + 1)
+               for d, cf in flows)
+
+def xirr_newton(flows, guess=0.1, tol=1e-12, max_iter=50):
+    r = guess
+    for _ in range(max_iter):
+        f, df = xnpv(r, flows), dxnpv(r, flows)
+        if df == 0:
+            break
+        step = f / df
+        r -= step
+        if abs(step) < tol:
+            return r
+    return xirr(flows)  # fall back to bisection
+```
+
+## Money-weighted vs. time-weighted
+
+Fund companies usually report **time-weighted** returns, which strip out the effect of when money was added or withdrawn. That's the right way to judge a fund manager, who doesn't control your deposits. **Money-weighted** returns (XIRR) answer a different question: how did *your* money do, given when you actually put it in?
+
+The two can differ a lot. Here's a hypothetical fund that drops 20% in the first half of a year and gains 30% in the second half, for two investors:
+
+| | Investor A | Investor B |
+|---|---|---|
+| Jan 1 deposit | $10,000 | $10,000 |
+| Jul 1 action | Adds $10,000 after the drop | Withdraws $4,000 after the drop |
+| Dec 31 value | $23,400 | $5,200 |
+| Time-weighted return (the fund's) | +4.0% | +4.0% |
+| Money-weighted return (XIRR) | about +23.1% | about −10.1% |
+
+![Grouped bar chart comparing time-weighted and money-weighted returns for two investors in the same fund with different deposit timing](https://jd221182-hue.github.io/media/f/xirr-mwr.png)
+*Same fund, same time-weighted return, very different money-weighted results. Timing decisions show up in XIRR.*
+
+Investor A added money at the bottom and beat the fund. Investor B pulled money out at the bottom and missed the recovery. If you tend to buy after prices rise and sell after they fall, your XIRR can come in well below the fund's published return.
+
+## Edge cases to handle
+
+- **Multiple sign changes** (deposits, withdrawals, deposits) can produce more than one mathematical solution. Bisection over a sensible range usually finds the economically meaningful one; it's worth plotting NPV if results look odd.
+- **No sign change** means there's no solution: for example, all flows are negative. Raise a clear error instead of returning garbage.
+- **Very short periods** annualize wildly. A 2% gain in two weeks becomes a huge annual rate. Consider reporting the raw period return for holdings under a year.
+- **Fees and dividends:** count fees already taken out of the balance as part of the ending value, and don't double-count reinvested dividends as deposits.
+- **Day count:** spreadsheets typically use actual days divided by 365. Using 365.25 changes results slightly; be consistent if you compare with spreadsheet output.
+
+![Office Work](https://jd221182-hue.github.io/media/f/xirr-inline.jpg)
+*A few dozen lines of Python replace a spreadsheet function and make every assumption visible.*
+
+## Testing against a known answer
+
+A quick sanity check: one deposit and one withdrawal exactly one year apart should return the simple growth rate.
+
+```python
+assert abs(xirr([(date(2025,1,1), -1000), (date(2026,1,1), 1070)]) - 0.07) < 1e-9
+```
+
+And two years at 7% should also give 7%:
+
+```python
+assert abs(xirr([(date(2025,1,1), -1000), (date(2027,1,1), 1000 * 1.07 ** (730/365))]) - 0.07) < 1e-9
+```
+
+## Extending it
+
+- Read cash flows from a CSV export from your brokerage.
+- Compute XIRR per account and for all accounts combined.
+- Compare your XIRR against a benchmark: run your exact deposit dates and amounts through an index fund's historical prices, and compute that XIRR too. The difference is the cost (or benefit) of your fund choices.
+
+*Example numbers are hypothetical. Not investment advice.*
+
+
+<small>Photos (CC0): [Computer Desk](https://stocksnap.io/photo/computer-desk-GVYM0DWG9D) by Anita Peeples; [Office Work](https://stocksnap.io/photo/office-work-WRO65AZI5C) by WDnet Studio. Charts by the author.</small>
